@@ -56,5 +56,13 @@ If you have any suggestions as the book is being developed please [create a tick
 * [Watch Videos by Noah Gift](https://www.noahgift.com/videos/latest/)
 
 ### Kennedy Behrman
+
+* [Kennedy Behrman Linkedin](https://www.linkedin.com/in/kennedybehrman/)
+
 ### Alfredo Deza
+
+* [Alfredo Deza](https://www.alfredodeza.com/)
+
 ### Grig Gheorghiu
+
+* [Grig Gheorghiu](https://www.linkedin.com/in/ggheorghiu/)

@@ -44,3 +44,17 @@ Building, deploying, and operationalizing a machine learning project
 
 If you have any suggestions as the book is being developed please [create a ticket](https://github.com/paiml/python_devops_book/issues) and let us know!  Thanks for helping make this an incredible book.
 
+## Contact Authors
+
+### Noah Gift
+
+* [Noah Gift Website](https://noahgift.com)
+* [Noah Gift Linkedin](https://www.linkedin.com/in/noahgift)
+* [Sign up for Pragmatic Labs Mailing List](https://newsletter.paiml.com/social)
+* [Read other books by Noah Gift](https://www.noahgift.com/books/latest/)
+* [Take courses by Noah Gift](https://www.noahgift.com/courses/latest/)
+* [Watch Videos by Noah Gift](https://www.noahgift.com/videos/latest/)
+
+### Kennedy Behrman
+### Alfredo Deza
+### Grig Gheorghiu

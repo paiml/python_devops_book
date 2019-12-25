@@ -1,10 +1,12 @@
 # Python For DevOps: Learn Ruthlessly Effective Automation
-#### Publisher:  O'Reilly Media
+#### Publisher:  [O'Reilly Media](http://shop.oreilly.com/product/0636920274902.do)
 #### Release Date:  December 31st, 2019
 
 ![Python for Unix and Linux System Administration](https://www.noahgift.com/img/python_devops.png)
 * [Buy a Physical Copy from Amazon](https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation-dp-149205769X/dp/149205769X)
 * [Buy a Kindle Copy from Amazon](https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation-ebook-dp-B082P97LDW/dp/B082P97LDW)
+* [Buy a Physical Copy from Barnes and Noble](https://www.barnesandnoble.com/w/python-for-devops-noah-gift/1132124390?ean=9781492057697#/)
+* [Buy a Nook Book Copy from Barnes and Noble](https://www.barnesandnoble.com/w/python-for-devops-noah-gift/1132124390?ean=9781492057642#/)
 * [Read Online](http://shop.oreilly.com/product/0636920274902.do)
 * [Download Source Code from Github](https://github.com/paiml/python_devops_book)
 * [Python for DevOps Website](https://pythondevops.com/)

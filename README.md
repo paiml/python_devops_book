@@ -11,6 +11,9 @@
 * [Download Source Code from Github](https://github.com/paiml/python_devops_book)
 * [Python for DevOps Website](https://pythondevops.com/)
 
+#### Build Status
+[![CircleCI](https://circleci.com/gh/paiml/python_devops_book.svg?style=svg)](https://circleci.com/gh/paiml/python_devops_book)
+
 ### Abstract
 Much has changed in technology over the past decade. Data is hot, the cloud is ubiquitous, and many organizations need some form of automation. Throughout these transformations, Python has become one of the most popular languages in the world. This practical resource shows you how to use Python for everyday Linux systems administration tasks with today’s most useful DevOps tools, including Docker, Kubernetes, and Terraform.
 

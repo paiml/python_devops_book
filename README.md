@@ -42,6 +42,10 @@ Building, deploying, and operationalizing a machine learning project
 12. Container Orchestration: Kubernetes
 13. Serverless Technologies
 14. MLOps and Machine learning Engineering
+
+* [Source](https://github.com/paiml/python_devops_book/tree/master/src/chap14) 
+* [Notes](notes/chap14.md)
+
 15. Data Engineering
 16. DevOps War Stories and Interviews
 

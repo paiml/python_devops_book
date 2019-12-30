@@ -63,7 +63,7 @@ A list of Frequently Asked Questions about the book:
 
 Updates on new material post book release.
 
-* [Addendum](https://github.com/paiml/python_devops_book/blob/master/docs/addendum.md
+* [Addendum](https://github.com/paiml/python_devops_book/blob/master/docs/addendum.md)
 
 ## Contact Authors
 

@@ -53,6 +53,18 @@ Building, deploying, and operationalizing a machine learning project
 
 If you have any suggestions as the book is being developed please [create a ticket](https://github.com/paiml/python_devops_book/issues) and let us know!  Thanks for helping make this an incredible book.
 
+## FAQ
+
+A list of Frequently Asked Questions about the book:
+
+* [FAQ](https://github.com/paiml/python_devops_book/blob/master/docs/faq.md)
+
+## Addendum
+
+Updates on new material post book release.
+
+* [Addendum](https://github.com/paiml/python_devops_book/blob/master/docs/addendum.md
+
 ## Contact Authors
 
 ### Noah Gift

@@ -1,5 +1,10 @@
 # Notes-Chapter 14:  MLOps and Machine learning engineering
 
+You may also want to few these projects:
+
+* [container-revolution github](https://github.com/noahgift/container-revolution-devops-microservices)
+* [Udacity DevOps Nanodegree:  Workflow referenced in course](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991)
+
 ## Packages and Software Referenced
 
 * [Hadolint](https://github.com/hadolint/hadolint)

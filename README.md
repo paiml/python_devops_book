@@ -45,7 +45,7 @@ Building, deploying, and operationalizing a machine learning project
 8. Pytest for DevOps
 9. Cloud Computing
 
-* [Source](
+* [Source](https://github.com/paiml/python_devops_book/tree/master/src/chap9)
 * [Notes](notes/chap9.md)
 
 10. Infrastructure as Code

@@ -44,6 +44,10 @@ Building, deploying, and operationalizing a machine learning project
 7. Monitoring and Logging
 8. Pytest for DevOps
 9. Cloud Computing
+
+* [Source](
+* [Notes](notes/chap9.md)
+
 10. Infrastructure as Code
 11. Container Technologies: Docker and Docker Compose
 12. Container Orchestration: Kubernetes

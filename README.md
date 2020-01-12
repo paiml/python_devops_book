@@ -31,9 +31,16 @@ Building, deploying, and operationalizing a machine learning project
 1. Python Essentials for DevOps
 2. Automating Files and the Filesystem
 3. Working with the Command Line
+
+* [Source Case Study](https://github.com/noahgift/nuclear_powered_command_line_tools)
+* [Notes](notes/chap3.md)
+
 4. Useful Linux Utilities
 5. Package Management
 6. Continuous Integration and Continuous Deployment
+
+* [Source](https://github.com/noahgift/hugotools)
+
 7. Monitoring and Logging
 8. Pytest for DevOps
 9. Cloud Computing

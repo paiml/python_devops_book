@@ -1,7 +1,7 @@
 alembic==0.8.5
 beautifulsoup4==4.4.1
 click==6.3
-Flask==0.10.1
+Flask==1.0
 Flask-Migrate==1.8.0
 Flask-Script==2.0.5
 Flask-SQLAlchemy==2.1

@@ -5,7 +5,7 @@ Flask==0.10.1
 Flask-Migrate==1.8.0
 Flask-Script==2.0.5
 Flask-SQLAlchemy==2.1
-gunicorn==19.4.5
+gunicorn==19.5.0
 itsdangerous==0.24
 Jinja2==2.8
 Mako==1.0.4

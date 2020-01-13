@@ -10,7 +10,7 @@ itsdangerous==0.24
 Jinja2==2.8
 Mako==1.0.4
 MarkupSafe==0.23
-nltk==3.2
+nltk==3.4.5
 psycopg2==2.7
 python-editor==0.5
 redis==3.2.1

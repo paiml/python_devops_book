@@ -1,0 +1,5 @@
+config:
+  aws:region: us-east-1
+  proj1:dns_zone_id: Z2FTL2X8M0EBTW
+  proj1:domain_name: www.devops4all.dev
+  proj1:local_webdir: www-prod

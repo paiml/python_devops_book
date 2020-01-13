@@ -1,0 +1,1 @@
+variable "domain_name" {}

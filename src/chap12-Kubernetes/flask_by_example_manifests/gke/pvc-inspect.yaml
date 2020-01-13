@@ -1,0 +1,17 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: pvc-inspect
+spec:
+  volumes:
+    - name: dbdata
+      persistentVolumeClaim:
+       claimName: dbdata
+  containers:
+    - name: debugger
+      image: busybox
+      command: ['sleep', '3600']
+      volumeMounts:
+        - mountPath: "/data"
+          name: dbdata
+

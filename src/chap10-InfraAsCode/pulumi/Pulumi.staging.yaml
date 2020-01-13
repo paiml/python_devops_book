@@ -1,0 +1,4 @@
+config:
+  aws:region: us-east-1
+  proj1:domain_name: staging.devops4all.dev
+  proj1:local_webdir: www-staging

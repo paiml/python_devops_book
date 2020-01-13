@@ -1,0 +1,26 @@
+language: node_js
+
+matrix:
+  include:
+    - node_js: '4'
+    - node_js: '6'
+    - node_js: '8'
+    - node_js: '10'
+    - node_js: '10'
+      env:
+        - DISABLE_TESTS=true
+        - LINTING=true
+
+sudo: false
+
+install:
+  - travis_retry npm install
+
+script:
+  - npm test
+
+script:
+  - if [[ ! -z "$DISABLE_TESTS" && ! -z "$LINTING" ]]; then npm run lint; fi
+
+after_success:
+  - ./node_modules/jest/bin/jest.js --coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage

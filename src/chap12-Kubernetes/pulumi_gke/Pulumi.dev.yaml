@@ -1,0 +1,5 @@
+config:
+  gcp:project: pythonfordevops-gke-pulumi
+  gcp:zone: us-west1-a
+  pythonfordevops-gke-pulumi:password:
+    secure: AAABAEhT3LeudQLALV2z2ZT1DzUTAq1oDQR1Kzarhx4xt/qb70AYHieA5XEeCRhFEmPpNg==

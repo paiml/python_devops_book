@@ -1,0 +1,312 @@
+{
+ "cli-aliases": {
+  "gui": {
+   "modules": {
+    "jmeter": {
+     "gui": true
+    }
+   }
+  }, 
+  "lint": {
+   "cli": {
+    "linter": {
+     "lint-and-exit": true
+    }
+   }
+  }, 
+  "locations": {
+   "modules": {
+    "cloud": {
+     "dump-locations": true
+    }
+   }, 
+   "provisioning": "cloud"
+  }, 
+  "report": {
+   "reporting": [
+    "blazemeter"
+   ]
+  }, 
+  "sequential": {
+   "modules": {
+    "local": {
+     "sequential": true
+    }
+   }
+  }, 
+  "func": {
+   "modules": {
+    "console": {
+     "disable": true
+    }
+   }, 
+   "settings": {
+    "aggregator": "functional-consolidator"
+   }
+  }, 
+  "nolint": {
+   "cli": {
+    "linter": {
+     "disable": true
+    }
+   }
+  }, 
+  "install-tools": {
+   "services": [
+    "install-checker"
+   ]
+  }, 
+  "detach": {
+   "modules": {
+    "cloud": {
+     "detach": true
+    }
+   }
+  }, 
+  "local": {
+   "provisioning": "local"
+  }, 
+  "public": {
+   "modules": {
+    "blazemeter": {
+     "public-report": true
+    }
+   }
+  }, 
+  "cloud": {
+   "provisioning": "cloud"
+  }
+ }, 
+ "cli": {
+  "linter": {
+   "lint-and-exit": false, 
+   "warn-on-unfamiliar-fields": false, 
+   "disable": false, 
+   "ignored-warnings": []
+  }
+ }, 
+ "settings": {
+  "aggregator": "consolidator", 
+  "env": {
+   "TAURUS_ARTIFACTS_DIR": "/tmp/artifacts", 
+   "OBJC_DISABLE_INITIALIZE_FORK_SAFETY": "YES"
+  }, 
+  "artifacts-dir": "/tmp/artifacts", 
+  "default-executor": "jmeter"
+ }, 
+ "reporting": [
+  {
+   "module": "final-stats"
+  }, 
+  {
+   "module": "console"
+  }
+ ], 
+ "modules": {
+  "appium": {
+   "class": "bzt.modules.services.AppiumLoader"
+  }, 
+  "ab": {
+   "class": "bzt.modules.ab.ApacheBenchmarkExecutor"
+  }, 
+  "proxy2jmx": {
+   "class": "bzt.modules.proxy2jmx.Proxy2JMX"
+  }, 
+  "mocha": {
+   "class": "bzt.modules.javascript.MochaTester"
+  }, 
+  "blazemeter": {
+   "class": "bzt.modules.blazemeter.BlazeMeterUploader"
+  }, 
+  "external-results-loader": {
+   "class": "bzt.modules.external.ExternalResultsLoader"
+  }, 
+  "testng": {
+   "class": "bzt.modules.java.TestNGTester"
+  }, 
+  "cloud": {
+   "class": "bzt.modules.blazemeter.CloudProvisioning", 
+   "default-location": "us-central1-a"
+  }, 
+  "install-checker": {
+   "class": "bzt.modules.services.InstallChecker"
+  }, 
+  "monitoring": {
+   "class": "bzt.modules.monitoring.Monitoring"
+  }, 
+  "gatling": {
+   "class": "bzt.modules.gatling.GatlingExecutor", 
+   "properties": {
+    "gatling.data.file.bufferSize": 256
+   }
+  }, 
+  "grinder": {
+   "class": "bzt.modules.grinder.GrinderExecutor", 
+   "properties": {
+    "grinder.useConsole": false
+   }
+  }, 
+  "selenium": {
+   "class": "bzt.modules.selenium.SeleniumExecutor"
+  }, 
+  "tsung": {
+   "class": "bzt.modules.tsung.TsungExecutor"
+  }, 
+  "pytest": {
+   "class": "bzt.modules.pytest.PyTestExecutor"
+  }, 
+  "capturehar": {
+   "class": "bzt.modules.blazemeter.ServiceStubCaptureHAR"
+  }, 
+  "virtual-display": {
+   "class": "bzt.modules.services.VirtualDisplay"
+  }, 
+  "shellexec": {
+   "class": "bzt.modules.shellexec.ShellExecutor"
+  }, 
+  "junit": {
+   "class": "bzt.modules.java.JUnitTester"
+  }, 
+  "nunit": {
+   "class": "bzt.modules.csharp.NUnitExecutor"
+  }, 
+  "siege": {
+   "class": "bzt.modules.siege.SiegeExecutor"
+  }, 
+  "rspec": {
+   "class": "bzt.modules.ruby.RSpecTester"
+  }, 
+  "newman": {
+   "class": "bzt.modules.javascript.NewmanExecutor"
+  }, 
+  "final-stats": {
+   "class": "bzt.modules.reporting.FinalStatus"
+  }, 
+  "wdio": {
+   "class": "bzt.modules.javascript.WebdriverIOExecutor"
+  }, 
+  "pbench": {
+   "class": "bzt.modules.pbench.PBenchExecutor", 
+   "enhanced": true
+  }, 
+  "console": {
+   "class": "bzt.modules.console.ConsoleStatusReporter"
+  }, 
+  "android-emulator": {
+   "class": "bzt.modules.services.AndroidEmulatorLoader"
+  }, 
+  "final_stats": {
+   "class": "bzt.modules.reporting.FinalStatus"
+  }, 
+  "functional-consolidator": {
+   "class": "bzt.modules.functional.FunctionalAggregator"
+  }, 
+  "jmeter": {
+   "class": "bzt.modules.jmeter.JMeterExecutor", 
+   "protocol-handlers": {
+    "http": "bzt.jmx.http.HTTPProtocolHandler"
+   }, 
+   "properties": {
+    "jmeter.save.saveservice.autoflush": "true", 
+    "jmeter.save.saveservice.connect_time": "true", 
+    "summariser.name": "", 
+    "jmeterengine.force.system.exit": "true"
+   }, 
+   "plugins": [
+    "jpgc-casutg", 
+    "jpgc-dummy", 
+    "jpgc-ffw", 
+    "jpgc-fifo", 
+    "jpgc-functions", 
+    "jpgc-json", 
+    "jpgc-perfmon", 
+    "jpgc-prmctl", 
+    "jpgc-tst"
+   ]
+  }, 
+  "apiritif": {
+   "class": "bzt.modules.apiritif.ApiritifNoseExecutor"
+  }, 
+  "local": {
+   "class": "bzt.modules.provisioning.Local"
+  }, 
+  "locust": {
+   "class": "bzt.modules.locustio.LocustIOExecutor"
+  }, 
+  "robot": {
+   "class": "bzt.modules.robot.RobotExecutor"
+  }, 
+  "screenshoter": {
+   "class": "bzt.modules.blazemeter.ServiceStubScreenshoter"
+  }, 
+  "passfail": {
+   "class": "bzt.modules.passfail.PassFailStatus"
+  }, 
+  "nose": {
+   "class": "bzt.modules.apiritif.ApiritifNoseExecutor"
+  }, 
+  "molotov": {
+   "class": "bzt.modules.molotov.MolotovExecutor"
+  }, 
+  "consolidator": {
+   "percentiles": [
+    0, 
+    50, 
+    90, 
+    95, 
+    99, 
+    99.9, 
+    100
+   ], 
+   "class": "bzt.modules.aggregator.ConsolidatingAggregator"
+  }, 
+  "unpacker": {
+   "class": "bzt.modules.services.Unpacker"
+  }, 
+  "junit-xml": {
+   "class": "bzt.modules.reporting.JUnitXMLReporter"
+  }
+ }, 
+ "provisioning": "local", 
+ "scenarios": {
+  "loadtest.py": {
+   "script": "/scripts/loadtest.py"
+  }
+ }, 
+ "version": "1.13.8", 
+ "included-configs": [], 
+ "install-id": "Docker", 
+ "services": [
+  {
+   "local": [
+    {
+     "metrics": [
+      "cpu", 
+      "mem", 
+      "bytes-sent", 
+      "bytes-recv", 
+      "disk-read", 
+      "disk-write", 
+      "disk-space", 
+      "engine-loop", 
+      "conn-all"
+     ]
+    }
+   ], 
+   "module": "monitoring"
+  }
+ ], 
+ "execution": [
+  {
+   "iterations": 5, 
+   "scenario": "loadtest.py", 
+   "ramp-up": "30s", 
+   "throughput": {}, 
+   "concurrency": {
+    "local": 10
+   }, 
+   "executor": "molotov", 
+   "hold-for": "5m"
+  }
+ ]
+}

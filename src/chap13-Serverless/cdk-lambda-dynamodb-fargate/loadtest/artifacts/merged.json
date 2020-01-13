@@ -1,0 +1,14 @@
+{
+ "execution": [
+  {
+   "iterations": 5, 
+   "scenario": {
+    "script": "/scripts/loadtest.py"
+   }, 
+   "ramp-up": "30s", 
+   "concurrency": 10, 
+   "executor": "molotov", 
+   "hold-for": "5m"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: kompose convert
+    kompose.version: 1.16.0 (0c01309)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: worker
+  name: worker
+spec:
+  replicas: 1
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        io.kompose.service: worker
+    spec:
+      containers:
+      - args:
+        - worker.py
+        env:
+        - name: APP_SETTINGS
+          value: config.DevelopmentConfig
+        - name: DBPASS
+          valueFrom:
+            secretKeyRef:
+              name: fbe-secret
+              key: dbpass
+        - name: DATABASE_URL
+          value: postgresql://wordcount_dbadmin:${DBPASS}@db/wordcount_dev
+        - name: REDISTOGO_URL
+          value: redis://redis:6379
+        image: griggheo/flask-by-example:v1
+        name: worker
+        resources: {}
+      restartPolicy: Always
+status: {}

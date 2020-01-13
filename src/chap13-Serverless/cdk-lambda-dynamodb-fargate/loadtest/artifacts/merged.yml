@@ -1,0 +1,10 @@
+---
+execution:
+- concurrency: 10
+  executor: molotov
+  hold-for: 5m
+  iterations: 5
+  ramp-up: 30s
+  scenario:
+    script: /scripts/loadtest.py
+

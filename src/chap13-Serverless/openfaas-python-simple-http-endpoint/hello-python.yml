@@ -1,0 +1,11 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://localhost:8080
+functions:
+  hello-python:
+    lang: python
+    handler: ./hello-python
+    image: griggheo/hello-python:latest
+    environment:
+      content_type: application/json

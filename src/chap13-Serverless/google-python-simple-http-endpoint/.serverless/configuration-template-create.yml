@@ -1,0 +1,3 @@
+resources:
+  - type: storage.v1.bucket
+    name: sls-python-simple-http-endpoint-crt-time-dev-1566531572927

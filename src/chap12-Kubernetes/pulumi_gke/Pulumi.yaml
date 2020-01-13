@@ -1,0 +1,3 @@
+name: pythonfordevops-gke-pulumi
+runtime: python
+description: A minimal Google Cloud Python Pulumi program

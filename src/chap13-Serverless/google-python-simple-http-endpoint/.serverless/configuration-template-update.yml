@@ -1,0 +1,16 @@
+resources:
+  - type: storage.v1.bucket
+    name: sls-python-simple-http-endpoint-crt-time-dev-1566531572927
+  - type: cloudfunctions.v1beta2.function
+    name: python-simple-http-endpoint-crt-time-dev-currentTime
+    properties:
+      location: us-central1
+      availableMemoryMb: 256
+      runtime: python37
+      timeout: 60s
+      function: endpoint
+      sourceArchiveUrl: >-
+        gs://sls-python-simple-http-endpoint-crt-time-dev-1566531572927/serverless/python-simple-http-endpoint-crt-time/dev/1566532099356-2019-08-23T03:48:19.356Z/python-simple-http-endpoint-crt-time.zip
+      labels: {}
+      httpsTrigger:
+        url: path

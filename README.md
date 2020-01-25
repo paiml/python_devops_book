@@ -33,21 +33,21 @@ Building, deploying, and operationalizing a machine learning project
 ### Chapter 3: Working with the Command Line
 
 * [Source Case Study](https://github.com/noahgift/nuclear_powered_command_line_tools)
-* [Notes](notes/chap3.md)
+* [Notes](https://paiml.github.io/python_devops_book/notes/chap3.md)
 
 ### Chapter 4: Useful Linux Utilities
 ### Chapter 5:  Package Management
 ### Chapter 6:  Continuous Integration and Continuous Deployment
 
 * [Source](https://github.com/noahgift/hugotools)
-* [Notes](notes/chap6.md)
+* [Notes](https://paiml.github.io/python_devops_book/notes/chap6.md)
 
 ### Chapter 7: Monitoring and Logging
 ### Chapter 8: Pytest for DevOps
 ### Chapter 9: Cloud Computing
 
 * [Source](https://github.com/paiml/python_devops_book/tree/master/src/chap9)
-* [Notes](notes/chap9.md)
+* [Notes](https://paiml.github.io/python_devops_book/notes/chap9.md)
 
 ### Chapter 10: Infrastructure as Code
 ### Chapter 11: Container Technologies: Docker and Docker Compose
@@ -56,7 +56,7 @@ Building, deploying, and operationalizing a machine learning project
 ### Chapter 14: MLOps and Machine learning Engineering
 
 * [Source](https://github.com/paiml/python_devops_book/tree/master/src/chap14) 
-* [Notes](notes/chap14.md)
+* [Notes](https://paiml.github.io/python_devops_book/notes/chap14.md)
 
 ### Chapter 15: Data Engineering
 

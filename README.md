@@ -33,21 +33,21 @@ Building, deploying, and operationalizing a machine learning project
 ### Chapter 3: Working with the Command Line
 
 * [Source Case Study](https://github.com/noahgift/nuclear_powered_command_line_tools)
-* [Notes](https://paiml.github.io/python_devops_book/notes/chap3.md)
+* [Notes](https://paiml.github.io/python_devops_book/notes/chap3)
 
 ### Chapter 4: Useful Linux Utilities
 ### Chapter 5:  Package Management
 ### Chapter 6:  Continuous Integration and Continuous Deployment
 
 * [Source](https://github.com/noahgift/hugotools)
-* [Notes](https://paiml.github.io/python_devops_book/notes/chap6.md)
+* [Notes](https://paiml.github.io/python_devops_book/notes/chap6)
 
 ### Chapter 7: Monitoring and Logging
 ### Chapter 8: Pytest for DevOps
 ### Chapter 9: Cloud Computing
 
 * [Source](https://github.com/paiml/python_devops_book/tree/master/src/chap9)
-* [Notes](https://paiml.github.io/python_devops_book/notes/chap9.md)
+* [Notes](https://paiml.github.io/python_devops_book/notes/chap9)
 
 ### Chapter 10: Infrastructure as Code
 ### Chapter 11: Container Technologies: Docker and Docker Compose
@@ -56,7 +56,7 @@ Building, deploying, and operationalizing a machine learning project
 ### Chapter 14: MLOps and Machine learning Engineering
 
 * [Source](https://github.com/paiml/python_devops_book/tree/master/src/chap14) 
-* [Notes](https://paiml.github.io/python_devops_book/notes/chap14.md)
+* [Notes](https://paiml.github.io/python_devops_book/notes/chap14)
 
 ### Chapter 15: Data Engineering
 
@@ -72,13 +72,13 @@ If you have any suggestions as the book is being developed please [create a tick
 
 A list of Frequently Asked Questions about the book:
 
-* [FAQ](https://github.com/paiml/python_devops_book/blob/master/docs/faq.md)
+* [FAQ](https://paiml.github.io/python_devops_book/docs/faq)
 
 ## Addendum
 
 Updates on new material post book release.
 
-* [Addendum](https://github.com/paiml/python_devops_book/blob/master/docs/addendum.md)
+* [Addendum](https://paiml.github.io/python_devops_book/docs/addendum.md)
 
 ## Contact Authors
 

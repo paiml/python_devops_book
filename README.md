@@ -40,6 +40,7 @@ Building, deploying, and operationalizing a machine learning project
 6. Continuous Integration and Continuous Deployment
 
 * [Source](https://github.com/noahgift/hugotools)
+* [Notes](notes/chap6.md)
 
 7. Monitoring and Logging
 8. Pytest for DevOps

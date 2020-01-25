@@ -28,41 +28,41 @@ Building, deploying, and operationalizing a machine learning project
 
 ## Book Outline
 
-1. Python Essentials for DevOps
-2. Automating Files and the Filesystem
-3. Working with the Command Line
+### Chapter 1: Python Essentials for DevOps
+### Chapter 2: Automating Files and the Filesystem
+### Chapter 3: Working with the Command Line
 
 * [Source Case Study](https://github.com/noahgift/nuclear_powered_command_line_tools)
 * [Notes](notes/chap3.md)
 
-4. Useful Linux Utilities
-5. Package Management
-6. Continuous Integration and Continuous Deployment
+### Chapter 4: Useful Linux Utilities
+### Chapter 5:  Package Management
+### Chapter 6:  Continuous Integration and Continuous Deployment
 
 * [Source](https://github.com/noahgift/hugotools)
 * [Notes](notes/chap6.md)
 
-7. Monitoring and Logging
-8. Pytest for DevOps
-9. Cloud Computing
+### Chapter 7: Monitoring and Logging
+### Chapter 8: Pytest for DevOps
+### Chapter 9: Cloud Computing
 
 * [Source](https://github.com/paiml/python_devops_book/tree/master/src/chap9)
 * [Notes](notes/chap9.md)
 
-10. Infrastructure as Code
-11. Container Technologies: Docker and Docker Compose
-12. Container Orchestration: Kubernetes
-13. Serverless Technologies
-14. MLOps and Machine learning Engineering
+### Chapter 10: Infrastructure as Code
+### Chapter 11: Container Technologies: Docker and Docker Compose
+### Chapter 12: Container Orchestration: Kubernetes
+### Chapter 13: Serverless Technologies
+### Chapter 14: MLOps and Machine learning Engineering
 
 * [Source](https://github.com/paiml/python_devops_book/tree/master/src/chap14) 
 * [Notes](notes/chap14.md)
 
-15. Data Engineering
+### Chapter 15: Data Engineering
 
 * [Source](https://github.com/noahgift/awslambda)
 
-16. DevOps War Stories and Interviews
+### Chapter 16: DevOps War Stories and Interviews
 
 ## Got Feedback?
 

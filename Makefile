@@ -16,7 +16,6 @@ test:
 
 lint:
 	pylint --disable=R,C,W1202 \
-		src/chap14/flask-sklearn/*.py \
-
+		src/chap14-MLOps/flask-sklearn/*.py
 
 all: install lint test

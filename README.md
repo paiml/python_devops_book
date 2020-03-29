@@ -33,6 +33,7 @@ Building, deploying, and operationalizing a machine learning project
 ### Chapter 3: Working with the Command Line
 
 * [Source Case Study](https://github.com/noahgift/nuclear_powered_command_line_tools)
+* [GPU Programming Colab Notebook](https://github.com/noahgift/cloud-data-analysis-at-scale/blob/master/GPU_Programming.ipynb)
 * [Notes](https://paiml.github.io/python_devops_book/notes/chap3)
 
 ### Chapter 4: Useful Linux Utilities

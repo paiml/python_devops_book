@@ -92,6 +92,13 @@ Updates on new material post book release.
 * [Take courses by Noah Gift](https://www.noahgift.com/courses/latest/)
 * [Watch Videos by Noah Gift](https://www.noahgift.com/videos/latest/)
 
+#### 📺 Latest YouTube Videos
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
 ### Kennedy Behrman
 
 * [Kennedy Behrman Linkedin](https://www.linkedin.com/in/kennedybehrman/)

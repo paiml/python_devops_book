@@ -97,6 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [52 Weeks of AWS Live Stream](https://www.youtube.com/watch?v=sPetJaNNjC8)
+- [52 Weeks of AWS Live Stream](https://www.youtube.com/watch?v=v_HGIG0N3PU)
+- [LiveStream MLOps Talk](https://www.youtube.com/watch?v=ODa8tGHOQnk)
+- [Visual studio Code for AWS on an M1 Mac in Parallels](https://www.youtube.com/watch?v=ETwMdwkyLyQ)
+- [Doing MLOps Live Talk and demo](https://www.youtube.com/watch?v=fsii0QX3FyE)
+- [Sagemaker studio labs first thoughts](https://www.youtube.com/watch?v=SAxaucXVy_Q)
+- [AWS CloudShell For PowerShell and C#](https://www.youtube.com/watch?v=Bf2O_ZjDReg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

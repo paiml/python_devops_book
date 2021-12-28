@@ -97,13 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Benchmarking exotic and ridiculously powerful machines on AWS](https://www.youtube.com/watch?v=CRb8SO4PAiQ)
 - [Getting started .NET Github CodeSpaces](https://www.youtube.com/watch?v=7kkDXf3I4sQ)
 - [52 Weeks of AWS Live Stream](https://www.youtube.com/watch?v=v_HGIG0N3PU)
 - [52 Weeks of AWS: Episode 3: AWS Cloud Practitioner Part 1](https://www.youtube.com/watch?v=cogBbfeyXJM)
 - [52 Weeks of AWS Live Stream](https://www.youtube.com/watch?v=sPetJaNNjC8)
 - [LiveStream MLOps Talk](https://www.youtube.com/watch?v=ODa8tGHOQnk)
 - [Visual studio Code for AWS on an M1 Mac in Parallels](https://www.youtube.com/watch?v=ETwMdwkyLyQ)
-- [Doing MLOps Live Talk and demo](https://www.youtube.com/watch?v=fsii0QX3FyE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

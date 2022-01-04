@@ -97,13 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Build an AWS C# Console App That Lists AWS S3 Buckets](https://www.youtube.com/watch?v=DGI_Vd04DpM)
 - [Building a C# 10, .NET6 Console Application Phrase Repeater in VS Code 2022](https://www.youtube.com/watch?v=HjzBBvoY5pA)
 - [52 Weeks of AWS Live Stream:  Episode 4](https://www.youtube.com/watch?v=sPetJaNNjC8)
 - [52 Weeks of AWS Podcast and Live Stream:  Episode 4](https://www.youtube.com/watch?v=mKAATEwY3cU)
 - [52 Weeks of AWS Live Stream: Episode 6](https://www.youtube.com/watch?v=jBGA13ZAqf4)
 - [52 Weeks of AWS Live Stream: Episode 5](https://www.youtube.com/watch?v=BFHLSn30pjQ)
 - [Benchmarking exotic and ridiculously powerful machines on AWS](https://www.youtube.com/watch?v=CRb8SO4PAiQ)
-- [Getting started .NET Github CodeSpaces](https://www.youtube.com/watch?v=7kkDXf3I4sQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

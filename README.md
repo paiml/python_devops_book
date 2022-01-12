@@ -98,12 +98,12 @@ Updates on new material post book release.
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [52 Weeks of Swift:  Episode 1](https://www.youtube.com/watch?v=o7K76FpkOPc)
+- [52 Weeks of AWS Live Stream: Episode 6](https://www.youtube.com/watch?v=jBGA13ZAqf4)
+- [Learn swift playgrounds](https://www.youtube.com/watch?v=moEDrVYR2Iw)
 - [Building CLI Tools with Apple Swift](https://www.youtube.com/watch?v=bNWLDOW-Aok)
 - [Learn to build solutions with Go and the AWS Cloud9 environment  via the AWS SDK](https://www.youtube.com/watch?v=DcJ0GIW0oPI)
 - [Building AI APIs with .NET 6 and AWS Comprehend](https://www.youtube.com/watch?v=zhiNMmg8FxA)
 - [Prototyping AI apis aws cloudshell bash](https://www.youtube.com/watch?v=o469kbmh_iM)
-- [52 Weeks of AWS Live Stream: Episode 5](https://www.youtube.com/watch?v=BFHLSn30pjQ)
-- [52 Weeks of AWS  Episode 5: Cloud Practitioner Part3 + Network and Content Delivery, Compute/Storage](https://www.youtube.com/watch?v=C1_Hi4qgVVk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

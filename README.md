@@ -97,13 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [52 Weeks of AWS Live Stream: Episode 6-Final AWS CP Certification Walkthrough](https://www.youtube.com/watch?v=zsKgiwRcWEE)
+- [52 Weeks of AWS Live Stream: Episode 8](https://www.youtube.com/watch?v=qFe0Yv30sKE)
+- [52 Weeks of AWS Live Stream: Episode 7](https://www.youtube.com/watch?v=wvA7bxl1F7A)
+- [52 Weeks of Swift: Episode 3](https://www.youtube.com/watch?v=0RkHuwhqjX4)
+- [52 Weeks of Swift: Episode 2](https://www.youtube.com/watch?v=xZPzh_47ANw)
+- [Episode 1 52 weeks swift:  Getting Started](https://www.youtube.com/watch?v=_rfWnxUsVzk)
 - [52 Weeks of Swift:  Episode 1](https://www.youtube.com/watch?v=o7K76FpkOPc)
-- [52 Weeks of AWS Live Stream: Episode 6](https://www.youtube.com/watch?v=jBGA13ZAqf4)
-- [Learn swift playgrounds](https://www.youtube.com/watch?v=moEDrVYR2Iw)
-- [Building CLI Tools with Apple Swift](https://www.youtube.com/watch?v=bNWLDOW-Aok)
-- [Learn to build solutions with Go and the AWS Cloud9 environment  via the AWS SDK](https://www.youtube.com/watch?v=DcJ0GIW0oPI)
-- [Building AI APIs with .NET 6 and AWS Comprehend](https://www.youtube.com/watch?v=zhiNMmg8FxA)
-- [Prototyping AI apis aws cloudshell bash](https://www.youtube.com/watch?v=o469kbmh_iM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

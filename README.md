@@ -97,13 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Hello World Project Secrets](https://www.youtube.com/watch?v=jLw5telHLKg)
 - [What is AWS CloudTrail and How Do You Use It?](https://www.youtube.com/watch?v=MRAypvuVTnU)
 - [What is Google Colab Notebooks and How do you share them for Data Science projects?](https://www.youtube.com/watch?v=6Egd-OMLLV4)
 - [What is Github codespaces?](https://www.youtube.com/watch?v=6rO9B-KUq8k)
 - [Python Microservice with FastAPI and AWS App Runner](https://www.youtube.com/watch?v=XBBDqLf23Og)
 - [52 Weeks of AWS Live Stream: Episode 6-Final AWS CP Certification Walkthrough](https://www.youtube.com/watch?v=zsKgiwRcWEE)
 - [52 Weeks of AWS Live Stream: Episode 8](https://www.youtube.com/watch?v=qFe0Yv30sKE)
-- [52 Weeks of AWS Live Stream: Episode 7](https://www.youtube.com/watch?v=wvA7bxl1F7A)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -97,13 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Three Most Important Files in a Python Project](https://www.youtube.com/watch?v=U1JjL_IcaqE)
 - [52 Weeks of Swift:  Episode 2](https://www.youtube.com/watch?v=FO5mwURY65g)
 - [52 Weeks of AWS-Episode 7:  Developing on AWS](https://www.youtube.com/watch?v=WnYeJAri7Nk)
 - [52 Weeks of Swift: Episode 2](https://www.youtube.com/watch?v=xZPzh_47ANw)
 - [52 Weeks of AWS Live Stream: Episode 7](https://www.youtube.com/watch?v=wvA7bxl1F7A)
 - [Github Actions Hello World All Cloud and Codespaces](https://www.youtube.com/watch?v=Y3vzZjijsHU)
 - [Hello World Project Secrets](https://www.youtube.com/watch?v=jLw5telHLKg)
-- [What is AWS CloudTrail and How Do You Use It?](https://www.youtube.com/watch?v=MRAypvuVTnU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

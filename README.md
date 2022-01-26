@@ -97,13 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [52 Weeks of Swift: Episode 3](https://www.youtube.com/watch?v=0RkHuwhqjX4)
+- [52 Weeks of AWS Live Stream: Episode 8](https://www.youtube.com/watch?v=jz0Mzf7JH1w)
+- [52 Weeks of AWS:  O'Reilly AWS Cookbook Authors Interview](https://www.youtube.com/watch?v=2LVEWPR5xPE)
 - [AWS CDK with Python Deploy Hello World Lambda](https://www.youtube.com/watch?v=-iO4r7rNims)
 - [Using a Makefile Github Actions](https://www.youtube.com/watch?v=2wSBAkJGcug)
 - [Data Science your first day](https://www.youtube.com/watch?v=tzxtJ1nfSdU)
 - [Three Most Important Files in a Python Project](https://www.youtube.com/watch?v=U1JjL_IcaqE)
-- [52 Weeks of Swift:  Episode 2](https://www.youtube.com/watch?v=FO5mwURY65g)
-- [52 Weeks of AWS-Episode 7:  Developing on AWS](https://www.youtube.com/watch?v=WnYeJAri7Nk)
-- [52 Weeks of Swift: Episode 2](https://www.youtube.com/watch?v=xZPzh_47ANw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

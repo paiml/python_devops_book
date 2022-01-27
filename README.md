@@ -97,13 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Container continuous delivery for AWS with App Runner](https://www.youtube.com/watch?v=revn4n2v8-U)
+- [52 Weeks of Swift Episode 3 basic operators](https://www.youtube.com/watch?v=WK-GKCGBF1E)
+- [52 Weeks of Swift:  Episode 4](https://www.youtube.com/watch?v=H68YA0_4HT4)
+- [52 Weeks AWS:  Episode 9](https://www.youtube.com/watch?v=JfFH_u4YD9c)
+- [Episode 8 52 weeks of AWS](https://www.youtube.com/watch?v=Yq1_vAZphF4)
 - [52 Weeks of Swift: Episode 3](https://www.youtube.com/watch?v=0RkHuwhqjX4)
 - [52 Weeks of AWS Live Stream: Episode 8](https://www.youtube.com/watch?v=jz0Mzf7JH1w)
-- [52 Weeks of AWS:  O'Reilly AWS Cookbook Authors Interview](https://www.youtube.com/watch?v=2LVEWPR5xPE)
-- [AWS CDK with Python Deploy Hello World Lambda](https://www.youtube.com/watch?v=-iO4r7rNims)
-- [Using a Makefile Github Actions](https://www.youtube.com/watch?v=2wSBAkJGcug)
-- [Data Science your first day](https://www.youtube.com/watch?v=tzxtJ1nfSdU)
-- [Three Most Important Files in a Python Project](https://www.youtube.com/watch?v=U1JjL_IcaqE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

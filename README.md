@@ -97,13 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [52 weeks swift strings](https://www.youtube.com/watch?v=mFdkGpNPdmc)
+- [52 weeks AWS episode 9 solutions architect](https://www.youtube.com/watch?v=I7ZI0fKvo88)
+- [52 Weeks AWS: Episode 10](https://www.youtube.com/watch?v=rX4MrcdOBs4)
+- [52 Weeks of Swift: Episode 5-collection-types](https://www.youtube.com/watch?v=9qnsroH2eyk)
 - [52 Weeks AWS:  Episode 9](https://www.youtube.com/watch?v=JfFH_u4YD9c)
 - [52 Weeks of Swift](https://www.youtube.com/watch?v=lkSVIvDWvFM)
 - [52 Weeks of AWS:  O'Reilly AWS Cookbook Authors Interview](https://www.youtube.com/watch?v=2LVEWPR5xPE)
-- [52 Weeks of AWS Episode 9:AWS Cookbook](https://www.youtube.com/watch?v=TmgA8AjemnQ)
-- [Container continuous delivery for AWS with App Runner](https://www.youtube.com/watch?v=revn4n2v8-U)
-- [52 Weeks of Swift Episode 3 basic operators](https://www.youtube.com/watch?v=WK-GKCGBF1E)
-- [Episode 8 52 weeks of AWS](https://www.youtube.com/watch?v=Yq1_vAZphF4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

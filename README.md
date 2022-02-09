@@ -97,13 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [52 Weeks of Cloud: GPT-3 Book Interview](https://www.youtube.com/watch?v=v46-mRUb6Ig)
-- [52 weeks swift strings](https://www.youtube.com/watch?v=mFdkGpNPdmc)
-- [52 weeks AWS episode 9 solutions architect](https://www.youtube.com/watch?v=I7ZI0fKvo88)
 - [52 Weeks AWS: Episode 10](https://www.youtube.com/watch?v=rX4MrcdOBs4)
 - [52 Weeks of Swift: Episode 5-collection-types](https://www.youtube.com/watch?v=9qnsroH2eyk)
-- [52 Weeks AWS:  Episode 9](https://www.youtube.com/watch?v=JfFH_u4YD9c)
-- [52 Weeks of Swift](https://www.youtube.com/watch?v=lkSVIvDWvFM)
+- [52weeks aws episode 10 solutions architect part2](https://www.youtube.com/watch?v=6TpGbhpKHzs)
+- [52 Weeks AWS: Episode 11- Solutions Architect Part 3](https://www.youtube.com/watch?v=XcqXgMawl4s)
+- [52 Weeks of Swift: Episode 5-Control Flow](https://www.youtube.com/watch?v=LrcN9M81akM)
+- [52 weeks swift episode5 collections](https://www.youtube.com/watch?v=lbyG7iSKubs)
+- [52 Weeks of Cloud: GPT-3 Book Interview](https://www.youtube.com/watch?v=v46-mRUb6Ig)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -97,13 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [k-means clustering theory algorithm implementation scaling](https://www.youtube.com/watch?v=keQ6B9VtfXg)
-- [52 Weeks AWS: Episode 10](https://www.youtube.com/watch?v=rX4MrcdOBs4)
-- [52 Weeks of Swift: Episode 5-collection-types](https://www.youtube.com/watch?v=9qnsroH2eyk)
-- [52weeks aws episode 10 solutions architect part2](https://www.youtube.com/watch?v=6TpGbhpKHzs)
 - [52 Weeks AWS: Episode 11- Solutions Architect Part 3](https://www.youtube.com/watch?v=XcqXgMawl4s)
+- [1 0 52 weeks swift episode5 control flow](https://www.youtube.com/watch?v=_t2106Etlcw)
+- [52 weeks aws episode14 sa databases](https://www.youtube.com/watch?v=FH62UcrevA8)
+- [52 Weeks of Swift: Episode 6-Functions](https://www.youtube.com/watch?v=bxQEpzOv0nE)
+- [52 Weeks AWS: Episode 12-Solutions Architect-Continued](https://www.youtube.com/watch?v=S0GvJUjzGWs)
 - [52 Weeks of Swift: Episode 5-Control Flow](https://www.youtube.com/watch?v=LrcN9M81akM)
-- [52 weeks swift episode5 collections](https://www.youtube.com/watch?v=lbyG7iSKubs)
+- [AWS Storage Solutions 2022:  EBS/S3/EFS/Glacier](https://www.youtube.com/watch?v=ukj7xL0vt-0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

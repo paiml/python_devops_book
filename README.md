@@ -97,13 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [52 Weeks of Cloud: GPT-3 Book Interview](https://www.youtube.com/watch?v=v46-mRUb6Ig)
+- [Cloud-Native C# WEB SERVICES with AWS, CLOUD9, ECR and APP RUNNER](https://www.youtube.com/watch?v=nUAQHzz_t9k)
+- [52 weeks cloud episode12 GPT3 authors](https://www.youtube.com/watch?v=CnevFVa92o8)
 - [52 Weeks AWS: Episode 11- Solutions Architect Part 3](https://www.youtube.com/watch?v=XcqXgMawl4s)
 - [1 0 52 weeks swift episode5 control flow](https://www.youtube.com/watch?v=_t2106Etlcw)
 - [52 weeks aws episode14 sa databases](https://www.youtube.com/watch?v=FH62UcrevA8)
 - [52 Weeks of Swift: Episode 6-Functions](https://www.youtube.com/watch?v=bxQEpzOv0nE)
-- [52 Weeks AWS: Episode 12-Solutions Architect-Continued](https://www.youtube.com/watch?v=S0GvJUjzGWs)
-- [52 Weeks of Swift: Episode 5-Control Flow](https://www.youtube.com/watch?v=LrcN9M81akM)
-- [AWS Storage Solutions 2022:  EBS/S3/EFS/Glacier](https://www.youtube.com/watch?v=ukj7xL0vt-0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -97,13 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [52 Weeks AWS: Episode 13-Solutions Architect Continued](https://www.youtube.com/watch?v=tA-hw8QBc6s)
+- [52 Weeks of Swift: Episode 7-Closures](https://www.youtube.com/watch?v=YHQLcRL-xUg)
+- [2 Weeks AWS: Episode 14-Solutions Architect Continued](https://www.youtube.com/watch?v=XuuBDWhuslo)
+- [52 Weeks of Swift: Episode 8-Enumerations](https://www.youtube.com/watch?v=RnJWU1P79cU)
 - [1 0 52 weeks swift functions](https://www.youtube.com/watch?v=0wfLmQG9DEg)
 - [1 0 52 weeks aws solutions architect networking](https://www.youtube.com/watch?v=gw2-7D2YuXY)
 - [52 Weeks of Swift: Episode 6-Functions](https://www.youtube.com/watch?v=bxQEpzOv0nE)
-- [52 Weeks of Swift: Episode 7-Closures](https://www.youtube.com/watch?v=YHQLcRL-xUg)
-- [52 Weeks AWS: Episode 13-Solutions Architect Continued](https://www.youtube.com/watch?v=tA-hw8QBc6s)
-- [52 Weeks AWS: Episode 12-Solutions Architect-Continued](https://www.youtube.com/watch?v=S0GvJUjzGWs)
-- [Learn to Containerize Algorithms Deploy to AWS with App Runner](https://www.youtube.com/watch?v=SWAqetwqPiU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

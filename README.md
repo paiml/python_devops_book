@@ -97,13 +97,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [52 weeks swift enumerations](https://www.youtube.com/watch?v=kv5MMwOXU0Y)
+- [52 weeks aws secure user](https://www.youtube.com/watch?v=Vaqi_PKZK9U)
 - [2 Weeks AWS: Episode 16-Solutions Architect Continued](https://www.youtube.com/watch?v=XuuBDWhuslo)
 - [52 Weeks AWS:  Episode 17-Solutions Architect Continued-Elasticity](https://www.youtube.com/watch?v=qnVsLuAapR0)
 - [52 Weeks of Swift: Episode 8-Enumerations](https://www.youtube.com/watch?v=RnJWU1P79cU)
 - [52 Weeks of Swift:  Structures and Classes](https://www.youtube.com/watch?v=yOhLvaw8KAc)
 - [52weeks episode7 swift closures](https://www.youtube.com/watch?v=JH9MUWBQGb4)
-- [52 weeks AWS-Episode 15 (13-b): Solutions Architect continued connecting networks](https://www.youtube.com/watch?v=Vzc1wFKMMB4)
-- [52 Weeks AWS: Episode 13-Solutions Architect Continued](https://www.youtube.com/watch?v=tA-hw8QBc6s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

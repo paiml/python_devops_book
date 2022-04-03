@@ -91,6 +91,8 @@ Updates on new material post book release.
 * [Read other books by Noah Gift](https://www.noahgift.com/books/latest/)
 * [Take courses by Noah Gift](https://www.noahgift.com/courses/latest/)
 * [Watch Videos by Noah Gift](https://www.noahgift.com/videos/latest/)
+* [Take the Foundations of Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
+* [Take the Specialization: Building Cloud Computing Solutions at Scale Specialization](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
 
 #### 📺 Latest YouTube Videos
 

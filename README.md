@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [52 weeks swift properties](https://www.youtube.com/watch?v=OvrMpBkP15g)
+- [52 weeks aws solutions architect automate infrastructure with Cloud Formation, Beanstalk. Opsworks](https://www.youtube.com/watch?v=JdUUM4BP_sg)
 - [52 Weeks AWS: Episode 18-Solutions Architect Continued-Automate Infra](https://www.youtube.com/watch?v=08mRgfdusD0)
+- [52 Weeks AWS: Episode 19-Solutions Architect Continued-Caching Content](https://www.youtube.com/watch?v=1YyJ_VrVyG4)
+- [52 Weeks of Swift: Episode 11 - Methods](https://www.youtube.com/watch?v=EiIR7cWn1uU)
 - [52 Weeks of Swift: Episode 10 - Properties](https://www.youtube.com/watch?v=ToYvyeeUjXw)
 - [MLOps Platforms From Zero:  Databricks, MLFlow/MLRun/SKLearn](https://www.youtube.com/watch?v=PUXhWZQW8BI)
-- [52weeks aws episode17 sa elasticity](https://www.youtube.com/watch?v=eoj62Z7WJpM)
-- [52weeks swift classes](https://www.youtube.com/watch?v=39n119Lx8Yk)
-- [Functions from zero](https://www.youtube.com/watch?v=KOAdCqpQSI4)
-- [52 Weeks AWS:  Episode 17-Solutions Architect Continued-Elasticity](https://www.youtube.com/watch?v=qnVsLuAapR0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

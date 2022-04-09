@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Learn Python in five Minutes with Colab Notebook](https://www.youtube.com/watch?v=BTmJR3x_35c)
+- [Refactoring a Python script into a library called by Python Click CLI](https://www.youtube.com/watch?v=0x261nI5Yws)
+- [Quickstart Python Fire Command Line Interface (CLI)](https://www.youtube.com/watch?v=DKWd-QUytPo)
 - [Getting started with AWS Lambda and Step Functions](https://www.youtube.com/watch?v=7CCUnHblg2s)
 - [Functions to Containerized Microservice Continuous Delivery to AWS App Runner with Fast API](https://www.youtube.com/watch?v=8qRYu4Q7RQU)
 - [52 weeks swift properties](https://www.youtube.com/watch?v=OvrMpBkP15g)
 - [52 weeks aws solutions architect automate infrastructure with Cloud Formation, Beanstalk. Opsworks](https://www.youtube.com/watch?v=JdUUM4BP_sg)
-- [52 Weeks AWS: Episode 18-Solutions Architect Continued-Automate Infra](https://www.youtube.com/watch?v=08mRgfdusD0)
-- [52 Weeks AWS: Episode 19-Solutions Architect Continued-Caching Content](https://www.youtube.com/watch?v=1YyJ_VrVyG4)
-- [52 Weeks of Swift: Episode 11 - Methods](https://www.youtube.com/watch?v=EiIR7cWn1uU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

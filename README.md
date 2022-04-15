@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [52 weeks AWS:  Episode 19 - Solutions Architect Caching](https://www.youtube.com/watch?v=0jicpVxdmeI)
+- [Build Real-World Python Microservices with Continuous Delivery From Zero](https://www.youtube.com/watch?v=YB-_FsssK8E)
 - [52 Weeks AWS: Episode 19-Solutions Architect Continued-Caching Content](https://www.youtube.com/watch?v=1YyJ_VrVyG4)
 - [52-Weeks-Live-Coding-MLOps-Episode-1](https://www.youtube.com/watch?v=DLYjoBmt390)
 - [52 Weeks AWS: Episode 20-Solutions Architect Continued-Building Decoupled Architectures](https://www.youtube.com/watch?v=_AE-McU0nsk)
 - [52 Weeks of Swift: Episode 12 - Subscripts](https://www.youtube.com/watch?v=8X5xcN7uH_s)
 - [52 Weeks of Swift: Episode 11 - Methods](https://www.youtube.com/watch?v=EiIR7cWn1uU)
-- [Learn Python in five Minutes with Colab Notebook](https://www.youtube.com/watch?v=BTmJR3x_35c)
-- [Refactoring a Python script into a library called by Python Click CLI](https://www.youtube.com/watch?v=0x261nI5Yws)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

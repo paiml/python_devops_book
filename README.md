@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Getting started with cloud pipelines with AWS Step Functions and AWS Lambda in Python](https://www.youtube.com/watch?v=dRDBIGniLmg)
+- [Swift Episode 12 Subscripts](https://www.youtube.com/watch?v=mHCRmsB8j4w)
+- [52 weeks Swift Episode 11 Methods](https://www.youtube.com/watch?v=F8oxptEEGMg)
+- [52 Weeks Live Coding MLOps Episode 1](https://www.youtube.com/watch?v=aRwMUGQq7gY)
+- [52 weeks AWS:  Episode 20 - Solutions Architect-Decouple](https://www.youtube.com/watch?v=YTtSf4t0rL0)
 - [Python for DevOps Master Class 2022:  CI/CD, Github Actions, Containers and Microservices](https://www.youtube.com/watch?v=kwZNpieUreA)
 - [52-Weeks-Live-Coding-MLOps-Episode-2](https://www.youtube.com/watch?v=Gt4oDUoae4k)
-- [52-Weeks-Live-Coding-MLOps-Episode-1](https://www.youtube.com/watch?v=DLYjoBmt390)
-- [52 Weeks AWS: Episode 20-Solutions Architect Continued-Building Decoupled Architectures](https://www.youtube.com/watch?v=_AE-McU0nsk)
-- [52 Weeks AWS: Episode 21-SA- Continued-Building Microservices and Serverless Architectures](https://www.youtube.com/watch?v=v9u7YUBlxls)
-- [52 Weeks of Swift: Episode 13 - Inheritance](https://www.youtube.com/watch?v=BQygYMPxxKw)
-- [52 Weeks of Swift: Episode 12 - Subscripts](https://www.youtube.com/watch?v=8X5xcN7uH_s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

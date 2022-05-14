@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [52 weeks Swift: Episode 13 Inheritance](https://www.youtube.com/watch?v=JmnIA5f07Y4)
+- [52 weeks Live Coding MLOPs: Episode 2: Serving TensorFlow Models](https://www.youtube.com/watch?v=KjLmN6MNKms)
+- [52 weeks AWS: Episode 21 Solutions Architect: Building Microservices](https://www.youtube.com/watch?v=UAiCuNUfyd0)
 - [Cloud-Native Pytest Tips and Tricks from Ground Zero](https://www.youtube.com/watch?v=EOCtbjuICbA)
 - [52-Weeks-Live-Coding-MLOps-Episode-2](https://www.youtube.com/watch?v=Gt4oDUoae4k)
 - [52 Weeks AWS: Episode 21-SA- Continued-Building Microservices and Serverless Architectures](https://www.youtube.com/watch?v=v9u7YUBlxls)
 - [52-Weeks-Live-Coding-MLOps-Episode-3](https://www.youtube.com/watch?v=GLuLe-GbPe4)
-- [52 Weeks AWS: Episode 22-SA-Planning for Disaster](https://www.youtube.com/watch?v=CQ3RHwgaFgM)
-- [52 Weeks of Swift: Episode 14 - Initialization](https://www.youtube.com/watch?v=pIHfyOAJRak)
-- [52 Weeks of Swift: Episode 13 - Inheritance](https://www.youtube.com/watch?v=BQygYMPxxKw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

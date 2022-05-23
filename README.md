@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [52 weeks AWS Episode22 Planning Disaster](https://www.youtube.com/watch?v=ADVlobiGE8s)
+- [52 weeks Swift Initialization](https://www.youtube.com/watch?v=nEFhHTavyD4)
+- [52 weeks Live Coding MLOps Episode 3: Serving out TensorFlow models](https://www.youtube.com/watch?v=ZpT0NhrPQgE)
 - [52-Weeks-Live-Coding-MLOps-Episode-3](https://www.youtube.com/watch?v=GLuLe-GbPe4)
 - [52 Weeks AWS: Episode 22-SA-Planning for Disaster](https://www.youtube.com/watch?v=CQ3RHwgaFgM)
 - [52-Weeks-Live-Coding-MLOps-Episode-4](https://www.youtube.com/watch?v=KGBN1gaXIU8)
 - [52 Weeks AWS: Episode 23-SA-Bridging to Certification](https://www.youtube.com/watch?v=KC2B021jc0M)
-- [52 Weeks of Swift: Episode 14 - Deinitialization](https://www.youtube.com/watch?v=flALmRACPHs)
-- [52 Weeks of Swift: Episode 14 - Initialization](https://www.youtube.com/watch?v=pIHfyOAJRak)
-- [MLOps Masterclass: Theory to DevOps to Cloud-native to AutoML](https://www.youtube.com/watch?v=DMJaKDOr0NI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [52 weeks MLOps episode 4 hugging face](https://www.youtube.com/watch?v=uG0zzHl8Sbs)
-- [52 Weeks Swift epsisode 15 deinit](https://www.youtube.com/watch?v=E0ra6UelLwg)
-- [52 Weeks of AWS Episode 23:  Bridging to Solutions Architect Certification](https://www.youtube.com/watch?v=i_0za7BUGAM)
-- [MLOps with Hugging Face Spaces, Gradio and Github Actions](https://www.youtube.com/watch?v=VYSGjUa5sc4)
-- [Learn to deploy a AWS ECS Fargate application for a .NET Blazor App.](https://www.youtube.com/watch?v=Xs9vGM3U2Ek)
-- [52-Weeks-Live-Coding-MLOps-Episode-4](https://www.youtube.com/watch?v=KGBN1gaXIU8)
+- [52-Weeks-Live-Coding-MLOps-Episode-5-More Hugging Face](https://www.youtube.com/watch?v=iM97OaoQunI)
+- [52-Weeks-Live-Coding-MLOps-Episode-6-Even More Hugging Face](https://www.youtube.com/watch?v=3AyWrVgiaGg)
+- [52 Weeks AWS: Episode 24-AWS ML Certification-Welcome to ML foundations](https://www.youtube.com/watch?v=0JNrMTYNIcU)
+- [52 Weeks AWS: Episode 25-AWS ML Certification:  Wk2-Introduction to ML](https://www.youtube.com/watch?v=I7LiTrnfUrg)
+- [52 Weeks of Swift: Episode 16-Error Handling](https://www.youtube.com/watch?v=KorGHwmaw0Q)
 - [52 Weeks of Swift: Episode 15 - Optional Chaining](https://www.youtube.com/watch?v=YIVMBRG7cqY)
+- [52 weeks MLOps episode 4 hugging face](https://www.youtube.com/watch?v=uG0zzHl8Sbs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

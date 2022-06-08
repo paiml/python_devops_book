@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Learn to setup Mac M1 with Tensorflow Metal](https://www.youtube.com/watch?v=Oo4--yX0gfo)
-- [52-Weeks-Live-Coding-MLOps-Episode-5-More Hugging Face](https://www.youtube.com/watch?v=iM97OaoQunI)
 - [52-Weeks-Live-Coding-MLOps-Episode-6-Even More Hugging Face](https://www.youtube.com/watch?v=3AyWrVgiaGg)
-- [52 Weeks AWS: Episode 24-AWS ML Certification-Welcome to ML foundations](https://www.youtube.com/watch?v=0JNrMTYNIcU)
 - [52 Weeks AWS: Episode 25-AWS ML Certification:  Wk2-Introduction to ML](https://www.youtube.com/watch?v=I7LiTrnfUrg)
+- [52-Weeks-Live-Coding-MLOps-Episode-7](https://www.youtube.com/watch?v=fKrATZ4hXC8)
+- [52 Weeks AWS: Episode 25-AWS ML Certification: Wk3-Amazon SageMaker](https://www.youtube.com/watch?v=iPMJiHzRv4E)
+- [52 Weeks of Swift: Episode 17-Concurrency](https://www.youtube.com/watch?v=TZzYwh3U1z0)
 - [52 Weeks of Swift: Episode 16-Error Handling](https://www.youtube.com/watch?v=KorGHwmaw0Q)
-- [52 Weeks of Swift: Episode 15 - Optional Chaining](https://www.youtube.com/watch?v=YIVMBRG7cqY)
+- [Learn to setup Mac M1 with Tensorflow Metal](https://www.youtube.com/watch?v=Oo4--yX0gfo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

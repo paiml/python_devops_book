@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [52-Weeks-Live-Coding-MLOps-Episode-7](https://www.youtube.com/watch?v=fKrATZ4hXC8)
+- [52 Weeks AWS: Episode 25-AWS ML Certification: Wk3-Amazon SageMaker](https://www.youtube.com/watch?v=iPMJiHzRv4E)
+- [52 Weeks of Swift: Episode 17-Concurrency](https://www.youtube.com/watch?v=TZzYwh3U1z0)
 - [52 Weeks Swift: Episode 16-Error Handling](https://www.youtube.com/watch?v=Siuji1tQP8w)
 - [52 Weeks Swift: Episode 15-Optional Chaining](https://www.youtube.com/watch?v=FpYNJNDNlec)
 - [52 Weeks Live Coding MLOps: Episode 6-More Hugging Face-Datasets](https://www.youtube.com/watch?v=ZuHhQWn6NwU)
 - [52 Weeks Live Coding MLOps: Episode 5-More Hugging Face (Building Computer Vision)](https://www.youtube.com/watch?v=RvQB5gDiKz0)
-- [52 Weeks of AWS:  AWS ML Certification:  Part 2 What is ML?](https://www.youtube.com/watch?v=9il7x5zYQWI)
-- [52 Weeks of AWS:  Introduction to AWS ML Certification](https://www.youtube.com/watch?v=p6ED3cOdYoY)
-- [52-Weeks-Live-Coding-MLOps-Episode-6-Even More Hugging Face](https://www.youtube.com/watch?v=3AyWrVgiaGg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

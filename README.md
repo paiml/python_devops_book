@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Continuous Integration C# and Github Actions and Codespace](https://www.youtube.com/watch?v=6OkcNWGA6FY)
 - [Continuous Delivery of Global Scale Hugo Static Site on AWS"](https://www.youtube.com/watch?v=I-HTdojGdHs)
 - [52-Weeks-Live-Coding-MLOps-Episode-7](https://www.youtube.com/watch?v=fKrATZ4hXC8)
 - [52 Weeks AWS: Episode 25-AWS ML Certification: Wk3-Amazon SageMaker](https://www.youtube.com/watch?v=iPMJiHzRv4E)
 - [52 Weeks of Swift: Episode 17-Concurrency](https://www.youtube.com/watch?v=TZzYwh3U1z0)
 - [52 Weeks Swift: Episode 16-Error Handling](https://www.youtube.com/watch?v=Siuji1tQP8w)
 - [52 Weeks Swift: Episode 15-Optional Chaining](https://www.youtube.com/watch?v=FpYNJNDNlec)
-- [52 Weeks Live Coding MLOps: Episode 6-More Hugging Face-Datasets](https://www.youtube.com/watch?v=ZuHhQWn6NwU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [52-weeks-of-exploring-interesting languages:  Episode 1-Julia](https://www.youtube.com/watch?v=l4ZCiYhcqm0)
 - [52-Weeks-Live-Coding-MLOps-Episode-8](https://www.youtube.com/watch?v=JyoPYuEICF4)
 - [52 Weeks AWS: Episode 25-AWS ML Certification: Wk3-Amazon SageMaker-Part2](https://www.youtube.com/watch?v=WyT_2l096OA)
 - [52 Weeks of Swift: Episode 18-Type Casting](https://www.youtube.com/watch?v=fJzLtvUZqNM)
 - [52 Weeks of Live Coding .NET:  Episode 1](https://www.youtube.com/watch?v=nmSzdU2ImqU)
 - [52 Weeks MLOPs: Episode 7-Live Coding:  Open AI with Github Codespaces](https://www.youtube.com/watch?v=PsEEb2vld0c)
 - [52 weeks AWS: EP 26 ml cert sagemaker pipelines part1](https://www.youtube.com/watch?v=ZiuCEOpPSzs)
-- [52 weeks swift ep 17 concurrency](https://www.youtube.com/watch?v=EESG4pXN6CQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Compiling Python from scratch with Github Codespaces](https://www.youtube.com/watch?v=gzh329Yzv8E)
-- [52-Weeks-Live-Coding-MLOps-Episode-8](https://www.youtube.com/watch?v=JyoPYuEICF4)
-- [52 Weeks AWS: Episode 25-AWS ML Certification: Wk3-Amazon SageMaker-Part2](https://www.youtube.com/watch?v=WyT_2l096OA)
-- [52 Weeks of Live Coding .NET:  Episode 1](https://www.youtube.com/watch?v=nmSzdU2ImqU)
-- [52 Weeks of Cloud Episode 28:  Conversation with Piero Molino and Ludwig/Predibase](https://www.youtube.com/watch?v=G7Kfhu6fibg)
-- [52 Weeks of Swift: Episode 18-Type Casting](https://www.youtube.com/watch?v=fJzLtvUZqNM)
-- [52-weeks-of-exploring-interesting languages:  Episode 1-Julia](https://www.youtube.com/watch?v=l4ZCiYhcqm0)
+- [52 weeks Swift-18-type-casting](https://www.youtube.com/watch?v=ImGod0ImiQ8)
+- [52 Weeks MLOPs: Episode 8-Live Coding Ludwig](https://www.youtube.com/watch?v=vS-hiHDdelc)
+- [52 Weeks Live Coding .NET-EP1 Github Codespaces](https://www.youtube.com/watch?v=psD7i73PTRk)
+- [52 Weeks of AWS  Episode 25:  AWS ML Cert-Sagemaker pipelines Part 2](https://www.youtube.com/watch?v=OIk1mF28OBs)
+- [52-Weeks-Live-Coding-MLOps-Episode-9  Diving into Ludwig](https://www.youtube.com/watch?v=hJThf9mFghk)
+- [52 Weeks AWS: Episode 27-AWS ML Certification: Continued](https://www.youtube.com/watch?v=SygwiE8RdvQ)
+- [52 Weeks of Swift: Episode 19-Nested Types](https://www.youtube.com/watch?v=Yo9Jabwuju8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [52 weeks Swift-18-type-casting](https://www.youtube.com/watch?v=ImGod0ImiQ8)
-- [52 Weeks MLOPs: Episode 8-Live Coding Ludwig](https://www.youtube.com/watch?v=vS-hiHDdelc)
-- [52 Weeks Live Coding .NET-EP1 Github Codespaces](https://www.youtube.com/watch?v=psD7i73PTRk)
-- [52 Weeks of AWS  Episode 25:  AWS ML Cert-Sagemaker pipelines Part 2](https://www.youtube.com/watch?v=OIk1mF28OBs)
-- [52-Weeks-Live-Coding-MLOps-Episode-9  Diving into Ludwig](https://www.youtube.com/watch?v=hJThf9mFghk)
 - [52 Weeks AWS: Episode 27-AWS ML Certification: Continued](https://www.youtube.com/watch?v=SygwiE8RdvQ)
+- [52 Weeks of Live Coding .NET: Episode 2](https://www.youtube.com/watch?v=dnVQWEg5Jj8)
+- [52-weeks-of-exploring-interesting languages:  Episode 1-Julia](https://www.youtube.com/watch?v=l4ZCiYhcqm0)
+- [52-weeks-rust: ep-1](https://www.youtube.com/watch?v=qv7m-SFZiNM)
+- [52-Weeks-Live-Coding-MLOps-Episode-9  Diving into Ludwig](https://www.youtube.com/watch?v=hJThf9mFghk)
 - [52 Weeks of Swift: Episode 19-Nested Types](https://www.youtube.com/watch?v=Yo9Jabwuju8)
+- [52 weeks Swift-18-type-casting](https://www.youtube.com/watch?v=ImGod0ImiQ8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

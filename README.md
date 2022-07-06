@@ -101,10 +101,10 @@ Updates on new material post book release.
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [52-Weeks-Live-Coding-MLOps-Episode-10](https://www.youtube.com/watch?v=Jp4ungbU5e0)
 - [52 Weeks AWS: Episode 28-AWS ML Certification Continued](https://www.youtube.com/watch?v=cGBPSyontkM)
-- [2 Weeks of Swift: Episode 20-Extensions](https://www.youtube.com/watch?v=WPY8yPpXmNA)
-- [52 Weeks of Live Coding .NET: Episode 3](https://www.youtube.com/watch?v=K3ATfDzJ5Uw)
+- [52 Weeks of Live Coding .NET: Episode 3](https://www.youtube.com/watch?v=6D3JB9tu7vo)
 - [52-weeks-of-exploring-interesting languages: Episode 2-Julia](https://www.youtube.com/watch?v=2xkQGIye5u0)
 - [52-weeks-rust: ep-2](https://www.youtube.com/watch?v=HEaK55Wn1m0)
+- [2 Weeks of Swift: Episode 20-Extensions](https://www.youtube.com/watch?v=WPY8yPpXmNA)
 - [test](https://www.youtube.com/watch?v=aNFQvTQ1BZM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 

@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Helping humans at scale:  Continuous Delivery of Hugo on AWS](https://www.youtube.com/watch?v=LKYYQFDTpqY)
-- [52-Weeks-Live-Coding-MLOps-Episode-10](https://www.youtube.com/watch?v=Jp4ungbU5e0)
-- [52 Weeks AWS: Episode 28-AWS ML Certification Continued](https://www.youtube.com/watch?v=cGBPSyontkM)
-- [52 Weeks of Live Coding .NET: Episode 3](https://www.youtube.com/watch?v=6D3JB9tu7vo)
-- [52-weeks-of-exploring-interesting languages: Episode 2-Julia](https://www.youtube.com/watch?v=2xkQGIye5u0)
-- [52-weeks-rust: ep-2](https://www.youtube.com/watch?v=HEaK55Wn1m0)
-- [2 Weeks of Swift: Episode 20-Extensions](https://www.youtube.com/watch?v=WPY8yPpXmNA)
+- [EP1- Assimilate Python from Zero](https://www.youtube.com/watch?v=ytbItKOzCXs)
+- [EP 11-52-Weeks-Live-Coding-MLOps](https://www.youtube.com/watch?v=7yEHPDI7pgc)
+- [52 Weeks AWS: Episode 29-AWS ML Certification Continued](https://www.youtube.com/watch?v=Xirj4lOFbWY)
+- [52 weeks of Swift: EP21-Protocols](https://www.youtube.com/watch?v=LS7Pt3oF9ug)
+- [52 Weeks of Live Coding .NET: Episode 4](https://www.youtube.com/watch?v=bFP2etReT2A)
+- [EP3-52-weeks-of-exploring-interesting languages:](https://www.youtube.com/watch?v=u54JDWew5aI)
+- [52-weeks-rust: ep-3](https://www.youtube.com/watch?v=dcEQe6KhOOE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

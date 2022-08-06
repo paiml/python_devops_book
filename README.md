@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Compiling Python from scratch with Github Codespaces](https://www.youtube.com/watch?v=HIggT7dfwkw)
+- [Learn to use a CUDA GPU to dramatically speed up code in Python.](https://www.youtube.com/watch?v=JdAuPdtyRfo)
 - [Learn Python in One Hour!](https://www.youtube.com/watch?v=Sz_lUOtbL4s)
 - [Interview with the O'Reilly Authors of AWS Cookbook](https://www.youtube.com/watch?v=V0EhJ4hyngo)
 - [Conversation with Piero Molino and Ludwig/Predibase](https://www.youtube.com/watch?v=f5dfKr08VNs)
 - [Javier Luraschi and Pedro Luraschi, Co-Founders of Hal9.ai](https://www.youtube.com/watch?v=sjPW1oothfg)
 - [52 Weeks of Cloud: GPT-3 Book Interview](https://www.youtube.com/watch?v=ISleERbZUyI)
-- [Learn to use a CUDA GPU to dramatically speed up code in Python.](https://www.youtube.com/watch?v=JdAuPdtyRfo)
-- [Learn Python for DevOps in Two Hours](https://www.youtube.com/watch?v=Um16Gb5NZtY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

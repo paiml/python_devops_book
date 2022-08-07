@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Key Skills Software Craftsmanship-10 Lessons](https://www.youtube.com/watch?v=UWfOVQxSPOg)
+- [Build Real-World Python Microservices with Continuous Delivery From Zero](https://www.youtube.com/watch?v=Og50kOBw6k4)
+- [Key Skills Software Craftsmanship-10 Lessons](https://www.youtube.com/watch?v=qNBr5A0Kzgk)
+- [Speed Up Python DRAMATICALLY With CUDA GPU](https://www.youtube.com/watch?v=cXlz-hZ_bgU)
+- [Build Real-World AWS Microservices with Python and FastAPI From Zero](https://www.youtube.com/watch?v=SqFFCTNyi88)
 - [Compiling Python from scratch with Github Codespaces](https://www.youtube.com/watch?v=HIggT7dfwkw)
 - [Learn to use a CUDA GPU to dramatically speed up code in Python.](https://www.youtube.com/watch?v=JdAuPdtyRfo)
-- [Learn Python in One Hour!](https://www.youtube.com/watch?v=Sz_lUOtbL4s)
-- [Interview with the O'Reilly Authors of AWS Cookbook](https://www.youtube.com/watch?v=V0EhJ4hyngo)
-- [Conversation with Piero Molino and Ludwig/Predibase](https://www.youtube.com/watch?v=f5dfKr08VNs)
-- [Javier Luraschi and Pedro Luraschi, Co-Founders of Hal9.ai](https://www.youtube.com/watch?v=sjPW1oothfg)
-- [52 Weeks of Cloud: GPT-3 Book Interview](https://www.youtube.com/watch?v=ISleERbZUyI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

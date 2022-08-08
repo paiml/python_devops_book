@@ -100,12 +100,12 @@ Updates on new material post book release.
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Key Skills Software Craftsmanship-10 Lessons](https://www.youtube.com/watch?v=UWfOVQxSPOg)
+- [Practical MLOPS Chap2 MLOps Foundations](https://www.youtube.com/watch?v=CwKnRCiYI4o)
 - [Build Real-World Python Microservices with Continuous Delivery From Zero](https://www.youtube.com/watch?v=Og50kOBw6k4)
 - [Key Skills Software Craftsmanship-10 Lessons](https://www.youtube.com/watch?v=qNBr5A0Kzgk)
 - [Speed Up Python DRAMATICALLY With CUDA GPU](https://www.youtube.com/watch?v=cXlz-hZ_bgU)
 - [Build Real-World AWS Microservices with Python and FastAPI From Zero](https://www.youtube.com/watch?v=SqFFCTNyi88)
 - [Compiling Python from scratch with Github Codespaces](https://www.youtube.com/watch?v=HIggT7dfwkw)
-- [Learn to use a CUDA GPU to dramatically speed up code in Python.](https://www.youtube.com/watch?v=JdAuPdtyRfo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

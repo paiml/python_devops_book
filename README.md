@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Key Skills Software Craftsmanship-10 Lessons](https://www.youtube.com/watch?v=UWfOVQxSPOg)
-- [Practical MLOPS Chap2 MLOps Foundations](https://www.youtube.com/watch?v=CwKnRCiYI4o)
-- [Build Real-World Python Microservices with Continuous Delivery From Zero](https://www.youtube.com/watch?v=Og50kOBw6k4)
-- [Key Skills Software Craftsmanship-10 Lessons](https://www.youtube.com/watch?v=qNBr5A0Kzgk)
-- [Speed Up Python DRAMATICALLY With CUDA GPU](https://www.youtube.com/watch?v=cXlz-hZ_bgU)
-- [Build Real-World AWS Microservices with Python and FastAPI From Zero](https://www.youtube.com/watch?v=SqFFCTNyi88)
-- [Compiling Python from scratch with Github Codespaces](https://www.youtube.com/watch?v=HIggT7dfwkw)
+- [Python Functions Simple to Complex](https://www.youtube.com/watch?v=XAsDsAcOZ5w)
+- [Build python project nlp text blob python fire complete](https://www.youtube.com/watch?v=Wgyf66JXmhY)
+- [Build containerized FastAPI Microservice for NLP](https://www.youtube.com/watch?v=EGiXs9zph7Y)
+- [Python functions simple to complex](https://www.youtube.com/watch?v=Pexdc-ho3iQ)
+- [Python statements with colab notebook](https://www.youtube.com/watch?v=Y4k3bcH3C4A)
+- [Build an end-to-end NLP command-line tool with Python](https://www.youtube.com/watch?v=fowgWeyEhE4)
+- [Learn Python for DevOps in Two Hours](https://www.youtube.com/watch?v=Um16Gb5NZtY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

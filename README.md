@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Python Functions Simple to Complex](https://www.youtube.com/watch?v=XAsDsAcOZ5w)
-- [Build python project nlp text blob python fire complete](https://www.youtube.com/watch?v=Wgyf66JXmhY)
-- [Build containerized FastAPI Microservice for NLP](https://www.youtube.com/watch?v=EGiXs9zph7Y)
-- [Python functions simple to complex](https://www.youtube.com/watch?v=Pexdc-ho3iQ)
-- [Python statements with colab notebook](https://www.youtube.com/watch?v=Y4k3bcH3C4A)
-- [Build an end-to-end NLP command-line tool with Python](https://www.youtube.com/watch?v=fowgWeyEhE4)
-- [Learn Python for DevOps in Two Hours](https://www.youtube.com/watch?v=Um16Gb5NZtY)
+- [Python Strings Deep Dive](https://www.youtube.com/watch?v=0hXZpXLaDI8)
+- [EP 12-52-Weeks-Live-Coding-MLOps](https://www.youtube.com/watch?v=tE1GYUUVV7M)
+- [52 Weeks AWS: Episode 29-Certified-Developer](https://www.youtube.com/watch?v=oSEQI7V1ayU)
+- [52 Weeks of Live Coding .NET: Episode 5](https://www.youtube.com/watch?v=7ew0_619qVI)
+- [EP4-52-weeks-of-exploring-interesting-languages:  Julia](https://www.youtube.com/watch?v=xBOFrUpZLbM)
+- [52-weeks-rust: ep-4](https://www.youtube.com/watch?v=8O7idhmwH2Q)
+- [EP2- Assimilate Python from Zero](https://www.youtube.com/watch?v=E7tHsre7UZ0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

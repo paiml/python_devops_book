@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Python Strings Deep Dive](https://www.youtube.com/watch?v=0hXZpXLaDI8)
+- [Build an AWS Boto3 tool with Python Fire  test it with CI/CD.](https://www.youtube.com/watch?v=COLAKJFkfcs)
+- [Practical MLOPS Chap2 MLOps Foundations](https://www.youtube.com/watch?v=CwKnRCiYI4o)
+- [Key skills Python filesystem and processes](https://www.youtube.com/watch?v=alv0WnusaN0)
+- [Real-world MLOps with Malcolm Smith Fraser Duke MIDS Alumni](https://www.youtube.com/watch?v=NzUqC1MDztc)
+- [DevOps Theory Key Concepts](https://www.youtube.com/watch?v=rDA6daGXqAw)
+- [Deep dive into Python Strings](https://www.youtube.com/watch?v=gA2qrdFicAY)
 - [EP 12-52-Weeks-Live-Coding-MLOps](https://www.youtube.com/watch?v=tE1GYUUVV7M)
-- [52 Weeks AWS: Episode 29-Certified-Developer](https://www.youtube.com/watch?v=oSEQI7V1ayU)
-- [52 Weeks of Live Coding .NET: Episode 5](https://www.youtube.com/watch?v=7ew0_619qVI)
-- [EP4-52-weeks-of-exploring-interesting-languages:  Julia](https://www.youtube.com/watch?v=xBOFrUpZLbM)
-- [52-weeks-rust: ep-4](https://www.youtube.com/watch?v=8O7idhmwH2Q)
-- [EP2- Assimilate Python from Zero](https://www.youtube.com/watch?v=E7tHsre7UZ0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

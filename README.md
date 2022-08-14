@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Real-world MLOps with Malcolm Smith Fraser Duke MIDS Alumni](https://www.youtube.com/watch?v=NzUqC1MDztc)
-- [MLOps with Head of Duke Artificial Intelligence PI MS Program](https://www.youtube.com/watch?v=XcpRjmyyGAs)
-- [Build Containerized FastAPI NLP Microservice on AWS](https://www.youtube.com/watch?v=abxMbFX9wsA)
-- [DevOps Theory Key Concepts](https://www.youtube.com/watch?v=rDA6daGXqAw)
-- [Build an AWS Boto3 tool with Python Fire  test it with CI/CD.](https://www.youtube.com/watch?v=COLAKJFkfcs)
-- [Practical MLOPS Chap2 MLOps Foundations](https://www.youtube.com/watch?v=CwKnRCiYI4o)
-- [Key skills Python filesystem and processes](https://www.youtube.com/watch?v=alv0WnusaN0)
+- [Python Statements with Google Colab, IPython and GitHub CodeSpaces](https://www.youtube.com/watch?v=DQFXx-ezbN0)
+- [Assimilate Python from Zero-Lists](https://www.youtube.com/watch?v=cjWpwc_XiWM)
+- [EP 13-52-Weeks-Live-Coding-MLOps-Vertex AI-GCP](https://www.youtube.com/watch?v=n3CltwVnfZg)
+- [52 Weeks AWS: Episode 30-Certified-Developer-Part2-IAM](https://www.youtube.com/watch?v=MmZquwmmFw4)
+- [52 weeks of Swift: OpaqueTypes](https://www.youtube.com/watch?v=zt-ML4f7u4A)
+- [52Weeks .NET: EP6-More CDK2.0/C#](https://www.youtube.com/watch?v=KRIkZA3wwhw)
+- [52weeks-EIL: Julia-EP5-Control Flow](https://www.youtube.com/watch?v=LXEginqSZAU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

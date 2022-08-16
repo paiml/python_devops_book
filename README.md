@@ -99,8 +99,8 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Python Statements with Google Colab, IPython and GitHub CodeSpaces](https://www.youtube.com/watch?v=DQFXx-ezbN0)
 - [End To End Mlops Hugging Face Application](https://www.youtube.com/watch?v=C1P5_OSRRos)
+- [Python Statements with Google Colab, IPython and GitHub CodeSpaces](https://www.youtube.com/watch?v=DQFXx-ezbN0)
 - [End to End MLOPs Hugging Face Application](https://www.youtube.com/watch?v=EmsJG8RVhWY)
 - [Assimilate Python from Zero-Lists](https://www.youtube.com/watch?v=cjWpwc_XiWM)
 - [EP 13-52-Weeks-Live-Coding-MLOps-Vertex AI-GCP](https://www.youtube.com/watch?v=n3CltwVnfZg)

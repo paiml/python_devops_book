@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Hand on healthcare review](https://www.youtube.com/watch?v=ou2jPQVUpcw)
+- [MLOps with Head of Duke Artificial Intelligence PI MS Program](https://www.youtube.com/watch?v=9Kl2uHggNUQ)
 - [Assimilate Python from Zero-Lists](https://www.youtube.com/watch?v=cjWpwc_XiWM)
 - [EP 13-52-Weeks-Live-Coding-MLOps-Vertex AI-GCP](https://www.youtube.com/watch?v=n3CltwVnfZg)
 - [52Weeks .NET: EP6-More CDK2.0/C#](https://www.youtube.com/watch?v=2k32qV7x-vo)
 - [52weeks-EIL: Julia-EP5-Control Flow](https://www.youtube.com/watch?v=LXEginqSZAU)
 - [52-weeks-rust: ep-5](https://www.youtube.com/watch?v=wQwc15bZLqg)
-- [52 Weeks AWS: Episode 30-Certified-Developer-Part2-IAM](https://www.youtube.com/watch?v=MmZquwmmFw4)
-- [52 weeks of Swift: OpaqueTypes](https://www.youtube.com/watch?v=zt-ML4f7u4A)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

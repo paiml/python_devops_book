@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Heavy vs Light MLOPs](https://www.youtube.com/watch?v=7T0j5Z2iMI0)
-- [Benefits Microservices](https://www.youtube.com/watch?v=9X_7d1Jn3hI)
-- [Operationalize Microservices](https://www.youtube.com/watch?v=z_FoYjQQBDo)
-- [MLOps with Head of Duke Artificial Intelligence PI MS Program](https://www.youtube.com/watch?v=9Kl2uHggNUQ)
-- [Hand on healthcare review](https://www.youtube.com/watch?v=ou2jPQVUpcw)
-- [Assimilate Python from Zero-Lists](https://www.youtube.com/watch?v=cjWpwc_XiWM)
-- [EP 13-52-Weeks-Live-Coding-MLOps-Vertex AI-GCP](https://www.youtube.com/watch?v=n3CltwVnfZg)
+- [52Weeks .NET: EP7-More CDK2.0/C#](https://www.youtube.com/watch?v=egdaGOkq6zY)
+- [Hugging-Face-Enterprise-MLOps-Interview:  Julien Simon](https://www.youtube.com/watch?v=QRAGPxjCHHI)
+- [MLOps hierarchy of needs](https://www.youtube.com/watch?v=8hfTN3acPvY)
+- [Assimilate Python from Zero-Functions](https://www.youtube.com/watch?v=GjyjY5nJ30A)
+- [EP 15-52-Weeks-Live-Coding-Building-Prototypes-Hugging-Face](https://www.youtube.com/watch?v=HVDfpIYZtcU)
+- [52 Weeks AWS: Episode 30-Certified-Developer-Part4-DynamoDB](https://www.youtube.com/watch?v=UwYQIyH5yy0)
+- [52 weeks of Swift: MemorySafety](https://www.youtube.com/watch?v=_npGtxD-nDY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

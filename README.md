@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Assimilate-OpenAI](https://www.youtube.com/watch?v=lgGyDd_fQrA)
-- [Assimilate-Hugging Face: EP1](https://www.youtube.com/watch?v=CMiIxPo3j4k)
-- [Assimilate-OpenAI-EP.2](https://www.youtube.com/watch?v=RkejSPwxsFE)
-- [Assimilate-Databricks Certified Machine Learning](https://www.youtube.com/watch?v=TQn3jOXpVhE)
-- [Assimilate-Google-Professional-ML-Certification](https://www.youtube.com/watch?v=mgh2y-u0BCc)
-- [52Weeks .NET: EP7-More CDK2.0/C#](https://www.youtube.com/watch?v=egdaGOkq6zY)
-- [Hugging-Face-Enterprise-MLOps-Interview:  Julien Simon](https://www.youtube.com/watch?v=QRAGPxjCHHI)
+- [Live Coding OpenAI with O'Reilly Author Shubham Saboo](https://www.youtube.com/watch?v=lcR6EouBwN8)
+- [Assimilate Python from Zero-Functions](https://www.youtube.com/watch?v=GjyjY5nJ30A)
+- [EP 15-52-Weeks-Live-Coding-Building-Prototypes-Hugging-Face](https://www.youtube.com/watch?v=HVDfpIYZtcU)
+- [52 Weeks AWS: Episode 30-Certified-Developer-Part4-DynamoDB](https://www.youtube.com/watch?v=UwYQIyH5yy0)
+- [52 weeks of Swift: MemorySafety](https://www.youtube.com/watch?v=_npGtxD-nDY)
+- [52Weeks .NET: EP8-Build-Full-CDK2.0-Projects-C#](https://www.youtube.com/watch?v=QJ5oMUibrh0)
+- [52weeks-EIL: Julia-EP7-Types](https://www.youtube.com/watch?v=ypJDt71c6aQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

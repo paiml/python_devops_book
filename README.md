@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Cloud developer workspace advantage](https://www.youtube.com/watch?v=5gw30mFmDzc)
+- [Assimilate Open AI-EP2](https://www.youtube.com/watch?v=t1e9ZvkcLT0)
+- [Assimilate-Hugging Face: EP1](https://www.youtube.com/watch?v=CMiIxPo3j4k)
+- [Assimilate-Google-Professional-ML-Certification](https://www.youtube.com/watch?v=mgh2y-u0BCc)
 - [Configuring and Customizing GitHub CodeSpace:  One Hour Deep Dive Alfredo Deza](https://www.youtube.com/watch?v=E2sRPvvvGPE)
+- [Assimilate-Databricks Certified Machine Learning](https://www.youtube.com/watch?v=TQn3jOXpVhE)
+- [Cloud developer workspace advantage](https://www.youtube.com/watch?v=5gw30mFmDzc)
 - [Live Coding OpenAI with O'Reilly Author Shubham Saboo](https://www.youtube.com/watch?v=lcR6EouBwN8)
-- [Assimilate Python from Zero-Functions](https://www.youtube.com/watch?v=GjyjY5nJ30A)
-- [EP 15-52-Weeks-Live-Coding-Building-Prototypes-Hugging-Face](https://www.youtube.com/watch?v=HVDfpIYZtcU)
-- [52 Weeks AWS: Episode 30-Certified-Developer-Part4-DynamoDB](https://www.youtube.com/watch?v=UwYQIyH5yy0)
-- [52 weeks of Swift: MemorySafety](https://www.youtube.com/watch?v=_npGtxD-nDY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

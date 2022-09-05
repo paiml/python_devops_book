@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Assimilate AWS by Coding](https://www.youtube.com/watch?v=EEV3ooOQv_I)
+- [Enterprise MLOps Interview-Simon Stiebellehner](https://www.youtube.com/watch?v=X_T68SIwG5o)
+- [Enterprise MLOps Interview Brian Ray](https://www.youtube.com/watch?v=5gPP2GxqO6g)
 - [Advanced Heuristics and Algorithms in Python](https://www.youtube.com/watch?v=UTAfMJaIVMY)
 - [Assimilate Open AI-EP3-Build more CLI tools](https://www.youtube.com/watch?v=RUkMHOOe3w8)
 - [Assimilate-Hugging Face: EP2-Building CLI Summarizer Cont](https://www.youtube.com/watch?v=CM1rXIIrx0w)
 - [Assimilate-Databricks Certified Machine Learning-EP 2](https://www.youtube.com/watch?v=rloXAjSvUCs)
-- [Assimilate-Google-Professional-ML-Certification-EP2](https://www.youtube.com/watch?v=CZCo8heliWQ)
-- [Assimilate Python from Zero-Dictionaries](https://www.youtube.com/watch?v=vxpr6zgLIgU)
-- [Live Coding MLOps: EP16-Deploying Hugging Face to Cloud](https://www.youtube.com/watch?v=iWOG0mTGfr0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

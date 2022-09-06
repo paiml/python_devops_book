@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Live Coding OpenAI with O'Reilly Author Shubham Saboo](https://www.youtube.com/watch?v=lcR6EouBwN8)
+- [Create, package, and test a Python command-line tool Live!](https://www.youtube.com/watch?v=Hv1r2cWToHg)
 - [Assimilate AWS by Coding](https://www.youtube.com/watch?v=EEV3ooOQv_I)
 - [Enterprise MLOps Interview-Simon Stiebellehner](https://www.youtube.com/watch?v=X_T68SIwG5o)
 - [Enterprise MLOps Interview Brian Ray](https://www.youtube.com/watch?v=5gPP2GxqO6g)
 - [Advanced Heuristics and Algorithms in Python](https://www.youtube.com/watch?v=UTAfMJaIVMY)
 - [Assimilate Open AI-EP3-Build more CLI tools](https://www.youtube.com/watch?v=RUkMHOOe3w8)
-- [Assimilate-Hugging Face: EP2-Building CLI Summarizer Cont](https://www.youtube.com/watch?v=CM1rXIIrx0w)
-- [Assimilate-Databricks Certified Machine Learning-EP 2](https://www.youtube.com/watch?v=rloXAjSvUCs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

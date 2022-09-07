@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Live Coding OpenAI with O'Reilly Author Shubham Saboo](https://www.youtube.com/watch?v=lcR6EouBwN8)
-- [Create, package, and test a Python command-line tool Live!](https://www.youtube.com/watch?v=Hv1r2cWToHg)
-- [Assimilate AWS by Coding](https://www.youtube.com/watch?v=EEV3ooOQv_I)
-- [Enterprise MLOps Interview-Simon Stiebellehner](https://www.youtube.com/watch?v=X_T68SIwG5o)
-- [Enterprise MLOps Interview Brian Ray](https://www.youtube.com/watch?v=5gPP2GxqO6g)
-- [Advanced Heuristics and Algorithms in Python](https://www.youtube.com/watch?v=UTAfMJaIVMY)
-- [Assimilate Open AI-EP3-Build more CLI tools](https://www.youtube.com/watch?v=RUkMHOOe3w8)
+- [Assimilate Python from Zero-Dictionaries](https://www.youtube.com/watch?v=vxpr6zgLIgU)
+- [Live Coding MLOps: EP16-Deploying Hugging Face to Cloud](https://www.youtube.com/watch?v=iWOG0mTGfr0)
+- [52 Weeks AWS: Episode 35-Certified-Developer-Part5-CloudFront](https://www.youtube.com/watch?v=Z8prVkq6ayk)
+- [52 weeks of Swift: Build a CLI using Github Copilot as a friend](https://www.youtube.com/watch?v=W5aM582my4c)
+- [52Weeks .NET: EP9-C# Lambda Deployed with CDK](https://www.youtube.com/watch?v=nih6Iv9Yv2Y)
+- [52weeks-Julia-EP8-Methods](https://www.youtube.com/watch?v=Ux0ZizJOdo0)
+- [52-weeks-rust-ep8-match-control](https://www.youtube.com/watch?v=YUOghzlI-DQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

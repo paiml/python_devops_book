@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Assimilate Open AI-EP3-Build more CLI tools](https://www.youtube.com/watch?v=RUkMHOOe3w8)
+- [Assimilate-Hugging Face: EP2-Building CLI Summarizer Cont](https://www.youtube.com/watch?v=CM1rXIIrx0w)
+- [Advanced Heuristics and Algorithms in Python](https://www.youtube.com/watch?v=UTAfMJaIVMY)
+- [Assimilate-Databricks Certified Machine Learning-EP 2](https://www.youtube.com/watch?v=rloXAjSvUCs)
+- [Assimilate-Google-Professional-ML-Certification-EP2](https://www.youtube.com/watch?v=CZCo8heliWQ)
 - [Cutting Edge MLOps using Github Codespaces Hugging Face OpenAI and Copilot AI to Write AI](https://www.youtube.com/watch?v=z1YfpsBvk-E)
 - [Assimilate Python from Zero-Dictionaries](https://www.youtube.com/watch?v=vxpr6zgLIgU)
-- [Live Coding MLOps: EP16-Deploying Hugging Face to Cloud](https://www.youtube.com/watch?v=iWOG0mTGfr0)
-- [52 Weeks AWS: Episode 35-Certified-Developer-Part5-CloudFront](https://www.youtube.com/watch?v=Z8prVkq6ayk)
-- [52 weeks of Swift: Build a CLI using Github Copilot as a friend](https://www.youtube.com/watch?v=W5aM582my4c)
-- [52Weeks .NET: EP9-C# Lambda Deployed with CDK](https://www.youtube.com/watch?v=nih6Iv9Yv2Y)
-- [52weeks-Julia-EP8-Methods](https://www.youtube.com/watch?v=Ux0ZizJOdo0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

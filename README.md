@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Assimilate AWS by Coding](https://www.youtube.com/watch?v=x10em7q82KY)
-- [Enterprise MLOps Interview Brian Ray](https://www.youtube.com/watch?v=5gPP2GxqO6g)
-- [Assimilate Open AI-EP3-Build more CLI tools](https://www.youtube.com/watch?v=RUkMHOOe3w8)
-- [Assimilate-Hugging Face: EP2-Building CLI Summarizer Cont](https://www.youtube.com/watch?v=CM1rXIIrx0w)
-- [Advanced Heuristics and Algorithms in Python](https://www.youtube.com/watch?v=UTAfMJaIVMY)
-- [Assimilate-Databricks Certified Machine Learning-EP 2](https://www.youtube.com/watch?v=rloXAjSvUCs)
-- [Assimilate-Google-Professional-ML-Certification-EP2](https://www.youtube.com/watch?v=CZCo8heliWQ)
+- [Assimilate Python from Zero-Dictionaries](https://www.youtube.com/watch?v=4fs2sLRhfzU)
+- [Compiling Python From Scratch with Github](https://www.youtube.com/watch?v=9Owux-jMoT8)
+- [Assimilate-AWS-By-Coding-EP2](https://www.youtube.com/watch?v=gOOMo14vbEc)
+- [Assimilate-Databricks Certified Machine Learning-EP 3](https://www.youtube.com/watch?v=UcmEztfCDt0)
+- [Assimilate-Google-Professional-ML-Certification-EP3](https://www.youtube.com/watch?v=3w4C53jDG5o)
+- [Assimilate-Hugging Face: EP3-More Gradio](https://www.youtube.com/watch?v=KtjCiw-LUAQ)
+- [Assimilate Open AI-EP4-More-Library-WebApp](https://www.youtube.com/watch?v=8KyTe490i7Q)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

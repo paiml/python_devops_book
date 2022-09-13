@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Advanced Heuristics and Algorithms in Python](https://www.youtube.com/watch?v=Ygwz577Imns)
 - [Key Skills Software Craftsmanship-10 Lessons](https://www.youtube.com/watch?v=-6KxJsBD-k0)
 - [Python Functions Simple to Complex](https://www.youtube.com/watch?v=642KDoi3EoE)
 - [Customizing GitHub CodeSpaces:  One Hour Deep Dive Alfredo Deza](https://www.youtube.com/watch?v=rXBtJU2UVOQ)
 - [Assimilate Python from Zero-Dictionaries](https://www.youtube.com/watch?v=4fs2sLRhfzU)
 - [Compiling Python From Scratch with Github](https://www.youtube.com/watch?v=9Owux-jMoT8)
 - [Assimilate-AWS-By-Coding-EP2](https://www.youtube.com/watch?v=gOOMo14vbEc)
-- [Assimilate-Databricks Certified Machine Learning-EP 3](https://www.youtube.com/watch?v=UcmEztfCDt0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

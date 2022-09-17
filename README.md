@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What the HECK is AWS Cloud9 Anyway?](https://www.youtube.com/watch?v=qUAqkJH0ymA)
+- [Build a Microservice with Flask](https://www.youtube.com/watch?v=PED8fADWBMM)
+- [Launch AWS Spot Instances](https://www.youtube.com/watch?v=TjYfG_s5pzE)
 - [Assimilate-Hugging Face: EP3-More Gradio](https://www.youtube.com/watch?v=KtjCiw-LUAQ)
 - [Assimilate Open AI-EP4-More-Library-WebApp](https://www.youtube.com/watch?v=8KyTe490i7Q)
 - [Advanced-Heuristics-and-Algorithms-in-Python: EP2](https://www.youtube.com/watch?v=uHGUHdMGZ-Q)
 - [Assimilate-Databricks Certified Machine Learning-EP 3](https://www.youtube.com/watch?v=UcmEztfCDt0)
-- [Assimilate-Google-Professional-ML-Certification-EP3](https://www.youtube.com/watch?v=3w4C53jDG5o)
-- [Assimilate-Python-from-Zero-Paint-by-Numbers](https://www.youtube.com/watch?v=c-LsK07kUb4)
-- [52wks-AWS-Cert-Developer-Cont-container-services](https://www.youtube.com/watch?v=TJErpfLJIac)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

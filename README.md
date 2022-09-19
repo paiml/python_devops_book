@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Build an AWS Boto3 tool with Python Fire  test it with CI/CD.](https://www.youtube.com/watch?v=V05E6rW101E)
+- [Enterprise MLOps Interview Brian Ray-10 Steps to MLOps](https://www.youtube.com/watch?v=U7HiHytG7Es)
+- [Assimilate-Databricks Certified Machine Learning-EP 3 (Connect Github to Azure)](https://www.youtube.com/watch?v=3SwwPm73wXY)
+- [Assimilate-Google-Professional-ML-Certification-EP3 (Launch web service)](https://www.youtube.com/watch?v=zxWfhJ733Fw)
+- [Assimilate-Python-from-Zero-Paint-by-Numbers](https://www.youtube.com/watch?v=dTjwL9J2YSE)
 - [Build a FRANKENSTIEN Open AI/HuggingFace/Streamlit App](https://www.youtube.com/watch?v=bD6i29XPCD8)
 - [Assimilate-Hugging Face: EP3-Build Hugging Face Dataset Tools From Scratch](https://www.youtube.com/watch?v=kke8bV9FMA8)
-- [What the HECK is AWS Cloud9 Anyway?](https://www.youtube.com/watch?v=qUAqkJH0ymA)
-- [Build a Microservice with Flask](https://www.youtube.com/watch?v=PED8fADWBMM)
-- [Launch AWS Spot Instances](https://www.youtube.com/watch?v=TjYfG_s5pzE)
-- [Assimilate-Hugging Face: EP3-More Gradio](https://www.youtube.com/watch?v=KtjCiw-LUAQ)
-- [Assimilate Open AI-EP4-More-Library-WebApp](https://www.youtube.com/watch?v=8KyTe490i7Q)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

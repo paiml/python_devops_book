@@ -101,11 +101,11 @@ Updates on new material post book release.
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Assimilate-Python-from-Zero-list-comprehensions](https://www.youtube.com/watch?v=V7egl8ol_Fc)
 - [Live-Coding-MLOPs-EP17-GPU-Hugging-Face-Codespaces](https://www.youtube.com/watch?v=3hspHeQm1Tk)
-- [52wks-AWS-Cert-Developer-Cont-sns-sqs](https://www.youtube.com/watch?v=xEi_iCooWbg)
 - [52wks-Swift-CLI-Tools-in-Codespaces](https://www.youtube.com/watch?v=cI5vEwIssx8)
 - [52wks-NET-Using-Nuget-GitHub-Codespaces](https://www.youtube.com/watch?v=KLGh-Ma_hLs)
-- [52wks-Julia-EP9-Julia-Modules](https://www.youtube.com/watch?v=XKh0jFU5aaw)
 - [52wks-Rust: EP9-Packages](https://www.youtube.com/watch?v=31rh-n_OEEE)
+- [52wks-Julia-EP9-Julia-Modules](https://www.youtube.com/watch?v=XKh0jFU5aaw)
+- [Assimilate-AWS-By-Coding-EP3-Bash-CloudEnvs-Containers](https://www.youtube.com/watch?v=-3ygnuxav_o)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

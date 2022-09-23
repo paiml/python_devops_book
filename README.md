@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Assimilate-Python-from-Zero-list-comprehensions](https://www.youtube.com/watch?v=V7egl8ol_Fc)
-- [Live-Coding-MLOPs-EP17-GPU-Hugging-Face-Codespaces](https://www.youtube.com/watch?v=3hspHeQm1Tk)
-- [52wks-Swift-CLI-Tools-in-Codespaces](https://www.youtube.com/watch?v=cI5vEwIssx8)
-- [52wks-NET-Using-Nuget-GitHub-Codespaces](https://www.youtube.com/watch?v=KLGh-Ma_hLs)
-- [52wks-Rust: EP9-Packages](https://www.youtube.com/watch?v=31rh-n_OEEE)
-- [52wks-Julia-EP9-Julia-Modules](https://www.youtube.com/watch?v=XKh0jFU5aaw)
-- [Assimilate-AWS-By-Coding-EP3-Bash-CloudEnvs-Containers](https://www.youtube.com/watch?v=-3ygnuxav_o)
+- [Hugging-Face-LiveCoding](https://www.youtube.com/watch?v=0U3DvyeBfRk)
+- [OpenAI-Live-Coding](https://www.youtube.com/watch?v=pWNZVpg_AZU)
+- [Heuristics & Algo Python-Live-Stream](https://www.youtube.com/watch?v=X48LXpCQ-RI)
+- [Databricks-ML-Cert-Live-Stream](https://www.youtube.com/watch?v=tpVt7mG3gvI)
+- [Google-ML-Cert-Live-Stream](https://www.youtube.com/watch?v=iVAY5JKf93Y)
+- [Assimilate-Python](https://www.youtube.com/watch?v=sVTgrDdgbSw)
+- [MLOPs-Live-Stream](https://www.youtube.com/watch?v=atYF26O9qEc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

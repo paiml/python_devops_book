@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Enterprise MLOps Interview-Simon Stiebellehner](https://www.youtube.com/watch?v=X_T68SIwG5o)
+- [Use NuGet package manager for .NET and C# inside GitHub Codespaces with Visual Studio Code!!!](https://www.youtube.com/watch?v=fy5KF_vnqGY)
+- [Build containers on AWS with Cloud9 and ECR!!!](https://www.youtube.com/watch?v=qEgPucHrx4U)
 - [Hugging-Face-LiveCoding](https://www.youtube.com/watch?v=0U3DvyeBfRk)
 - [OpenAI-Live-Coding](https://www.youtube.com/watch?v=pWNZVpg_AZU)
 - [Heuristics & Algo Python-Live-Stream](https://www.youtube.com/watch?v=X48LXpCQ-RI)
 - [Databricks-ML-Cert-Live-Stream](https://www.youtube.com/watch?v=tpVt7mG3gvI)
-- [Google-ML-Cert-Live-Stream](https://www.youtube.com/watch?v=iVAY5JKf93Y)
-- [Assimilate-Python](https://www.youtube.com/watch?v=sVTgrDdgbSw)
-- [MLOPs-Live-Stream](https://www.youtube.com/watch?v=atYF26O9qEc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Learn AWS SQS and SNS and Managed Queues](https://www.youtube.com/watch?v=IOEU65S6tUk)
+- [PYTHON FIRE IS FIRE!!! Learn to use Fire to build AWS Tools.](https://www.youtube.com/watch?v=8JdB-evlmfw)
+- [Benchmark Python List Comprehensions!!!](https://www.youtube.com/watch?v=a15s4kNHj10)
 - [Enterprise MLOps Interview-Simon Stiebellehner](https://www.youtube.com/watch?v=X_T68SIwG5o)
 - [Use NuGet package manager for .NET and C# inside GitHub Codespaces with Visual Studio Code!!!](https://www.youtube.com/watch?v=fy5KF_vnqGY)
 - [Build containers on AWS with Cloud9 and ECR!!!](https://www.youtube.com/watch?v=qEgPucHrx4U)
 - [Hugging-Face-LiveCoding](https://www.youtube.com/watch?v=0U3DvyeBfRk)
-- [OpenAI-Live-Coding](https://www.youtube.com/watch?v=pWNZVpg_AZU)
-- [Heuristics & Algo Python-Live-Stream](https://www.youtube.com/watch?v=X48LXpCQ-RI)
-- [Databricks-ML-Cert-Live-Stream](https://www.youtube.com/watch?v=tpVt7mG3gvI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

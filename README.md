@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [More Step Functions Lesson on AWS with Python](https://www.youtube.com/watch?v=Tk4iVlQhkzk)
+- [Learn Python in  5 Minutes with Colab](https://www.youtube.com/watch?v=36hVt-PWJXo)
+- [Data Engineering with AWS Step Functions for the Impatient](https://www.youtube.com/watch?v=qoVAEflgcZ4)
 - [Learn AWS SQS and SNS and Managed Queues](https://www.youtube.com/watch?v=IOEU65S6tUk)
 - [PYTHON FIRE IS FIRE!!! Learn to use Fire to build AWS Tools.](https://www.youtube.com/watch?v=8JdB-evlmfw)
 - [Benchmark Python List Comprehensions!!!](https://www.youtube.com/watch?v=a15s4kNHj10)
 - [Enterprise MLOps Interview-Simon Stiebellehner](https://www.youtube.com/watch?v=X_T68SIwG5o)
-- [Use NuGet package manager for .NET and C# inside GitHub Codespaces with Visual Studio Code!!!](https://www.youtube.com/watch?v=fy5KF_vnqGY)
-- [Build containers on AWS with Cloud9 and ECR!!!](https://www.youtube.com/watch?v=qEgPucHrx4U)
-- [Hugging-Face-LiveCoding](https://www.youtube.com/watch?v=0U3DvyeBfRk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

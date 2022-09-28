@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Assimilate-Python](https://www.youtube.com/watch?v=sVTgrDdgbSw)
+- [MLOPs-Live-Stream](https://www.youtube.com/watch?v=atYF26O9qEc)
+- [AWS-Live-Stream](https://www.youtube.com/watch?v=YtZLsJ0LGIQ)
 - [.NET-Live-Stream](https://www.youtube.com/watch?v=SFNK_6IXMcU)
 - [Rust-Live-Stream](https://www.youtube.com/watch?v=81C17muCLws)
 - [Julia-Live-Stream](https://www.youtube.com/watch?v=XC_vPqzqTME)
 - [More Step Functions Lesson on AWS with Python](https://www.youtube.com/watch?v=Tk4iVlQhkzk)
-- [Learn Python in  5 Minutes with Colab](https://www.youtube.com/watch?v=36hVt-PWJXo)
-- [Data Engineering with AWS Step Functions for the Impatient](https://www.youtube.com/watch?v=qoVAEflgcZ4)
-- [Learn AWS SQS and SNS and Managed Queues](https://www.youtube.com/watch?v=IOEU65S6tUk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Enterprise-MLOps-Interview-Hugging-Face-O’Reilly-Authors](https://www.youtube.com/watch?v=LUS08i2Fv_8)
 - [Assimilate-Python](https://www.youtube.com/watch?v=sVTgrDdgbSw)
 - [MLOPs-Live-Stream](https://www.youtube.com/watch?v=atYF26O9qEc)
 - [AWS-Live-Stream](https://www.youtube.com/watch?v=YtZLsJ0LGIQ)
 - [.NET-Live-Stream](https://www.youtube.com/watch?v=SFNK_6IXMcU)
 - [Rust-Live-Stream](https://www.youtube.com/watch?v=81C17muCLws)
 - [Julia-Live-Stream](https://www.youtube.com/watch?v=XC_vPqzqTME)
-- [More Step Functions Lesson on AWS with Python](https://www.youtube.com/watch?v=Tk4iVlQhkzk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

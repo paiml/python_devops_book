@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Enterprise-MLOps-Interview-Hugging-Face-O’Reilly-Authors](https://www.youtube.com/watch?v=LUS08i2Fv_8)
+- [Learn to use GitHub CoPilot to Translate Code and Build Boilerplate Code](https://www.youtube.com/watch?v=L3EtigU0Bws)
+- [Building logistics projects with GitHub ecosystem and Github Copilot](https://www.youtube.com/watch?v=_z4VffuXSi0)
+- [GitHub Repo with teaching template](https://www.youtube.com/watch?v=vrUleDpIdI8)
+- [Key Skills Python DevOps Projects with Copilot](https://www.youtube.com/watch?v=tshgcxCa2e0)
+- [Enterprise-MLOps-Interview-Hugging-Face-O’Reilly-Authors](https://www.youtube.com/watch?v=al0xvbNW9jE)
 - [Assimilate-Python](https://www.youtube.com/watch?v=sVTgrDdgbSw)
 - [MLOPs-Live-Stream](https://www.youtube.com/watch?v=atYF26O9qEc)
-- [AWS-Live-Stream](https://www.youtube.com/watch?v=YtZLsJ0LGIQ)
-- [.NET-Live-Stream](https://www.youtube.com/watch?v=SFNK_6IXMcU)
-- [Rust-Live-Stream](https://www.youtube.com/watch?v=81C17muCLws)
-- [Julia-Live-Stream](https://www.youtube.com/watch?v=XC_vPqzqTME)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Dhanasekar-Duke Phd-Microsoft-Research-Enterprise-MLOps](https://www.youtube.com/watch?v=5oWe-FijR1c)
 - [Ville Tuulos-Metaflow-MLOps-Conversation](https://www.youtube.com/watch?v=55qYCawYvFg)
 - [Enterprise-MLOps-Bindu-Reddy-Abacus.AI](https://www.youtube.com/watch?v=KM-bZuVyl_4)
 - [Learn to use GitHub CoPilot to Translate Code and Build Boilerplate Code](https://www.youtube.com/watch?v=L3EtigU0Bws)
 - [Building logistics projects with GitHub ecosystem and Github Copilot](https://www.youtube.com/watch?v=_z4VffuXSi0)
 - [GitHub Repo with teaching template](https://www.youtube.com/watch?v=vrUleDpIdI8)
 - [Key Skills Python DevOps Projects with Copilot](https://www.youtube.com/watch?v=tshgcxCa2e0)
-- [Enterprise-MLOps-Interview-Hugging-Face-O’Reilly-Authors](https://www.youtube.com/watch?v=al0xvbNW9jE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -99,11 +99,11 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Ville Tuulos-Metaflow-MLOps-Conversation](https://www.youtube.com/watch?v=55qYCawYvFg)
 - [Live Pair Programming CodeWhisperer with Brian Tarbox](https://www.youtube.com/watch?v=lOgLCW2tf9I)
 - [Amazon CodeWhisperer Live Demo](https://www.youtube.com/watch?v=E0jCIPaIaiA)
 - [Dhanasekar-Duke Phd-Microsoft-Research-Enterprise-MLOps](https://www.youtube.com/watch?v=5oWe-FijR1c)
 - [Arvs Lat:  Author of Author of Machine Learning Engineering on AWS, Enterprise MLOps Interviews](https://www.youtube.com/watch?v=EXJys9fsxuc)
-- [Ville Tuulos-Metaflow-MLOps-Conversation](https://www.youtube.com/watch?v=55qYCawYvFg)
 - [Enterprise-MLOps-Bindu-Reddy-Abacus.AI](https://www.youtube.com/watch?v=KM-bZuVyl_4)
 - [Learn to use GitHub CoPilot to Translate Code and Build Boilerplate Code](https://www.youtube.com/watch?v=L3EtigU0Bws)
 <!-- YOUTUBE-VIDEOS-LIST:END -->

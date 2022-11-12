@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Assimilate SQL](https://www.youtube.com/watch?v=9YgaUbpwGHg)
+- [Assimilate Julia](https://www.youtube.com/watch?v=-pqGqCVllDI)
+- [Assimilate Swift](https://www.youtube.com/watch?v=UJPUsyW1wmk)
+- [Assimilate Rust](https://www.youtube.com/watch?v=YVDh1-nt91U)
+- [Assimilate C# and .NET](https://www.youtube.com/watch?v=jXYcKyIqFGE)
+- [Assimilate Python From Zero](https://www.youtube.com/watch?v=bPjbg5pmqao)
 - [AWS MLOps tools Sagemaker canvas studio](https://www.youtube.com/watch?v=xWN4W4Q7ccQ)
-- [Setup GCP workstation with python](https://www.youtube.com/watch?v=6Nx4BEazZV0)
-- [Live coding Hugging Face with GitHub GPU Codespaces](https://www.youtube.com/watch?v=1sM32zYBF44)
-- [Arvs Lat:  Author of Author of Machine Learning Engineering on AWS, Enterprise MLOps Interviews](https://www.youtube.com/watch?v=EXJys9fsxuc)
-- [Enterprise-MLOps-Interview-Hugging-Face-O’Reilly-Authors](https://www.youtube.com/watch?v=al0xvbNW9jE)
-- [Ville Tuulos-Metaflow-MLOps-Conversation](https://www.youtube.com/watch?v=55qYCawYvFg)
-- [Amazon CodeWhisperer Live Demo](https://www.youtube.com/watch?v=E0jCIPaIaiA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

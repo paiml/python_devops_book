@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [PyTorch FastAPI Deploy to AWS App Runner](https://www.youtube.com/watch?v=-CoOotWG30E)
 - [Assimilate SQL](https://www.youtube.com/watch?v=9YgaUbpwGHg)
 - [Assimilate Julia](https://www.youtube.com/watch?v=-pqGqCVllDI)
 - [Assimilate Swift](https://www.youtube.com/watch?v=UJPUsyW1wmk)
 - [Assimilate Rust](https://www.youtube.com/watch?v=YVDh1-nt91U)
 - [Assimilate C# and .NET](https://www.youtube.com/watch?v=jXYcKyIqFGE)
 - [Assimilate Python From Zero](https://www.youtube.com/watch?v=bPjbg5pmqao)
-- [AWS MLOps tools Sagemaker canvas studio](https://www.youtube.com/watch?v=xWN4W4Q7ccQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

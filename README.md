@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Assimilate Julia](https://www.youtube.com/watch?v=-pqGqCVllDI)
-- [Assimilate Swift](https://www.youtube.com/watch?v=UJPUsyW1wmk)
-- [Assimilate Rust](https://www.youtube.com/watch?v=YVDh1-nt91U)
-- [Assimilate C# and .NET](https://www.youtube.com/watch?v=jXYcKyIqFGE)
-- [Assimilate Python From Zero](https://www.youtube.com/watch?v=bPjbg5pmqao)
-- [Nic (crul)-CEO & Co-founder Crul, Inc. MLOPs Interviews](https://www.youtube.com/watch?v=_WMnzyYoEJM)
 - [Assimilate F#](https://www.youtube.com/watch?v=NwJwyCfvflM)
+- [Assimilate HTML/CSS](https://www.youtube.com/watch?v=o_lbm_bRFEU)
+- [Assimilate C++](https://www.youtube.com/watch?v=Vxf9XUlqGYM)
+- [Assimilate Typescript](https://www.youtube.com/watch?v=2HL-r9VUmDk)
+- [Assimilate Go](https://www.youtube.com/watch?v=9333SrZrQeY)
+- [Assimilate Bash](https://www.youtube.com/watch?v=-BWbp3SrtaQ)
+- [Assimilate Hugging Face](https://www.youtube.com/watch?v=IT5XKpxgzOQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

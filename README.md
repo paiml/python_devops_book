@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Assimilate F#](https://www.youtube.com/watch?v=NwJwyCfvflM)
-- [Assimilate HTML/CSS](https://www.youtube.com/watch?v=o_lbm_bRFEU)
-- [Assimilate C++](https://www.youtube.com/watch?v=Vxf9XUlqGYM)
-- [Assimilate Typescript](https://www.youtube.com/watch?v=2HL-r9VUmDk)
-- [Assimilate Go](https://www.youtube.com/watch?v=9333SrZrQeY)
-- [Assimilate Bash](https://www.youtube.com/watch?v=-BWbp3SrtaQ)
-- [Assimilate Hugging Face](https://www.youtube.com/watch?v=IT5XKpxgzOQ)
+- [CDK](https://www.youtube.com/watch?v=4Qd_G9BfHWc)
+- [Google Cloud](https://www.youtube.com/watch?v=0zvoPgim-w8)
+- [Azure Cloud](https://www.youtube.com/watch?v=VcA9f8Hu4TY)
+- [Assimilate GitHub](https://www.youtube.com/watch?v=bOr3e-zH2QM)
+- [MLOps Projects](https://www.youtube.com/watch?v=CVF7VXoscNE)
+- [Data Science Projects](https://www.youtube.com/watch?v=EwUwHYWcqBs)
+- [Assimilate Containers](https://www.youtube.com/watch?v=gmeTK8arSvI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

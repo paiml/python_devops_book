@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Options container orchestration](https://www.youtube.com/watch?v=OPIyKFm41R4)
-- [Building Tiny Container](https://www.youtube.com/watch?v=LJ7UmCZZEOE)
-- [GCP Cloud Run](https://www.youtube.com/watch?v=2ED77M1lPaQ)
-- [SRE Mindset MLOps](https://www.youtube.com/watch?v=9WeL_1Sl1YA)
-- [Load testing locust](https://www.youtube.com/watch?v=azQdbtqSsSA)
-- [Enterprise MLOps Interviews: Doris Xin, Founder of Linea.AI](https://www.youtube.com/watch?v=bSzQ9V4AQKo)
-- [CDK](https://www.youtube.com/watch?v=4Qd_G9BfHWc)
+- [Assimilate-Fsharp](https://www.youtube.com/watch?v=TT4cBdVwhZY)
+- [Assimilate-html-css](https://www.youtube.com/watch?v=cjg-8oKscUo)
+- [Assimilate-Cpp](https://www.youtube.com/watch?v=N6pgqL_sdcI)
+- [Assimilate-Typescript](https://www.youtube.com/watch?v=3kN4FSLiVHc)
+- [Assimilate-Go](https://www.youtube.com/watch?v=RKUSfLxsubc)
+- [Assimilate-Bash](https://www.youtube.com/watch?v=AuTGnOjSgfo)
+- [Assimilate-SQL](https://www.youtube.com/watch?v=TnF1BChKYcM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

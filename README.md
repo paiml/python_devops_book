@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Assimilate Containers](https://www.youtube.com/watch?v=yR92iLiOUM4)
+- [Assimilate OpenAI](https://www.youtube.com/watch?v=3UJ6j0KCaaA)
+- [Assimilate Hugging Face](https://www.youtube.com/watch?v=J0q932JqgGY)
+- [Assimilate PyTorch](https://www.youtube.com/watch?v=MPENMkzsLvE)
+- [Python on AWS](https://www.youtube.com/watch?v=atv9JCSpT-I)
+- [52-weeks-aws](https://www.youtube.com/watch?v=Kz1F5w7F4UY)
 - [Python for DevOps 2023: 3H Zero/Hero](https://www.youtube.com/watch?v=lbm9ckutS3k)
-- [Assimilate-Cpp](https://www.youtube.com/watch?v=N6pgqL_sdcI)
-- [Assimilate-Typescript](https://www.youtube.com/watch?v=3kN4FSLiVHc)
-- [Assimilate-Go](https://www.youtube.com/watch?v=RKUSfLxsubc)
-- [Assimilate-Bash](https://www.youtube.com/watch?v=AuTGnOjSgfo)
-- [Assimilate-Fsharp](https://www.youtube.com/watch?v=TT4cBdVwhZY)
-- [Assimilate-html-css](https://www.youtube.com/watch?v=cjg-8oKscUo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

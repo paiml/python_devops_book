@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Assimilate Containers](https://www.youtube.com/watch?v=yR92iLiOUM4)
-- [Assimilate OpenAI](https://www.youtube.com/watch?v=3UJ6j0KCaaA)
-- [Assimilate Hugging Face](https://www.youtube.com/watch?v=J0q932JqgGY)
-- [Assimilate PyTorch](https://www.youtube.com/watch?v=MPENMkzsLvE)
-- [Python on AWS](https://www.youtube.com/watch?v=atv9JCSpT-I)
-- [52-weeks-aws](https://www.youtube.com/watch?v=Kz1F5w7F4UY)
+- [Assimilate Google Cloud](https://www.youtube.com/watch?v=jeIIqQGLvGI)
+- [Assimilate Azure](https://www.youtube.com/watch?v=reUwwfd94v0)
+- [Assimilate GitHub](https://www.youtube.com/watch?v=N8Hq1Rzt3hQ)
+- [MLOPs Projects](https://www.youtube.com/watch?v=esqFvJp8fac)
+- [Data Science Projects](https://www.youtube.com/watch?v=LeD877xNBsg)
 - [Assimilate CDK](https://www.youtube.com/watch?v=-Ut-7LuQ8tQ)
+- [Assimilate Containers](https://www.youtube.com/watch?v=yR92iLiOUM4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Teaching MLOps at scale with Github](https://www.youtube.com/watch?v=pQkeccMmcN8)
-- [Assimilate Google Cloud](https://www.youtube.com/watch?v=jeIIqQGLvGI)
-- [Assimilate Azure](https://www.youtube.com/watch?v=reUwwfd94v0)
-- [Assimilate GitHub](https://www.youtube.com/watch?v=N8Hq1Rzt3hQ)
-- [MLOPs Projects](https://www.youtube.com/watch?v=esqFvJp8fac)
-- [Data Science Projects](https://www.youtube.com/watch?v=LeD877xNBsg)
-- [Assimilate CDK](https://www.youtube.com/watch?v=-Ut-7LuQ8tQ)
+- [Assimilate F#](https://www.youtube.com/watch?v=msNLqLnGR4c)
+- [Assimilate-html-css](https://www.youtube.com/watch?v=jpoaoOzlSJU)
+- [Assimilate-Cpp](https://www.youtube.com/watch?v=AwIo7SmNG1I)
+- [Assimilate-Typescript](https://www.youtube.com/watch?v=4lOLQKP89gw)
+- [Assimilate-Go](https://www.youtube.com/watch?v=Hq7pd_4Iu7c)
+- [Assimilate-Bash](https://www.youtube.com/watch?v=-L-Hsxmce6g)
+- [Assimilate-SQL](https://www.youtube.com/watch?v=KtMfV0yNB-0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

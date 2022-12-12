@@ -100,12 +100,12 @@ Updates on new material post book release.
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [SRE Mindset for MLOps](https://www.youtube.com/watch?v=t9Wcf5mz-9M)
+- [Assimilate-Java](https://www.youtube.com/watch?v=-vhlj6aIxgo)
+- [Assimilate-Haskell](https://www.youtube.com/watch?v=vJMRGF6mjx4)
 - [Assimilate F#](https://www.youtube.com/watch?v=msNLqLnGR4c)
 - [Assimilate-html-css](https://www.youtube.com/watch?v=jpoaoOzlSJU)
 - [Assimilate-Cpp](https://www.youtube.com/watch?v=AwIo7SmNG1I)
 - [Assimilate-Typescript](https://www.youtube.com/watch?v=4lOLQKP89gw)
-- [Assimilate-Go](https://www.youtube.com/watch?v=Hq7pd_4Iu7c)
-- [Assimilate-Bash](https://www.youtube.com/watch?v=-L-Hsxmce6g)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

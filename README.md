@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Assimilate-Julia](https://www.youtube.com/watch?v=8rxyApTI8Dg)
-- [Assimilate-Swift](https://www.youtube.com/watch?v=WHwDbtRMqNk)
-- [Assimilate-Haskell](https://www.youtube.com/watch?v=vJMRGF6mjx4)
-- [Assimilate-SQL](https://www.youtube.com/watch?v=KtMfV0yNB-0)
-- [Assimilate-Rust](https://www.youtube.com/watch?v=NdDdDUJDPEY)
-- [Assimilate-Python](https://www.youtube.com/watch?v=fyw9p9MneZw)
-- [Data science on Windows with Python + virtualenv  + pip](https://www.youtube.com/watch?v=iqBIL9qa-VQ)
+- [Assimilate-Typescript](https://www.youtube.com/watch?v=4lOLQKP89gw)
+- [Assimilate-Go](https://www.youtube.com/watch?v=Hq7pd_4Iu7c)
+- [Assimilate-Java](https://www.youtube.com/watch?v=-vhlj6aIxgo)
+- [Python Functions Master Class 2023](https://www.youtube.com/watch?v=X6KYtOLzQKQ)
+- [Assimilate F#](https://www.youtube.com/watch?v=msNLqLnGR4c)
+- [Assimilate-html-css](https://www.youtube.com/watch?v=jpoaoOzlSJU)
+- [Assimilate-Cpp](https://www.youtube.com/watch?v=AwIo7SmNG1I)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

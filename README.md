@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Setup #rust and explain difference from #python](https://www.youtube.com/watch?v=R8JnZ4sY4ks)
 - [Assimilate-Go](https://www.youtube.com/watch?v=v8HCZP5RGss)
 - [Assimilate-Bash](https://www.youtube.com/watch?v=T5g06A3sTKo)
 - [Assimilate-Java](https://www.youtube.com/watch?v=8eOHDEZHGJs)
 - [Assimilate-Typescript](https://www.youtube.com/watch?v=1Y6ds54wI2w)
 - [Assimilate-Rust:  Build an AWS Lambda Function and deploy in Rust](https://www.youtube.com/watch?v=jUTiHUTfGYo)
 - [Assimilate-Python-For-Rust](https://www.youtube.com/watch?v=wl77SW57odA)
-- [Assimilate-Haskell](https://www.youtube.com/watch?v=TSKTMMEkil0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

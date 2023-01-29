@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [High performance MLOps with #rust and #huggingface](https://www.youtube.com/watch?v=6M16hGpH5ds)
-- [Systems programming rust vs python for #mlops](https://www.youtube.com/watch?v=qpiDejG8qOA)
-- [#Energy #efficiency of  #python vs  #rust](https://www.youtube.com/watch?v=0XcwfdBwlEg)
-- [Leveling up from Python with #rust packaging via the #actix #microservice and #crates s](https://www.youtube.com/watch?v=SHuYbrZW-zg)
-- [Developing with #github #copilot enabled #rust programming to #switchtorust from #python](https://www.youtube.com/watch?v=U_qyJZfiMLo)
-- [Setup #rust and explain difference from #python](https://www.youtube.com/watch?v=R8JnZ4sY4ks)
-- [Assimilate-Go](https://www.youtube.com/watch?v=v8HCZP5RGss)
+- [MLOPs Projects with Rust](https://www.youtube.com/watch?v=DbLgFMIq0LI)
+- [Data Science Projects With Rust](https://www.youtube.com/watch?v=3RpsKr72p5c)
+- [Assimilate Containers](https://www.youtube.com/watch?v=Im72N3or2FE)
+- [Assimilate TensorFlow](https://www.youtube.com/watch?v=nK1V7D1jyz4)
+- [Assimilate CDK](https://www.youtube.com/watch?v=ObnnUzdCOMM)
+- [Assimilate OpenAI](https://www.youtube.com/watch?v=AUEd89TIpk4)
+- [Assimilate Hugging Face](https://www.youtube.com/watch?v=dHy4H5F_wvE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

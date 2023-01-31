@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Assimilate Google Cloud](https://www.youtube.com/watch?v=WPxGBKWO58c)
-- [Assimilate Azure](https://www.youtube.com/watch?v=USxffgv8kqo)
-- [Assimilate GitHub](https://www.youtube.com/watch?v=zJmwTvn-6L4)
-- [High performance PyTorch with Rust demo](https://www.youtube.com/watch?v=W687lnWv__s)
-- [#PyTorch #stablediffusion #rust #gpu demo using #github #codespaces](https://www.youtube.com/watch?v=2oYtCs8OxUM)
-- [High performance #dataengineering with #rust](https://www.youtube.com/watch?v=G2pg9tG97f0)
-- [MLOPs Projects with Rust](https://www.youtube.com/watch?v=DbLgFMIq0LI)
+- [Assimilate CDK](https://www.youtube.com/watch?v=ObnnUzdCOMM)
+- [Assimilate OpenAI](https://www.youtube.com/watch?v=AUEd89TIpk4)
+- [Assimilate Hugging Face](https://www.youtube.com/watch?v=dHy4H5F_wvE)
+- [Assimilate PyTorch](https://www.youtube.com/watch?v=djU9BZmoGIE)
+- [Assimilate AWS with Rust](https://www.youtube.com/watch?v=OVpUEcZgIrI)
+- [52-weeks-aws](https://www.youtube.com/watch?v=3rqOuGhH49I)
+- [Assimilate Onnx](https://www.youtube.com/watch?v=GEd5PY3BeNo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

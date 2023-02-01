@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Assimilate GitHub](https://www.youtube.com/watch?v=zJmwTvn-6L4)
+- [MLOPs Projects with Rust](https://www.youtube.com/watch?v=DbLgFMIq0LI)
+- [Data Science Projects With Rust](https://www.youtube.com/watch?v=3RpsKr72p5c)
+- [Assimilate Containers](https://www.youtube.com/watch?v=Im72N3or2FE)
+- [Assimilate TensorFlow](https://www.youtube.com/watch?v=nK1V7D1jyz4)
+- [Maxime DAVID Live Stream on Rust](https://www.youtube.com/watch?v=IZclXw4c3Vc)
 - [Assimilate CDK](https://www.youtube.com/watch?v=ObnnUzdCOMM)
-- [Assimilate OpenAI](https://www.youtube.com/watch?v=AUEd89TIpk4)
-- [Assimilate Hugging Face](https://www.youtube.com/watch?v=dHy4H5F_wvE)
-- [Assimilate PyTorch](https://www.youtube.com/watch?v=djU9BZmoGIE)
-- [Assimilate AWS with Rust](https://www.youtube.com/watch?v=OVpUEcZgIrI)
-- [52-weeks-aws](https://www.youtube.com/watch?v=3rqOuGhH49I)
-- [Assimilate Onnx](https://www.youtube.com/watch?v=GEd5PY3BeNo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

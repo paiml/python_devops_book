@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Assimilate GitHub](https://www.youtube.com/watch?v=zJmwTvn-6L4)
-- [MLOPs Projects with Rust](https://www.youtube.com/watch?v=DbLgFMIq0LI)
-- [Data Science Projects With Rust](https://www.youtube.com/watch?v=3RpsKr72p5c)
-- [Assimilate Containers](https://www.youtube.com/watch?v=Im72N3or2FE)
-- [Assimilate TensorFlow](https://www.youtube.com/watch?v=nK1V7D1jyz4)
-- [Maxime DAVID Live Stream on Rust](https://www.youtube.com/watch?v=IZclXw4c3Vc)
-- [Assimilate CDK](https://www.youtube.com/watch?v=ObnnUzdCOMM)
+- [Assimilate-Go](https://www.youtube.com/watch?v=E2wnLStNLaU)
+- [Assimilate-Bash](https://www.youtube.com/watch?v=H1P8z8izbWo)
+- [Assimilate-Java](https://www.youtube.com/watch?v=ydbzlNp3mzE)
+- [Assimilate-SQL](https://www.youtube.com/watch?v=oYx1QBFzfm0)
+- [Assimilate-Julia](https://www.youtube.com/watch?v=70tvy34BFVU)
+- [Assimilate-Swift](https://www.youtube.com/watch?v=6B_W9JT4AIY)
+- [Assimilate-Rust](https://www.youtube.com/watch?v=-HViuy3KdV4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

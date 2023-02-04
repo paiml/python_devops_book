@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Maxime DAVID Live Stream on Rust](https://www.youtube.com/watch?v=IZclXw4c3Vc)
 - [O'Reilly Author Ole Olesen-Bagneux](https://www.youtube.com/watch?v=4vnCN14N8Ic)
 - [Assimilate-Go](https://www.youtube.com/watch?v=E2wnLStNLaU)
 - [Assimilate-Bash](https://www.youtube.com/watch?v=H1P8z8izbWo)
 - [Assimilate-Java](https://www.youtube.com/watch?v=ydbzlNp3mzE)
 - [Assimilate-SQL](https://www.youtube.com/watch?v=oYx1QBFzfm0)
 - [Assimilate-Julia](https://www.youtube.com/watch?v=70tvy34BFVU)
-- [Assimilate-Swift](https://www.youtube.com/watch?v=6B_W9JT4AIY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

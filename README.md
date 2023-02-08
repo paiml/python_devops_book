@@ -105,7 +105,7 @@ Updates on new material post book release.
 - [Assimilate-Haskell](https://www.youtube.com/watch?v=fP5E9JAjezs)
 - [Teaching MLOps at Scale with GitHub](https://www.youtube.com/watch?v=ORHO05l--yg)
 - [Introduction to  #actix #rust #containerized #microservice on #aws #apprunner](https://www.youtube.com/watch?v=I3cEQ_7aD1A)
-- [Assimilate-Fsharp](https://www.youtube.com/watch?v=ICoqKUA_b5o)
+- [Maxime DAVID Live Stream on Rust](https://www.youtube.com/watch?v=IZclXw4c3Vc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

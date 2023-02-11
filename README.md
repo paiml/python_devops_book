@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Jason McCampbell- Rust @Wallaroo.AI](https://www.youtube.com/watch?v=LzAPlcV63bA)
 - [O'Reilly Author Adi Polak](https://www.youtube.com/watch?v=GvQtbpZDOYs)
 - [Assimilate-Rust](https://www.youtube.com/watch?v=-HViuy3KdV4)
 - [Assimilate-C#](https://www.youtube.com/watch?v=RFKubcGZ9oE)
 - [Assimilate-Python-For-Rust](https://www.youtube.com/watch?v=uMz48uXA-4I)
 - [Assimilate-Haskell](https://www.youtube.com/watch?v=fP5E9JAjezs)
 - [Teaching MLOps at Scale with GitHub](https://www.youtube.com/watch?v=ORHO05l--yg)
-- [Introduction to  #actix #rust #containerized #microservice on #aws #apprunner](https://www.youtube.com/watch?v=I3cEQ_7aD1A)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

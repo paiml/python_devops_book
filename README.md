@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [O'Reilly Author Adi Polak](https://www.youtube.com/watch?v=GvQtbpZDOYs)
-- [Jason McCampbell- Rust @Wallaroo.AI](https://www.youtube.com/watch?v=LzAPlcV63bA)
-- [Assimilate-Rust](https://www.youtube.com/watch?v=-HViuy3KdV4)
-- [Assimilate-C#](https://www.youtube.com/watch?v=RFKubcGZ9oE)
-- [Assimilate-Python-For-Rust](https://www.youtube.com/watch?v=uMz48uXA-4I)
-- [Assimilate-Haskell](https://www.youtube.com/watch?v=fP5E9JAjezs)
-- [Teaching MLOps at Scale with GitHub](https://www.youtube.com/watch?v=ORHO05l--yg)
+- [Assimilate-Typescript](https://www.youtube.com/watch?v=tS4qgago2WE)
+- [Assimilate-Go](https://www.youtube.com/watch?v=mzNJcq0BepQ)
+- [Assimilate-Bash](https://www.youtube.com/watch?v=Ciciej7aJAI)
+- [Assimilate-Java](https://www.youtube.com/watch?v=MAMNFvOohds)
+- [Assimilate-SQL](https://www.youtube.com/watch?v=q8PgnRtpAKs)
+- [Assimilate-Julia](https://www.youtube.com/watch?v=F2IYOCH5j2c)
+- [Assimilate-Swift](https://www.youtube.com/watch?v=k-gLi03yThA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

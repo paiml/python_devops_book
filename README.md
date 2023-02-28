@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Assimilate-Typescript](https://www.youtube.com/watch?v=tS4qgago2WE)
-- [Assimilate-Go](https://www.youtube.com/watch?v=mzNJcq0BepQ)
-- [Assimilate-Bash](https://www.youtube.com/watch?v=Ciciej7aJAI)
-- [Assimilate-Java](https://www.youtube.com/watch?v=MAMNFvOohds)
-- [Assimilate-SQL](https://www.youtube.com/watch?v=q8PgnRtpAKs)
-- [Assimilate-Julia](https://www.youtube.com/watch?v=F2IYOCH5j2c)
-- [Assimilate-Swift](https://www.youtube.com/watch?v=k-gLi03yThA)
+- [O'Reilly Author Ole Olesen-Bagneux](https://www.youtube.com/watch?v=4vnCN14N8Ic)
+- [Assimilate-Rust](https://www.youtube.com/watch?v=a7umqb_fkNE)
+- [Assimilate-C#](https://www.youtube.com/watch?v=ZDMkQCMWAJ8)
+- [Assimilate-Python-For-Rust](https://www.youtube.com/watch?v=fFXbzFiEUoM)
+- [Assimilate-Haskell](https://www.youtube.com/watch?v=F51xtBOERTI)
+- [O'Reilly Author Adi Polak](https://www.youtube.com/watch?v=GvQtbpZDOYs)
+- [Jason McCampbell- Rust @Wallaroo.AI](https://www.youtube.com/watch?v=LzAPlcV63bA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

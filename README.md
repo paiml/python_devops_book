@@ -99,8 +99,8 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Assimilate Google Cloud with Rust](https://www.youtube.com/watch?v=RtQk4Rbzv0Q)
 - [Assimilate OpenAI](https://www.youtube.com/watch?v=5wCueWgDWVU)
+- [Assimilate Google Cloud with Rust](https://www.youtube.com/watch?v=RtQk4Rbzv0Q)
 - [O'Reilly Author Ole Olesen-Bagneux](https://www.youtube.com/watch?v=4vnCN14N8Ic)
 - [Assimilate-Rust](https://www.youtube.com/watch?v=a7umqb_fkNE)
 - [Assimilate-C#](https://www.youtube.com/watch?v=ZDMkQCMWAJ8)

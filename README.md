@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Rust for MLOps with Amazon Sagemaker](https://www.youtube.com/watch?v=crtU6mGydXc)
-- [Rust async s3 size calculator lambda](https://www.youtube.com/watch?v=IhEMgX9Aeo4)
-- [efs onnx lambda rust inference mlops](https://www.youtube.com/watch?v=HsU873c0B-c)
-- [Assimilate Google Cloud with Rust](https://www.youtube.com/watch?v=RtQk4Rbzv0Q)
-- [Rust AWS step functions](https://www.youtube.com/watch?v=2UktR8XSCE0)
-- [Assimilate OpenAI](https://www.youtube.com/watch?v=5wCueWgDWVU)
-- [O'Reilly Author Ole Olesen-Bagneux](https://www.youtube.com/watch?v=4vnCN14N8Ic)
+- [Assimilate GitHub](https://www.youtube.com/watch?v=72CqJAAv7KQ)
+- [MLOPs Projects with Rust](https://www.youtube.com/watch?v=W4j2C3Jw6Rk)
+- [Data Science Projects With Rust](https://www.youtube.com/watch?v=NIkDXzTyvVg)
+- [Assimilate TensorFlow w/ Rust](https://www.youtube.com/watch?v=QirRd28aP38)
+- [Assimilate Containers w/ Rust](https://www.youtube.com/watch?v=ANJWH03XeW8)
+- [Assimilate OpenAI w/ Rust](https://www.youtube.com/watch?v=Vho5PNN3QnE)
+- [Assimilate Hugging Face w/ Rust](https://www.youtube.com/watch?v=26TWKvizAvo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

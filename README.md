@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Assimilate PyTorch w/ Rust](https://www.youtube.com/watch?v=VpAP7R1mmss)
-- [Assimilate AWS with Rust](https://www.youtube.com/watch?v=Fm2CFOSTzwE)
-- [AWS Certifications (52wks aws)](https://www.youtube.com/watch?v=Qvyr9FVytP8)
-- [Assimilate Onnx](https://www.youtube.com/watch?v=pM4ipetg_h8)
+- [Quick Demo: GitHub Copilot CLI](https://www.youtube.com/watch?v=F67rjOjEQE4)
+- [Assimilate OpenAI w/ Rust](https://www.youtube.com/watch?v=rBhMUAlC9TM)
+- [Assimilate GitHub](https://www.youtube.com/watch?v=72CqJAAv7KQ)
+- [MLOPs Projects with Rust](https://www.youtube.com/watch?v=W4j2C3Jw6Rk)
+- [Data Science Projects With Rust](https://www.youtube.com/watch?v=NIkDXzTyvVg)
+- [Assimilate TensorFlow w/ Rust](https://www.youtube.com/watch?v=QirRd28aP38)
 - [Assimilate Azure](https://www.youtube.com/watch?v=6PbkzZ_45Es)
-- [Assimilate OpenAI w/ Rust](https://www.youtube.com/watch?v=Vho5PNN3QnE)
-- [Assimilate Hugging Face w/ Rust](https://www.youtube.com/watch?v=26TWKvizAvo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

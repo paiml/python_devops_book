@@ -100,12 +100,12 @@ Updates on new material post book release.
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Pair Programming a Rust Chatbot using ChatGPT 4 and GitHub Copilot](https://www.youtube.com/watch?v=lTJEVlWkbZg)
-- [Assimilate-Zig](https://www.youtube.com/watch?v=ZuAtbEpGul0)
 - [Quick demo of GitHub Copilot CLI Tool that helps you write shell commands](https://www.youtube.com/watch?v=OKZLABfzL7k)
 - [Quick Demo: GitHub Copilot CLI](https://www.youtube.com/watch?v=F67rjOjEQE4)
 - [Assimilate OpenAI w/ Rust](https://www.youtube.com/watch?v=rBhMUAlC9TM)
 - [Assimilate GitHub](https://www.youtube.com/watch?v=72CqJAAv7KQ)
 - [MLOPs Projects with Rust](https://www.youtube.com/watch?v=W4j2C3Jw6Rk)
+- [Data Science Projects With Rust](https://www.youtube.com/watch?v=NIkDXzTyvVg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

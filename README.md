@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Pair Programming a Rust Chatbot using ChatGPT 4 and GitHub Copilot](https://www.youtube.com/watch?v=lTJEVlWkbZg)
-- [Quick demo of GitHub Copilot CLI Tool that helps you write shell commands](https://www.youtube.com/watch?v=OKZLABfzL7k)
-- [Quick Demo: GitHub Copilot CLI](https://www.youtube.com/watch?v=F67rjOjEQE4)
-- [Assimilate OpenAI w/ Rust](https://www.youtube.com/watch?v=rBhMUAlC9TM)
-- [Assimilate GitHub](https://www.youtube.com/watch?v=72CqJAAv7KQ)
-- [MLOPs Projects with Rust](https://www.youtube.com/watch?v=W4j2C3Jw6Rk)
-- [Data Science Projects With Rust](https://www.youtube.com/watch?v=NIkDXzTyvVg)
+- [Assimilate-Typescript](https://www.youtube.com/watch?v=heOful6_8ZM)
+- [Assimilate-Go](https://www.youtube.com/watch?v=2g2mAEWNeBs)
+- [Assimilate-Bash](https://www.youtube.com/watch?v=-86h9DX-3Jo)
+- [Assimilate-Zig](https://www.youtube.com/watch?v=1Mb48uJrYhI)
+- [Assimilate-SQL](https://www.youtube.com/watch?v=JtzILdIMjKc)
+- [Assimilate-Julia](https://www.youtube.com/watch?v=J0vifdX1G74)
+- [Assimilate-Swift](https://www.youtube.com/watch?v=1M9HQp0PpMU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

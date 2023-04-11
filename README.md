@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Assimilate-Haskell](https://www.youtube.com/watch?v=4GUGvGXIzAs)
+- [Assimilate-Rust](https://www.youtube.com/watch?v=uHk3F8VZMHA)
+- [Assimilate-Fsharp](https://www.youtube.com/watch?v=RMg0hHEa9Xo)
+- [Assimilate-web-assembly](https://www.youtube.com/watch?v=tsfFMJ9Pv_o)
+- [Assimilate-Cpp](https://www.youtube.com/watch?v=IYFvz3_njRY)
 - [Assimilate-Typescript](https://www.youtube.com/watch?v=heOful6_8ZM)
 - [Assimilate-Go](https://www.youtube.com/watch?v=2g2mAEWNeBs)
-- [Assimilate-Bash](https://www.youtube.com/watch?v=-86h9DX-3Jo)
-- [Assimilate-Zig](https://www.youtube.com/watch?v=1Mb48uJrYhI)
-- [Assimilate-SQL](https://www.youtube.com/watch?v=JtzILdIMjKc)
-- [Assimilate-Julia](https://www.youtube.com/watch?v=J0vifdX1G74)
-- [Assimilate-Swift](https://www.youtube.com/watch?v=1M9HQp0PpMU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

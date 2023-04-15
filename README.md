@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Rust Distroless PyTorch Computer Vision Microservice Walkthrough](https://www.youtube.com/watch?v=Oeu-ytx7Lfw)
 - [Assimilate-Go](https://www.youtube.com/watch?v=2g2mAEWNeBs)
 - [Assimilate-Zig](https://www.youtube.com/watch?v=1Mb48uJrYhI)
 - [Assimilate-Bash](https://www.youtube.com/watch?v=-86h9DX-3Jo)
 - [Assimilate-Haskell](https://www.youtube.com/watch?v=4GUGvGXIzAs)
 - [Assimilate-Rust](https://www.youtube.com/watch?v=uHk3F8VZMHA)
 - [Pair Programming a Rust Chatbot using ChatGPT 4 and GitHub Copilot](https://www.youtube.com/watch?v=lTJEVlWkbZg)
-- [Quick demo of GitHub Copilot CLI Tool that helps you write shell commands](https://www.youtube.com/watch?v=OKZLABfzL7k)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

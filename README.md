@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Building Rust AWS Lambda Add Function](https://www.youtube.com/watch?v=Qgch8Z4oEb8)
-- [Rust for MLOps with Amazon Sagemaker](https://www.youtube.com/watch?v=crtU6mGydXc)
-- [Using VS Code, Copilot and Codespaces to Level Up to Rust from Python](https://www.youtube.com/watch?v=7kvEsCBO3Jg)
-- [Rust Distroless PyTorch Computer Vision Microservice Walkthrough](https://www.youtube.com/watch?v=Oeu-ytx7Lfw)
-- [Assimilate-Go](https://www.youtube.com/watch?v=2g2mAEWNeBs)
-- [Assimilate-Zig](https://www.youtube.com/watch?v=1Mb48uJrYhI)
-- [Assimilate-Bash](https://www.youtube.com/watch?v=-86h9DX-3Jo)
+- [Building Rust AWS Lambda Divide by Two](https://www.youtube.com/watch?v=eyYcGZNeRyE)
+- [Rust firecracker open source AWS Lambda source code](https://www.youtube.com/watch?v=9z6lIpzzKlE)
+- [Getting Started with Rust AWS Lambda Function URLs](https://www.youtube.com/watch?v=t2QDklXmsAk)
+- [Invoking Rust Step Functions and AWS Lambdas from the CLI](https://www.youtube.com/watch?v=9ZImbcm7MQU)
+- [Building Rust AWS Lambda Add Function](https://www.youtube.com/watch?v=EqgT69iZ_As)
+- [Intro Cargo Lambda](https://www.youtube.com/watch?v=lkOfUYh25f0)
+- [Using AWS Step Functions in the console](https://www.youtube.com/watch?v=9VBX-_kToT8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

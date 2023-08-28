@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Using the Rust Polars DataFrame library in a CLI](https://www.youtube.com/watch?v=CUQaoAcc95M)
+- [Exploring Hugging Face Starcoder in Rust on custom AWS GPU hardware](https://www.youtube.com/watch?v=g7WGCU3YSXc)
+- [Rust Hugging Face Candle hello world with CUDA](https://www.youtube.com/watch?v=5vFPlv6M9Cs)
 - [VS Code Remote SSH Development with AWS Accelerated Compute for Rust Inference (Uses Candle from HF)](https://www.youtube.com/watch?v=dSPQtZaQ-BE)
 - [Doing Rust Inference with Candle using GitHub Codespaces .Devcontainer](https://www.youtube.com/watch?v=ALqw6vfottY)
 - [Building Rust AWS Lambda Divide by Two](https://www.youtube.com/watch?v=eyYcGZNeRyE)
 - [Rust firecracker open source AWS Lambda source code](https://www.youtube.com/watch?v=9z6lIpzzKlE)
-- [Getting Started with Rust AWS Lambda Function URLs](https://www.youtube.com/watch?v=t2QDklXmsAk)
-- [Invoking Rust Step Functions and AWS Lambdas from the CLI](https://www.youtube.com/watch?v=9ZImbcm7MQU)
-- [Building Rust AWS Lambda Add Function](https://www.youtube.com/watch?v=EqgT69iZ_As)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

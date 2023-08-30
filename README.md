@@ -99,10 +99,10 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Exploring Hugging Face Starcoder in Rust on custom AWS GPU hardware](https://www.youtube.com/watch?v=g7WGCU3YSXc)
 - [VS Code Remote SSH Development with AWS Accelerated Compute for Rust Inference (Uses Candle from HF)](https://www.youtube.com/watch?v=dSPQtZaQ-BE)
 - [Rust Hugging Face Candle hello world with CUDA](https://www.youtube.com/watch?v=5vFPlv6M9Cs)
 - [Using the Rust Polars DataFrame library in a CLI](https://www.youtube.com/watch?v=CUQaoAcc95M)
-- [Exploring Hugging Face Starcoder in Rust on custom AWS GPU hardware](https://www.youtube.com/watch?v=g7WGCU3YSXc)
 - [Doing Rust Inference with Candle using GitHub Codespaces .Devcontainer](https://www.youtube.com/watch?v=ALqw6vfottY)
 - [Building Rust AWS Lambda Divide by Two](https://www.youtube.com/watch?v=eyYcGZNeRyE)
 - [Rust firecracker open source AWS Lambda source code](https://www.youtube.com/watch?v=9z6lIpzzKlE)

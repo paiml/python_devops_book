@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Exploring Hugging Face Starcoder in Rust on custom AWS GPU hardware](https://www.youtube.com/watch?v=g7WGCU3YSXc)
-- [VS Code Remote SSH Development with AWS Accelerated Compute for Rust Inference (Uses Candle from HF)](https://www.youtube.com/watch?v=dSPQtZaQ-BE)
-- [Rust Hugging Face Candle hello world with CUDA](https://www.youtube.com/watch?v=5vFPlv6M9Cs)
-- [Using the Rust Polars DataFrame library in a CLI](https://www.youtube.com/watch?v=CUQaoAcc95M)
-- [Doing Rust Inference with Candle using GitHub Codespaces .Devcontainer](https://www.youtube.com/watch?v=ALqw6vfottY)
-- [Building Rust AWS Lambda Divide by Two](https://www.youtube.com/watch?v=eyYcGZNeRyE)
-- [Rust firecracker open source AWS Lambda source code](https://www.youtube.com/watch?v=9z6lIpzzKlE)
+- [Live Coding AI Pair Programming with XCode](https://www.youtube.com/watch?v=ojGg0IqjHHA)
+- [Live Coding AWS CodeWhisperer for AWS](https://www.youtube.com/watch?v=mAbUBpKtw8k)
+- [Pair Programming a Rust Chatbot using ChatGPT 4 and GitHub Copilot](https://www.youtube.com/watch?v=Uok96RKfVmM)
+- [Five Year Shortcut to Programming:  The Essence of Programming is Functions](https://www.youtube.com/watch?v=5vAL8_PmxX4)
+- [Security Characteristics and Benefits of Microservices](https://www.youtube.com/watch?v=m2xb8jp4OQc)
+- [Live Coding Rust](https://www.youtube.com/watch?v=yqRcMCtMVPI)
+- [52 Weeks of AWS](https://www.youtube.com/watch?v=DpAiQt7WkbM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

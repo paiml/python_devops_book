@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Rust Polars Criterion Benchmarking](https://www.youtube.com/watch?v=gA_uJ1xb5H8)
 - [Pair Programming a Rust Chatbot using ChatGPT 4 and GitHub Copilot](https://www.youtube.com/watch?v=Uok96RKfVmM)
 - [Live Coding AI Pair Programming with XCode](https://www.youtube.com/watch?v=ojGg0IqjHHA)
 - [Live Coding AWS CodeWhisperer for AWS](https://www.youtube.com/watch?v=mAbUBpKtw8k)
 - [Five Year Shortcut to Programming:  The Essence of Programming is Functions](https://www.youtube.com/watch?v=5vAL8_PmxX4)
 - [Security Characteristics and Benefits of Microservices](https://www.youtube.com/watch?v=m2xb8jp4OQc)
 - [Live Coding Rust](https://www.youtube.com/watch?v=yqRcMCtMVPI)
-- [52 Weeks of AWS](https://www.youtube.com/watch?v=DpAiQt7WkbM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

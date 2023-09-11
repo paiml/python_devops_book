@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Call Python Rust](https://www.youtube.com/watch?v=XjDD7LQ5INc)
 - [Live Coding AI Pair Programming with XCode](https://www.youtube.com/watch?v=FFiaIiGQBJA)
 - [Live Coding AWS CodeWhisperer for AWS](https://www.youtube.com/watch?v=2ek-0q1YNKg)
 - [Live Coding Rust](https://www.youtube.com/watch?v=biL50atoYmc)
 - [52 Weeks of AWS](https://www.youtube.com/watch?v=-5drc2p9F5g)
 - [Getting started with Bash and Rust using AWS CodeWhisperer, VSCode, and AWS Toolkit for VSCode](https://www.youtube.com/watch?v=3HFarpOK5s0)
 - [Security Characteristics and Benefits of Microservices](https://www.youtube.com/watch?v=m2xb8jp4OQc)
-- [Live Coding AI Pair Programming with XCode](https://www.youtube.com/watch?v=ojGg0IqjHHA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

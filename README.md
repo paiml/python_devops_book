@@ -99,8 +99,8 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Running a "Free" Local LLM (Bigcode) using just AWS GPUs and Rust Candle](https://www.youtube.com/watch?v=Mm1drdhPZBw)
 - [AWS Security Ep. 2, Module 5: Data Protection](https://www.youtube.com/watch?v=BPyjfNqRnI0)
+- [Running a "Free" Local LLM (Bigcode) using just AWS GPUs and Rust Candle](https://www.youtube.com/watch?v=Mm1drdhPZBw)
 - [Rust for Pythonista:  Multi-hour Jam Session](https://www.youtube.com/watch?v=xADcd2490Bs)
 - [Five Year Shortcut to Programming:  The Essence of Programming is Functions](https://www.youtube.com/watch?v=5vAL8_PmxX4)
 - [O'Reilly Author Anna Skoulikari, Author](https://www.youtube.com/watch?v=OtcoO4WxbCI)

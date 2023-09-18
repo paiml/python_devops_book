@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Key Skills Software Craftsmanship-10 Lessons](https://www.youtube.com/watch?v=iPL_1ySKbQ4)
+- [PyO3 Exceptions](https://www.youtube.com/watch?v=UaeOdVwNNpI)
+- [Live Coding AI Pair Programming with XCode](https://www.youtube.com/watch?v=aWe7aqFmnn4)
+- [Live Coding AWS CodeWhisperer for AWS](https://www.youtube.com/watch?v=YoHAC_-XesY)
+- [Live Coding Rust](https://www.youtube.com/watch?v=iohs-Fock0E)
+- [52 Weeks of AWS](https://www.youtube.com/watch?v=7nsnH11KDfA)
 - [AWS Security Ep. 2, Module 5: Data Protection](https://www.youtube.com/watch?v=BPyjfNqRnI0)
-- [Running a "Free" Local LLM (Bigcode) using just AWS GPUs and Rust Candle](https://www.youtube.com/watch?v=Mm1drdhPZBw)
-- [Rust for Pythonista:  Multi-hour Jam Session](https://www.youtube.com/watch?v=xADcd2490Bs)
-- [Five Year Shortcut to Programming:  The Essence of Programming is Functions](https://www.youtube.com/watch?v=5vAL8_PmxX4)
-- [O'Reilly Author Anna Skoulikari, Author](https://www.youtube.com/watch?v=OtcoO4WxbCI)
-- [52 Weeks of AWS](https://www.youtube.com/watch?v=-5drc2p9F5g)
-- [Live Coding Rust](https://www.youtube.com/watch?v=biL50atoYmc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

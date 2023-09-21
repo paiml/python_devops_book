@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Live Coding AI Pair Programming with XCode](https://www.youtube.com/watch?v=QZ5hcurM8F0)
+- [Live Coding AWS CodeWhisperer for AWS](https://www.youtube.com/watch?v=M7hEIl0IW_w)
+- [Live Coding in Rust: Unleash the Power of Systems Programming](https://www.youtube.com/watch?v=5WNUyBbWJhU)
+- [52 Weeks of AWS: The Complete Journey to AWS Mastery](https://www.youtube.com/watch?v=Uypsf4QRU9A)
 - [Live Coding AWS CodeWhisperer](https://www.youtube.com/watch?v=6pEV14F5hXs)
 - [Live Coding Rust](https://www.youtube.com/watch?v=iohs-Fock0E)
 - [52 Weeks of AWS](https://www.youtube.com/watch?v=7opYLyL1VB0)
-- [Key Skills Software Craftsmanship-10 Lessons](https://www.youtube.com/watch?v=iPL_1ySKbQ4)
-- [PyO3 Exceptions](https://www.youtube.com/watch?v=UaeOdVwNNpI)
-- [AWS Security Ep. 2, Module 5: Data Protection](https://www.youtube.com/watch?v=BPyjfNqRnI0)
-- [Running a "Free" Local LLM (Bigcode) using just AWS GPUs and Rust Candle](https://www.youtube.com/watch?v=Mm1drdhPZBw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

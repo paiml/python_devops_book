@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Live Coding AWS CodeWhisperer for AWS](https://www.youtube.com/watch?v=M7hEIl0IW_w)
-- [Live Coding in Rust: Unleash the Power of Systems Programming](https://www.youtube.com/watch?v=5WNUyBbWJhU)
-- [52 Weeks of AWS: The Complete Journey to AWS Mastery](https://www.youtube.com/watch?v=Uypsf4QRU9A)
-- [Using Rust Ruff linter](https://www.youtube.com/watch?v=F_lcW1F752w)
-- [Free 4 Hour Live Bootcamp:  Rust for Pythonistas](https://www.youtube.com/watch?v=qzmjEDjyuMo)
-- [Live Coding AWS CodeWhisper to build a Rust Lambda Function](https://www.youtube.com/watch?v=U345RQdwYLM)
-- [Extending Google Bard](https://www.youtube.com/watch?v=XMWdOMKkUi8)
+- [Solopreneurship:  Do You Even Have a Choice in America?](https://www.youtube.com/watch?v=ibb-fXDlX0U)
+- [Live Coding XCode](https://www.youtube.com/watch?v=_LZAsGR7lXQ)
+- [Live Coding AWS Whisperer](https://www.youtube.com/watch?v=aTlDmawyNJE)
+- [Live Coding Rust Candle](https://www.youtube.com/watch?v=xBn-9YwkNfI)
+- [Live Coding Rust](https://www.youtube.com/watch?v=drao6noAmcw)
+- [52 Weeks of AWS](https://www.youtube.com/watch?v=vU2gTbGcKuo)
+- [Live Coding Amazon Bedrock](https://www.youtube.com/watch?v=4uEi-dRPl2g)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [52 Weeks of AWS](https://www.youtube.com/watch?v=vU2gTbGcKuo)
+- [Live Coding Rust](https://www.youtube.com/watch?v=drao6noAmcw)
+- [Live Coding Amazon Bedrock](https://www.youtube.com/watch?v=4uEi-dRPl2g)
 - [Saving with arm64 using Rust AWS Lambda](https://www.youtube.com/watch?v=IACC9HH_dSY)
 - [ETL SQLite demo](https://www.youtube.com/watch?v=S9H1ayO7yTk)
 - [ETL sqlite](https://www.youtube.com/watch?v=rROK1tikLjs)
 - [What is sqlite key features](https://www.youtube.com/watch?v=i_XPIVctvXI)
-- [Picking database](https://www.youtube.com/watch?v=pTcF8W6NQ5Y)
-- [Solopreneurship:  Do You Even Have a Choice in America?](https://www.youtube.com/watch?v=ibb-fXDlX0U)
-- [Live Coding XCode](https://www.youtube.com/watch?v=_LZAsGR7lXQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

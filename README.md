@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Live Coding AWS Whisperer](https://www.youtube.com/watch?v=aTlDmawyNJE)
+- [Live Coding Rust Candle](https://www.youtube.com/watch?v=xBn-9YwkNfI)
 - [Using crud dynamodb cli](https://www.youtube.com/watch?v=pj5vACQeGBQ)
 - [Multiline Rust Completion AWS CodeWhisperer](https://www.youtube.com/watch?v=epL3ehmjP9M)
 - [52 Weeks of AWS](https://www.youtube.com/watch?v=vU2gTbGcKuo)
 - [Live Coding Rust](https://www.youtube.com/watch?v=drao6noAmcw)
 - [Live Coding Amazon Bedrock](https://www.youtube.com/watch?v=4uEi-dRPl2g)
-- [Saving with arm64 using Rust AWS Lambda](https://www.youtube.com/watch?v=IACC9HH_dSY)
-- [ETL SQLite demo](https://www.youtube.com/watch?v=S9H1ayO7yTk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

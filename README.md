@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is sqlite key features](https://www.youtube.com/watch?v=i_XPIVctvXI)
 - [Serverless mlops EFS with Rust and ONNX](https://www.youtube.com/watch?v=uve_T-LYk4I)
 - [Free 4 Hour Live Bootcamp:  Rust for Pythonistas](https://www.youtube.com/watch?v=qzmjEDjyuMo)
 - [query table with values](https://www.youtube.com/watch?v=hYWbHcmkiiE)
 - [populate table batch](https://www.youtube.com/watch?v=riFSlRkALTU)
 - [create table cli](https://www.youtube.com/watch?v=i1Cos_r7P40)
 - [learn aws codewhisperer dyno](https://www.youtube.com/watch?v=cqrQkflFTtQ)
-- [learn aws codecatalyst dyno](https://www.youtube.com/watch?v=xUgXjvr9yzQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

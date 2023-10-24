@@ -99,11 +99,11 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Extending Google Bard](https://www.youtube.com/watch?v=XMWdOMKkUi8)
-- [Using AWS Console with Rust Lambda](https://www.youtube.com/watch?v=3Bc7MZir7ho)
-- [Live Coding Rust](https://www.youtube.com/watch?v=JgtgQhLfcqE)
+- [Using crud dynamodb cli](https://www.youtube.com/watch?v=pj5vACQeGBQ)
 - [52 Weeks of AWS](https://www.youtube.com/watch?v=RD2ZQx5mcbY)
 - [Live Coding Amazon Bedrock](https://www.youtube.com/watch?v=oylU5gzDTzc)
+- [Extending Google Bard](https://www.youtube.com/watch?v=XMWdOMKkUi8)
+- [Using AWS Console with Rust Lambda](https://www.youtube.com/watch?v=3Bc7MZir7ho)
 - [What is sqlite key features](https://www.youtube.com/watch?v=i_XPIVctvXI)
 - [Serverless mlops EFS with Rust and ONNX](https://www.youtube.com/watch?v=uve_T-LYk4I)
 <!-- YOUTUBE-VIDEOS-LIST:END -->

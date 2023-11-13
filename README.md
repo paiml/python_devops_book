@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Intro Cargo Lambda](https://www.youtube.com/watch?v=lkOfUYh25f0)
 - [From Python to Rust(3HR-LiveCoding-Nov/2023)](https://www.youtube.com/watch?v=ZVWB6zi-kcA)
 - [4 3 semantic search](https://www.youtube.com/watch?v=SgCd2o6hJIA)
 - [4 2 what are vector db](https://www.youtube.com/watch?v=dA4W-4KT4KI)
 - [4 1 picking database](https://www.youtube.com/watch?v=tQxO_KnTCm4)
 - [Using AWS Step Functions in the console](https://www.youtube.com/watch?v=9VBX-_kToT8)
 - [Rust for Pythonista-3hr-Jam-Session](https://www.youtube.com/watch?v=iuh0sxVMbKE)
-- [Rust cost advantage AWS Lambda](https://www.youtube.com/watch?v=X4Lb1cyVgKY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Ethical AI Conversation with Johan Cedmar-Brandstedt](https://www.youtube.com/watch?v=qqX3e-F_U_Q)
 - [Vector database architecture](https://www.youtube.com/watch?v=3y_7fE5Ftaw)
 - [qdrant rust client](https://www.youtube.com/watch?v=e9z8Q65ziy0)
 - [ETL sqlite](https://www.youtube.com/watch?v=rROK1tikLjs)
 - [4 4 quickstart qdrant](https://www.youtube.com/watch?v=6zvnPirRz50)
 - [Intro Cargo Lambda](https://www.youtube.com/watch?v=lkOfUYh25f0)
 - [From Python to Rust(3HR-LiveCoding-Nov/2023)](https://www.youtube.com/watch?v=ZVWB6zi-kcA)
-- [4 3 semantic search](https://www.youtube.com/watch?v=SgCd2o6hJIA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

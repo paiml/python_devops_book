@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [intro amazon neptune](https://www.youtube.com/watch?v=Xkts629WM6s)
 - [Invoking Rust Step Functions and AWS Lambdas from the CLI](https://www.youtube.com/watch?v=9ZImbcm7MQU)
 - [graph databases](https://www.youtube.com/watch?v=PTlOyj8KAiM)
 - [enhance semantic search](https://www.youtube.com/watch?v=gNTbK48ARbs)
 - [Ethical AI Conversation with Johan Cedmar-Brandstedt](https://www.youtube.com/watch?v=qqX3e-F_U_Q)
 - [Vector database architecture](https://www.youtube.com/watch?v=3y_7fE5Ftaw)
 - [qdrant rust client](https://www.youtube.com/watch?v=e9z8Q65ziy0)
-- [ETL sqlite](https://www.youtube.com/watch?v=rROK1tikLjs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

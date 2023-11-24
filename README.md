@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [4 16 what is sqlite key features](https://www.youtube.com/watch?v=hDXpizYrszI)
 - [ETL SQLite demo](https://www.youtube.com/watch?v=S9H1ayO7yTk)
 - [rust cli graph lab](https://www.youtube.com/watch?v=DUG4x81kxWQ)
 - [key rust cli](https://www.youtube.com/watch?v=dtHDP__QdxM)
 - [intro amazon neptune](https://www.youtube.com/watch?v=Xkts629WM6s)
 - [Invoking Rust Step Functions and AWS Lambdas from the CLI](https://www.youtube.com/watch?v=9ZImbcm7MQU)
 - [graph databases](https://www.youtube.com/watch?v=PTlOyj8KAiM)
-- [enhance semantic search](https://www.youtube.com/watch?v=gNTbK48ARbs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

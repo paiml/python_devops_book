@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [what is dynamodb](https://www.youtube.com/watch?v=DPl6_bcqvx4)
 - [Picking database](https://www.youtube.com/watch?v=pTcF8W6NQ5Y)
 - [etl sqlite demo](https://www.youtube.com/watch?v=ELx3NjflWlQ)
 - [Building Rust AWS Lambda Add Function](https://www.youtube.com/watch?v=EqgT69iZ_As)
 - [etl sqlite](https://www.youtube.com/watch?v=zvB5Jz1M_bI)
 - [CodeWhisperer:  Natural language to bash translation](https://www.youtube.com/watch?v=lLh3KUHlbe8)
 - [4 16 what is sqlite key features](https://www.youtube.com/watch?v=hDXpizYrszI)
-- [ETL SQLite demo](https://www.youtube.com/watch?v=S9H1ayO7yTk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

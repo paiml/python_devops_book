@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [using crud dynamodb python](https://www.youtube.com/watch?v=S4eefn1z0R4)
+- [re:Invent 2023 Highlight-52 Weeks of AWS](https://www.youtube.com/watch?v=dHhVUmsfle0)
+- [Live Coding Rust](https://www.youtube.com/watch?v=hl26Os_Tpgg)
+- [Live Coding Amazon Bedrock](https://www.youtube.com/watch?v=k746udXDIZs)
 - [Getting Started with Rust AWS Lambda Function URLs](https://www.youtube.com/watch?v=t2QDklXmsAk)
 - [Live Coding XCode](https://www.youtube.com/watch?v=v3s8KUwMV0E)
 - [Live Coding Amazon CodeWhisperer](https://www.youtube.com/watch?v=LtNYNiAWV30)
-- [Live Coding Rust Candle](https://www.youtube.com/watch?v=3turxESWKI8)
-- [Live Coding Rust](https://www.youtube.com/watch?v=hl26Os_Tpgg)
-- [re:Invent 2023 Highlight-52 Weeks of AWS](https://www.youtube.com/watch?v=dHhVUmsfle0)
-- [Live Coding Amazon Bedrock](https://www.youtube.com/watch?v=k746udXDIZs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

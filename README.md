@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [populate table batch](https://www.youtube.com/watch?v=riFSlRkALTU)
 - [learn aws codewhisperer dyno](https://www.youtube.com/watch?v=cqrQkflFTtQ)
 - [Rust firecracker open source AWS Lambda source code](https://www.youtube.com/watch?v=9z6lIpzzKlE)
 - [learn aws codecatalyst dyno](https://www.youtube.com/watch?v=xUgXjvr9yzQ)
 - [create table cli](https://www.youtube.com/watch?v=i1Cos_r7P40)
 - [Live Coding Amazon CodeWhisperer](https://www.youtube.com/watch?v=W8omeHDlTdc)
 - [Live Coding Rust Candle](https://www.youtube.com/watch?v=3turxESWKI8)
-- [learn aws cloudshell dyno](https://www.youtube.com/watch?v=lFub11TBknE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

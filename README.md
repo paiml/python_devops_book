@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Quickstart Guide: Bridge Python & Rust with Py03](https://www.youtube.com/watch?v=01hYL76B_d8)
+- [Supercharge Python & Rust with Generative AI - Best of Both Worlds](https://www.youtube.com/watch?v=o2votElo26c)
 - [project walkthrough](https://www.youtube.com/watch?v=cT-cdu3nFiU)
 - [Setup VSCode Rust](https://www.youtube.com/watch?v=UYMUZZo2ejQ)
 - [Building Rust AWS Lambda Divide by Two](https://www.youtube.com/watch?v=eyYcGZNeRyE)
 - [query table with values](https://www.youtube.com/watch?v=hYWbHcmkiiE)
 - [populate table batch](https://www.youtube.com/watch?v=riFSlRkALTU)
-- [learn aws codewhisperer dyno](https://www.youtube.com/watch?v=cqrQkflFTtQ)
-- [Rust firecracker open source AWS Lambda source code](https://www.youtube.com/watch?v=9z6lIpzzKlE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

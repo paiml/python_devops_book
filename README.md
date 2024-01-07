@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Quickstart Guide: Bridge Python & Rust with Py03](https://www.youtube.com/watch?v=01hYL76B_d8)
 - [Data Engineering Design Principles from AWS-Part 3](https://www.youtube.com/watch?v=5GZqlfKEbJE)
 - [AWS Academy Data Engineering Module Deep Dive](https://www.youtube.com/watch?v=aNvRbINRCFE)
 - [Supercharge Python & Rust with Generative AI - Best of Both Worlds](https://www.youtube.com/watch?v=o2votElo26c)
-- [Quickstart Guide: Bridge Python & Rust with Py03](https://www.youtube.com/watch?v=01hYL76B_d8)
+- [Converting Rust Data Types to Python with pyo3](https://www.youtube.com/watch?v=S0SqGMSxNC4)
+- [Integrating Rust and Python with a Shared Library](https://www.youtube.com/watch?v=K9dUqGyQ9pw)
 - [Build a Scalable DynamoDB Project: Queries, Global Secondary Indexes, and Dataset Loading](https://www.youtube.com/watch?v=cT-cdu3nFiU)
-- [Supercharge Serverless Development with AWS Toolkit and Code Whisper](https://www.youtube.com/watch?v=UYMUZZo2ejQ)
-- [Rust AWS SDK Setup Guide - Editor, Credentials, Cargo and Code Assist](https://www.youtube.com/watch?v=jXNHlW_41PA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

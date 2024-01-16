@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Comparing Big Data Processing: Hadoop, Spark, EMR, and Hudi](https://www.youtube.com/watch?v=Cwi24Rx_ysU)
+- [Securing Data Storage in Modern Architectures](https://www.youtube.com/watch?v=q8dyipK7_F0)
+- [The Tragedy of the AI Commons - Ethical Dilemmas of Generative Models](https://www.youtube.com/watch?v=geQbkErW5oM)
 - [Ingesting Data by Batch vs Streaming with AWS Services](https://www.youtube.com/watch?v=6xbJg8SK7Uk)
 - [Ingesting Data by Batch vs Streaming with AWS Services](https://www.youtube.com/watch?v=NEdUhgmTCZI)
 - [Converting Rust Data Types to Python with pyo3](https://www.youtube.com/watch?v=S0SqGMSxNC4)
 - [Data Wrangling: Key Concepts for Preparing Data in ML Pipelines](https://www.youtube.com/watch?v=UKl7zeQEB9k)
-- [Examining Business Models: Free Riders, Rent Seekers, Platforms and Products](https://www.youtube.com/watch?v=wagL9h2i-OQ)
-- [Integrating Rust and Python with a Shared Library](https://www.youtube.com/watch?v=K9dUqGyQ9pw)
-- [Key Concepts for Preparing Data in ML Pipelines](https://www.youtube.com/watch?v=NuwfkKdpQc0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

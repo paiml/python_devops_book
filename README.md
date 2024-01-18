@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Securing Data Storage in Modern Architectures](https://www.youtube.com/watch?v=q8dyipK7_F0)
+- [Securing Data Storage in Modern Architectures](https://www.youtube.com/watch?v=RFRQywIMGkI)
 - [Building a Rust Python CLI with pyo3 and Python Fire](https://www.youtube.com/watch?v=ShYJ8a3vmeY)
 - [Comparing Big Data Processing: Hadoop, Spark, EMR, and Hudi](https://www.youtube.com/watch?v=Cwi24Rx_ysU)
-- [Securing Data Storage in Modern Architectures](https://www.youtube.com/watch?v=q8dyipK7_F0)
 - [The Tragedy of the AI Commons - Ethical Dilemmas of Generative Models](https://www.youtube.com/watch?v=geQbkErW5oM)
 - [Ingesting Data by Batch vs Streaming with AWS Services](https://www.youtube.com/watch?v=6xbJg8SK7Uk)
 - [Ingesting Data by Batch vs Streaming with AWS Services](https://www.youtube.com/watch?v=NEdUhgmTCZI)
-- [Converting Rust Data Types to Python with pyo3](https://www.youtube.com/watch?v=S0SqGMSxNC4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

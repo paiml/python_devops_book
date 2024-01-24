@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [AWS Academy Machine Learning Module - Models, Data, Infrastructure](https://www.youtube.com/watch?v=9qzZ2Bcdrhw)
+- [Importing Python in Rust with pyo3](https://www.youtube.com/watch?v=7Swu5X1HiNk)
 - [Generative AI Race to the Bottom - Game Theory and Suboptimal Outcomes](https://www.youtube.com/watch?v=C_00DRy7Fsk)
 - [Comparing Big Data Processing: Hadoop, Spark, EMR, and Hudi](https://www.youtube.com/watch?v=Cwi24Rx_ysU)
 - [Comparing Big Data Processing: Hadoop, Spark, EMR, and Hudi](https://www.youtube.com/watch?v=8qAsIHM11uQ)
 - [Key Features of pyo3 for Seamless Rust Python Development](https://www.youtube.com/watch?v=vqvazcpCWhY)
 - [Securing Data Storage in Modern Architectures](https://www.youtube.com/watch?v=q8dyipK7_F0)
-- [Securing Data Storage in Modern Architectures](https://www.youtube.com/watch?v=RFRQywIMGkI)
-- [Building a Rust Python CLI with pyo3 and Python Fire](https://www.youtube.com/watch?v=ShYJ8a3vmeY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

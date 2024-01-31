@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [🤝 Mix Python and Rust for Production CLIs](https://www.youtube.com/watch?v=GBZoWervz3s)
 - [Perfect Competition in AI - The Race to Zero Profits](https://www.youtube.com/watch?v=CPmaBlMcQ7o)
 - [🤝 Python, Rust, MLOps, and Ethics - A Balanced Perspective-PyCon-Dubai-2023](https://www.youtube.com/watch?v=wD3uUPPabl4)
 - [📊 Choosing the Best Data Analytics and Visualization Tools on AWS](https://www.youtube.com/watch?v=_taO-bShjEo)
 - [📊 Choosing the Best Data Analytics and Visualization Tools on AWS](https://www.youtube.com/watch?v=Bqerhuis5DQ)
 - [🤝 Python, Rust, MLOps, and Ethics - A Balanced Perspective PyCon Dubai](https://www.youtube.com/watch?v=NqgMM6fRNSs)
 - [🐍 Import Python in Rust - Leverage Existing Code](https://www.youtube.com/watch?v=-Jm-pNVQXCA)
-- [AWS Academy Machine Learning Module - Models, Data, Infrastructure](https://www.youtube.com/watch?v=9qzZ2Bcdrhw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

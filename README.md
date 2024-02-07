@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [🤖 Automate Data Pipelines with Step Functions-AWS Data Engineering-Part 10](https://www.youtube.com/watch?v=2xdKTxgIb60)
+- [1 14 Embedded Rust CLI test](https://www.youtube.com/watch?v=CGPyopIHBIE)
 - [🤖 Automate Data Pipelines with Step Functions-AWS Data Engineering-Part 10](https://www.youtube.com/watch?v=MiZj4YOSlNk)
 - [Who Pays the Price? Negative Externalities of AI Systems](https://www.youtube.com/watch?v=UzQza4pFQZw)
 - [🤝 Build Production CLIs with Rust 💪 and Python 🐍](https://www.youtube.com/watch?v=8rRLXIJOxZ4)
 - [📊 Choosing the Best Data Analytics and Visualization Tools on AWS](https://www.youtube.com/watch?v=Bqerhuis5DQ)
 - [🤝 Mix Python and Rust for Production CLIs](https://www.youtube.com/watch?v=GBZoWervz3s)
-- [Perfect Competition in AI - The Race to Zero Profits](https://www.youtube.com/watch?v=CPmaBlMcQ7o)
-- [🤝 Python, Rust, MLOps, and Ethics - A Balanced Perspective-PyCon-Dubai-2023](https://www.youtube.com/watch?v=wD3uUPPabl4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Perpetuating Harm - How AI Can Reinforce and Spread Bias](https://www.youtube.com/watch?v=CGh7cWV9lN8)
 - [🚀 Blast Off with Ruff: The Speedy Python Linter](https://www.youtube.com/watch?v=e316tBX1-FU)
 - [🤝 Integrate Rust and Python for Powerful Programs](https://www.youtube.com/watch?v=ZsstFDuXV5o)
 - [Regulatory Entrepreneurship and AI - Changing Laws Through Market Domination](https://www.youtube.com/watch?v=ZgxBcnPgTOw)
 - [🚀 Accelerate Python with High-Performance Rust Tools](https://www.youtube.com/watch?v=vghhQOZOdWA)
 - [🤖 Automate Data Pipelines with Step Functions-AWS Data Engineering-Part 10](https://www.youtube.com/watch?v=2xdKTxgIb60)
 - [Using Unit Tests to Ensure Robust Business Logic with Rust](https://www.youtube.com/watch?v=CGPyopIHBIE)
-- [🤖 Automate Data Pipelines with Step Functions-AWS Data Engineering-Part 10](https://www.youtube.com/watch?v=MiZj4YOSlNk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

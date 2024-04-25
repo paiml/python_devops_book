@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Operationalizing LLMs Responsibly](https://www.youtube.com/watch?v=k8yhLbCNR_8)
+- [🦀 Rust + 🤖 LLMs: 🚀 Supercharge MLOps & AI Ethics](https://www.youtube.com/watch?v=WMelO2wkA5g)
+- [Software Grows like Trees, Not Playgrounds](https://www.youtube.com/watch?v=K4l7Gc2gD5U)
 - [Five Whys Fix Failures](https://www.youtube.com/watch?v=SGAlVQ5vN6g)
 - [🚀 Phi: Tiny Language Model Outperforms Giants 🧠💪](https://www.youtube.com/watch?v=5j_8dHwnp38)
 - [The Pitfalls of Rigid Agile](https://www.youtube.com/watch?v=F019FzxBntY)
 - [🦾 Supercharge Your Organization with AI - 4 Key Areas to Focus On](https://www.youtube.com/watch?v=QkD_X0st4iY)
-- [🚀 Skyrocket Your Productivity with These 6 Game-Changing Techniques](https://www.youtube.com/watch?v=Yy8CLFYXoYE)
-- [🤖 Verify Rust Code with Cargo Test](https://www.youtube.com/watch?v=GGtDyhq4UGk)
-- [🤖 Handle Python Exceptions in Rust Code](https://www.youtube.com/watch?v=GgaEkkW9ero)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

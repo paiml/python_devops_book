@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [AWS Well-Architected Framework: Designing Reliable and Efficient Cloud Solutions](https://www.youtube.com/watch?v=S3b6y4rN-Co)
 - [AWS Cloud Security: Shared Responsibility and Best Practices](https://www.youtube.com/watch?v=lYSLCOLW65E)
 - [AWS Elastic Services: Scaling and Load Balancing in the Cloud](https://www.youtube.com/watch?v=pO9aS05QDMo)
 - [AWS Database Services: Managed Solutions for Diverse Needs](https://www.youtube.com/watch?v=PQ4WBo8mCKw)
 - [AI Amplifies, Agile Delivers: Prioritizing Fundamentals in Tech Adoption](https://www.youtube.com/watch?v=5ubCQIfX-Lw)
 - [AWS Virtual Private Cloud (VPC) and CloudFront](https://www.youtube.com/watch?v=MjOeErbjlVM)
 - [AWS Storage Services: EBS, S3, EFS, and Glacier](https://www.youtube.com/watch?v=7X7F7f60ukU)
-- [Small Models, Big Potential: The Edge Computing Revolution](https://www.youtube.com/watch?v=EWDdByjvViw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

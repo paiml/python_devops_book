@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Leaving Apple Ecosystem in 2024 Livestream & Q/A](https://www.youtube.com/watch?v=BfErbd9KDaM)
+- [Leaving Apple Ecosystem in 2024 Livestream & Q/A Post WWDC](https://www.youtube.com/watch?v=_FIGKfJNwcE)
+- [Pragmatic AI Labs Origin Story](https://www.youtube.com/watch?v=gK653t8TUk4)
+- [The Pragmatic AI Labs Alternative University](https://www.youtube.com/watch?v=neRWWyq3l7s)
+- [Title: Cloud Computing Fundamentals: Models, Services, and AWS Overview](https://www.youtube.com/watch?v=b0O678VkS6c)
 - [AWS Billing and Support: Managing Costs and Leveraging Expertise](https://www.youtube.com/watch?v=MCnXYvbda4M)
 - [AWS Well-Architected Framework: Designing Reliable and Efficient Cloud Solutions](https://www.youtube.com/watch?v=S3b6y4rN-Co)
-- [AWS Cloud Security: Shared Responsibility and Best Practices](https://www.youtube.com/watch?v=lYSLCOLW65E)
-- [AWS Elastic Services: Scaling and Load Balancing in the Cloud](https://www.youtube.com/watch?v=pO9aS05QDMo)
-- [AWS Database Services: Managed Solutions for Diverse Needs](https://www.youtube.com/watch?v=PQ4WBo8mCKw)
-- [AI Amplifies, Agile Delivers: Prioritizing Fundamentals in Tech Adoption](https://www.youtube.com/watch?v=5ubCQIfX-Lw)
-- [AWS Virtual Private Cloud (VPC) and CloudFront](https://www.youtube.com/watch?v=MjOeErbjlVM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

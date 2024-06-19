@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Pet vs Cattle - Antipatterns](https://www.youtube.com/watch?v=kdPgWLGtB-M)
+- [Cattle, Not Pets: The Smartphone Trap](https://www.youtube.com/watch?v=nsYZuDBBqw0)
 - [Cuckoo's Egg Dilemma - Creator vs Consumer](https://www.youtube.com/watch?v=UaB4K6idA7A)
 - [Cuckoo Egg Dilemma:  Creator vs Consumer](https://www.youtube.com/watch?v=0CfK5G05_T8)
 - [Why You Need A Repairable and Upgradeable Linux Laptop](https://www.youtube.com/watch?v=fzDkPzRPMZM)
 - [Why you need a repairable and upgradeable Linux laptop](https://www.youtube.com/watch?v=Y1tV_mxwl-g)
 - [Launching World's Most Comprehensive Cloud Computing Program](https://www.youtube.com/watch?v=cYFLeKASvg8)
-- [Launching World's Most Comprehensive Cloud Computing Program](https://www.youtube.com/watch?v=7TR94Pe6Q5U)
-- [Launching DS500 - Challenges and Opportunities in Life Long Learning](https://www.youtube.com/watch?v=EcVjZ6Eig6M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -1,3 +1,7 @@
+* [✨Pragmatic AI Labs builds courses on edX](https://insight.paiml.com/d69)
+* [ 💬 Join our Discord community](https://discord.gg/ZrjWxKay)
+
+
 # Python For DevOps: Learn Ruthlessly Effective Automation
 #### Publisher:  [O'Reilly Media](http://shop.oreilly.com/product/0636920274902.do)
 #### Release Date:  December 31st, 2019
@@ -119,3 +123,6 @@ Updates on new material post book release.
 ### Grig Gheorghiu
 
 * [Grig Gheorghiu](https://www.linkedin.com/in/ggheorghiu/)
+
+* [✨Pragmatic AI Labs builds courses on edX](https://insight.paiml.com/d69)
+* [ 💬 Join our Discord community](https://discord.gg/ZrjWxKay)

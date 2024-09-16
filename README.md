@@ -113,13 +113,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Digital Rights of Humans in the Age of AI](https://www.youtube.com/watch?v=3jCbkAkDRkA)
 - [Live Stream: The Rise of Linux Desktop for Professionals](https://www.youtube.com/watch?v=-PC6mjEvM9g)
 - [The Rise of Linux Desktop for Professionals](https://www.youtube.com/watch?v=8z6wMkKGalw)
 - [AWS Global Infrastructure: Regions, Availability Zones, and Edge Locations](https://www.youtube.com/watch?v=qAaSS8ySq3U)
 - [Pet vs Cattle - Antipatterns](https://www.youtube.com/watch?v=kdPgWLGtB-M)
 - [Cattle, Not Pets: The Smartphone Trap](https://www.youtube.com/watch?v=nsYZuDBBqw0)
 - [Cuckoo's Egg Dilemma - Creator vs Consumer](https://www.youtube.com/watch?v=UaB4K6idA7A)
-- [Cuckoo Egg Dilemma:  Creator vs Consumer](https://www.youtube.com/watch?v=0CfK5G05_T8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

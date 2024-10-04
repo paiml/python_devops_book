@@ -113,13 +113,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is Function as a Service?](https://www.youtube.com/watch?v=yDtPb1Ssvbk)
+- [Build a cup vs wash a cup: Rust vs Python](https://www.youtube.com/watch?v=gI30dUEpz94)
+- [What is AWS Lambda?](https://www.youtube.com/watch?v=yY3qe-fh2lI)
 - [Broken Economic Models in Tech That Hurt Humans At Scale](https://www.youtube.com/watch?v=q_HwVA_p5fY)
 - [Broken Economic Models in Tech That Hurt Humans at Scale](https://www.youtube.com/watch?v=-QOFsFVdmT0)
 - [Human Rights From French Revolution to Digital Age](https://www.youtube.com/watch?v=d1PP1nIKZ8Y)
 - [Human Rights: From French Revolution to Digital Age](https://www.youtube.com/watch?v=P2cWrkmeQus)
-- [Spotting and Debunking Tech Propaganda](https://www.youtube.com/watch?v=Rp_U7evzsQ0)
-- [Debunking Tech Propaganda](https://www.youtube.com/watch?v=TXdhbyqXUy0)
-- [Digital Rights of Humans in the Age of AI](https://www.youtube.com/watch?v=3jCbkAkDRkA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -113,13 +113,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Installing and Using Cargo Lambda Overview](https://www.youtube.com/watch?v=2_IRlCy2vAA)
 - [What is Cargo Lambda?](https://www.youtube.com/watch?v=JPiWm9rBXug)
 - [What is Function as a Service?](https://www.youtube.com/watch?v=yDtPb1Ssvbk)
 - [Build a cup vs wash a cup: Rust vs Python](https://www.youtube.com/watch?v=gI30dUEpz94)
 - [What is AWS Lambda?](https://www.youtube.com/watch?v=yY3qe-fh2lI)
 - [Broken Economic Models in Tech That Hurt Humans At Scale](https://www.youtube.com/watch?v=q_HwVA_p5fY)
 - [Broken Economic Models in Tech That Hurt Humans at Scale](https://www.youtube.com/watch?v=-QOFsFVdmT0)
-- [Human Rights From French Revolution to Digital Age](https://www.youtube.com/watch?v=d1PP1nIKZ8Y)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

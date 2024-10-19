@@ -113,13 +113,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [AI Generated Podcast-The French Revolution 2.0? -  Navigating Digital Rights in the Age of AI](https://www.youtube.com/watch?v=Ozs7TPppT9k)
+- [AI-Assisted via Notebook LLM:  Episode Summary and Podcast Notes: Serverless Data Engineering wit...](https://www.youtube.com/watch?v=_G6T_a9HZlI)
 - [Installing and Using Cargo Lambda Overview](https://www.youtube.com/watch?v=2_IRlCy2vAA)
 - [What is Cargo Lambda?](https://www.youtube.com/watch?v=JPiWm9rBXug)
 - [What is Function as a Service?](https://www.youtube.com/watch?v=yDtPb1Ssvbk)
 - [Build a cup vs wash a cup: Rust vs Python](https://www.youtube.com/watch?v=gI30dUEpz94)
 - [What is AWS Lambda?](https://www.youtube.com/watch?v=yY3qe-fh2lI)
-- [Broken Economic Models in Tech That Hurt Humans At Scale](https://www.youtube.com/watch?v=q_HwVA_p5fY)
-- [Broken Economic Models in Tech That Hurt Humans at Scale](https://www.youtube.com/watch?v=-QOFsFVdmT0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -113,13 +113,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Código Limpio en Python: La Clave para un Desarrollo de Software Exitoso](https://www.youtube.com/watch?v=Kj6rg18O-PA)
-- [The Little Data Thief Who Could: Chapter Ten (The End)-Atherton Mutant Lizard Battle Royale](https://www.youtube.com/watch?v=hzbZuSTGWvM)
-- [The Little Data Thief Who Could: Chapter Three-Mud Wrestling in Kauai](https://www.youtube.com/watch?v=QHpcWuWCQiI)
-- [Little Data Thief Who Could: Episode Two-Honey Pot](https://www.youtube.com/watch?v=6ZFeXKZr0IA)
-- [Silicon Valley Collapse, a Science Fiction Short Story by Noah Gift](https://www.youtube.com/watch?v=KzfFVPBsay8)
-- [AI Generated Podcast-The French Revolution 2.0? -  Navigating Digital Rights in the Age of AI](https://www.youtube.com/watch?v=Ozs7TPppT9k)
-- [AI-Assisted via Notebook LLM:  Episode Summary and Podcast Notes: Serverless Data Engineering wit...](https://www.youtube.com/watch?v=_G6T_a9HZlI)
+- [DevOps: من تويوتا إلى السحابة](https://www.youtube.com/watch?v=sJw3o8owdIg)
+- [DevOps演进：从丰田到云计算](https://www.youtube.com/watch?v=DI7wLMSlU3E)
+- [Evolución DevOps: De Toyota a la Nube](https://www.youtube.com/watch?v=54p5vov7Anw)
+- [DevOps Evolution: From Toyota to the Cloud](https://www.youtube.com/watch?v=DGXuTKu5IYA)
+- [What is Amazon Bedrock?](https://www.youtube.com/watch?v=TbwtTj7C5Qk)
+- [Writing Clean Testable Code](https://www.youtube.com/watch?v=VFWkCB3kadg)
+- [The Little Data Thief Who Could: Chapter Nine-Bay Area Billionairism Manifesto](https://www.youtube.com/watch?v=kh4t375s8pI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

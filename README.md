@@ -113,13 +113,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Part 2 Platform update 12/26/2024](https://www.youtube.com/watch?v=HVW3CULAh7k)
+- [Pragmatic AI Labs Platform Updates 12/26/2024](https://www.youtube.com/watch?v=GPqC4fPQrvE)
+- [Platform update Pragmatic AI Labs 12 26 2024](https://www.youtube.com/watch?v=_N6TakteJB8)
 - [Introducing the Pragmatic AI Labs Platform](https://www.youtube.com/watch?v=6dAzejT-8Ow)
 - [Introduction the Pragmatic AI Labs Platform](https://www.youtube.com/watch?v=ebaSpq4Us2A)
 - [DevOps: من تويوتا إلى السحابة](https://www.youtube.com/watch?v=sJw3o8owdIg)
 - [DevOps演进：从丰田到云计算](https://www.youtube.com/watch?v=DI7wLMSlU3E)
-- [Evolución DevOps: De Toyota a la Nube](https://www.youtube.com/watch?v=54p5vov7Anw)
-- [DevOps Evolution: From Toyota to the Cloud](https://www.youtube.com/watch?v=DGXuTKu5IYA)
-- [What is Amazon Bedrock?](https://www.youtube.com/watch?v=TbwtTj7C5Qk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

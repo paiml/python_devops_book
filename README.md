@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Will Commercial Closed Source LLM Die to SGI and Solaris Unix?](https://www.youtube.com/watch?v=qpYcJlix3L0)
+- [Using DeepSeek-R1 with Rust + Ollama/Bedrock Proxy](https://www.youtube.com/watch?v=sS8prI0zpwo)
+- [OpenAI Red Flags Common to FTX, Theranos, Enron and WeWork](https://www.youtube.com/watch?v=MhPIpIiPyL0)
+- [DeepSeek exposes Americas Monopoly and Oligarchy Problem](https://www.youtube.com/watch?v=GiFqz5F-a5A)
 - [dual-model-deepseek-coding-workflow](https://www.youtube.com/watch?v=NfQkJpF7J_A)
 - [Combating DeepSeek FUD with Ollama](https://www.youtube.com/watch?v=p7gOngJPnK0)
 - [Accelerating GenAI Profit to Zero](https://www.youtube.com/watch?v=XIWcV1J77MU)
-- [YAML Inputs to LLMs](https://www.youtube.com/watch?v=1m2G0MaBInA)
-- [Deep Seek and LLM Profit to Zero](https://www.youtube.com/watch?v=I3wxLSSjQNI)
-- [Context Driven Development](https://www.youtube.com/watch?v=cNHoSQ3aslI)
-- [Thoughts on Makefiles](https://www.youtube.com/watch?v=d4MmRSE_EIU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [PREVIEW-Rust GUI Programming](https://www.youtube.com/watch?v=6QWX83tykCY)
+- [YES, Download DeepSeek-R1 TODAY and Tell Your Neighbor To Do It Too!](https://www.youtube.com/watch?v=5E_9AfAJ9Hs)
 - [Generating Sequential Prime Numbers with Rust Cargo Lambda](https://www.youtube.com/watch?v=p5bcFcXF0zc)
 - [NVidia Short Risk:  GPU Alternative in China](https://www.youtube.com/watch?v=Po9JOYQJruk)
 - [DeepSeek Is Not A Sputnik Moment It Is Classic Open Source](https://www.youtube.com/watch?v=AbiEueaxj14)
 - [Will Commercial Closed Source LLM Die to SGI and Solaris Unix?](https://www.youtube.com/watch?v=qpYcJlix3L0)
 - [Using DeepSeek-R1 with Rust + Ollama/Bedrock Proxy](https://www.youtube.com/watch?v=sS8prI0zpwo)
-- [OpenAI Red Flags Common to FTX, Theranos, Enron and WeWork](https://www.youtube.com/watch?v=MhPIpIiPyL0)
-- [DeepSeek exposes Americas Monopoly and Oligarchy Problem](https://www.youtube.com/watch?v=GiFqz5F-a5A)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

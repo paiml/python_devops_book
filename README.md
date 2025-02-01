@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [UBI for OpenAI?](https://www.youtube.com/watch?v=6iSz9CodPmc)
+- [Rust AWS Bedrock Serverless AI Engineering Challenge](https://www.youtube.com/watch?v=zZ2QVazF0Rk)
+- [Cargo Lambda Rust Serverless Challenge](https://www.youtube.com/watch?v=LD4N2LjZpV4)
+- [Why DeepSeek Culture Beats American Tech Culture](https://www.youtube.com/watch?v=OHV_abH_kzo)
 - [PREVIEW-Rust GUI Programming](https://www.youtube.com/watch?v=6QWX83tykCY)
 - [YES, Download DeepSeek-R1 TODAY and Tell Your Neighbor To Do It Too!](https://www.youtube.com/watch?v=5E_9AfAJ9Hs)
 - [Generating Sequential Prime Numbers with Rust Cargo Lambda](https://www.youtube.com/watch?v=p5bcFcXF0zc)
-- [NVidia Short Risk:  GPU Alternative in China](https://www.youtube.com/watch?v=Po9JOYQJruk)
-- [DeepSeek Is Not A Sputnik Moment It Is Classic Open Source](https://www.youtube.com/watch?v=AbiEueaxj14)
-- [Will Commercial Closed Source LLM Die to SGI and Solaris Unix?](https://www.youtube.com/watch?v=qpYcJlix3L0)
-- [Using DeepSeek-R1 with Rust + Ollama/Bedrock Proxy](https://www.youtube.com/watch?v=sS8prI0zpwo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

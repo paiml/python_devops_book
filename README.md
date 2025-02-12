@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Live Demo of Rust Interactive Labs on Pragmatic AI Labs](https://www.youtube.com/watch?v=JyRpzyKhZc0)
+- [Gaslighting Your Way to Responsible AI](https://www.youtube.com/watch?v=vjDDYJ6X3oI)
+- [Rust Interactive Labs Launch](https://www.youtube.com/watch?v=x0mJy13k-yQ)
+- [Rust Interactive Labs on Pragmatic AI Labs](https://www.youtube.com/watch?v=gIeuIiVCMA4)
 - [Musk 20-Year Old Goons Ransacking EU Capitols in 2030](https://www.youtube.com/watch?v=g29GJ4jOxvY)
 - [How Can EU Stop Ransacking of Democracy from Big Tech and Tech Oligarchs](https://www.youtube.com/watch?v=YhF6L4yDpMo)
 - [UBI for OpenAI?](https://www.youtube.com/watch?v=6iSz9CodPmc)
-- [Rust AWS Bedrock Serverless AI Engineering Challenge](https://www.youtube.com/watch?v=zZ2QVazF0Rk)
-- [Cargo Lambda Rust Serverless Challenge](https://www.youtube.com/watch?v=LD4N2LjZpV4)
-- [Why DeepSeek Culture Beats American Tech Culture](https://www.youtube.com/watch?v=OHV_abH_kzo)
-- [PREVIEW-Rust GUI Programming](https://www.youtube.com/watch?v=6QWX83tykCY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

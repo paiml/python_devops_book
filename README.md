@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [False Promise of Lack of Regulation for Europe](https://www.youtube.com/watch?v=4pNzXagr_HA)
 - [Live Demo of Rust Interactive Labs on Pragmatic AI Labs](https://www.youtube.com/watch?v=Zj2WedVfLJI)
 - [Live Demo of Rust Interactive Labs on Pragmatic AI Labs](https://www.youtube.com/watch?v=JyRpzyKhZc0)
 - [Gaslighting Your Way to Responsible AI](https://www.youtube.com/watch?v=vjDDYJ6X3oI)
 - [Rust Interactive Labs Launch](https://www.youtube.com/watch?v=x0mJy13k-yQ)
 - [Rust Interactive Labs on Pragmatic AI Labs](https://www.youtube.com/watch?v=gIeuIiVCMA4)
 - [Musk 20-Year Old Goons Ransacking EU Capitols in 2030](https://www.youtube.com/watch?v=g29GJ4jOxvY)
-- [How Can EU Stop Ransacking of Democracy from Big Tech and Tech Oligarchs](https://www.youtube.com/watch?v=YhF6L4yDpMo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Building a Simon Says Game GUI in Rust](https://www.youtube.com/watch?v=W0FrDnby2X0)
+- [Memory Allocation Strategies with Zig](https://www.youtube.com/watch?v=86Kez-icorI)
+- [Building a Command-Line Tool with Zig](https://www.youtube.com/watch?v=1jedNdCOLfs)
+- [AI Propaganda](https://www.youtube.com/watch?v=csw6-tpf_zQ)
 - [Looking at Zig Optimization Matrix](https://www.youtube.com/watch?v=xlTn3QCQ2g8)
 - [Wage Slavery in America](https://www.youtube.com/watch?v=BdyyK-jaybw)
 - [Build a Rust Calculator GUI on Kubuntu](https://www.youtube.com/watch?v=4ofs9kSiKHY)
-- [Programming Language Evolution: Data-Driven Analysis of Future Trends](https://www.youtube.com/watch?v=5R4oeijkG9g)
-- [Why Corporate America and VC Funded Startups are Scams](https://www.youtube.com/watch?v=bVEUOV1OEtM)
-- [Why I Like Rust Better Than Python](https://www.youtube.com/watch?v=jtv5sNoSc-M)
-- [UN Digital Rights Violations: Big Tech's Ongoing Global Impact](https://www.youtube.com/watch?v=t5Fl0bBW7Cs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

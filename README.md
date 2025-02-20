@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Learn To Build a Rust Password Generator GUI in GTK](https://www.youtube.com/watch?v=XOJWOpn33zY)
+- [Websockets](https://www.youtube.com/watch?v=EfM0zfqUAD8)
+- [Build a Real-time Rust Websocket Server for Data Analytics](https://www.youtube.com/watch?v=uQbhuT6LKdA)
 - [Building a Simon Says Game GUI in Rust](https://www.youtube.com/watch?v=W0FrDnby2X0)
+- [Corporate America:  A life of Quiet Desperation and How To Resist and Escape](https://www.youtube.com/watch?v=dfCDzTw6y6c)
 - [Memory Allocation Strategies with Zig](https://www.youtube.com/watch?v=86Kez-icorI)
 - [Building a Command-Line Tool with Zig](https://www.youtube.com/watch?v=1jedNdCOLfs)
-- [AI Propaganda](https://www.youtube.com/watch?v=csw6-tpf_zQ)
-- [Looking at Zig Optimization Matrix](https://www.youtube.com/watch?v=xlTn3QCQ2g8)
-- [Wage Slavery in America](https://www.youtube.com/watch?v=BdyyK-jaybw)
-- [Build a Rust Calculator GUI on Kubuntu](https://www.youtube.com/watch?v=4ofs9kSiKHY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

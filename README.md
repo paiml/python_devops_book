@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [TCP vs UDP](https://www.youtube.com/watch?v=TnGmkn_xOW8)
+- [Logging and Tracing Are Data Science For Production Software](https://www.youtube.com/watch?v=bTsMyYBnEic)
 - [The Rise of Expertise Inequality in Age of GenAI](https://www.youtube.com/watch?v=03vgjbiT_U0)
 - [Configure Kate for Rust](https://www.youtube.com/watch?v=LRYmZ8pH26k)
 - [Rise of the EU Cloud and Open Source Cloud](https://www.youtube.com/watch?v=ClvjCSmV-js)
 - [European Digital Sovereignty: Breaking Tech Dependency](https://www.youtube.com/watch?v=Ckrh1aJjeVY)
 - [What is Web Assembly?](https://www.youtube.com/watch?v=SonczQ-6zYY)
-- [60,000 Times Slower Python](https://www.youtube.com/watch?v=6L9dAoJaotY)
-- [Technical Architecture for Mobile Digital Independence](https://www.youtube.com/watch?v=FG_8aW_dAzg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

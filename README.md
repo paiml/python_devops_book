@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Silicon Valley's Anarchist Alternative: How Open Source Beats Monopolies and Fascism](https://www.youtube.com/watch?v=oVCoXaOnXqY)
+- [Are AI Coders Statistical Twins of Rogue Developers?](https://www.youtube.com/watch?v=lVHKS4LYMkA)
+- [The Automation Myth: Why Developer Jobs Aren't Being Automated](https://www.youtube.com/watch?v=i67FjPqqwS4)
+- [Maslows Hierarchy of Logging Needs](https://www.youtube.com/watch?v=ESYboMVNcIY)
 - [TCP vs UDP](https://www.youtube.com/watch?v=TnGmkn_xOW8)
 - [Logging and Tracing Are Data Science For Production Software](https://www.youtube.com/watch?v=bTsMyYBnEic)
 - [The Rise of Expertise Inequality in Age of GenAI](https://www.youtube.com/watch?v=03vgjbiT_U0)
-- [Configure Kate for Rust](https://www.youtube.com/watch?v=LRYmZ8pH26k)
-- [Rise of the EU Cloud and Open Source Cloud](https://www.youtube.com/watch?v=ClvjCSmV-js)
-- [European Digital Sovereignty: Breaking Tech Dependency](https://www.youtube.com/watch?v=Ckrh1aJjeVY)
-- [What is Web Assembly?](https://www.youtube.com/watch?v=SonczQ-6zYY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [xtermjs and Browser Terminals](https://www.youtube.com/watch?v=AgPvWA1j-F0)
+- [Preview-Websockets Foundations Course - Hello World Websockets](https://www.youtube.com/watch?v=Whcuow_JZUM)
 - [Silicon Valley's Anarchist Alternative: How Open Source Beats Monopolies and Fascism](https://www.youtube.com/watch?v=oVCoXaOnXqY)
 - [Are AI Coders Statistical Twins of Rogue Developers?](https://www.youtube.com/watch?v=lVHKS4LYMkA)
 - [The Automation Myth: Why Developer Jobs Aren't Being Automated](https://www.youtube.com/watch?v=i67FjPqqwS4)
 - [Maslows Hierarchy of Logging Needs](https://www.youtube.com/watch?v=ESYboMVNcIY)
 - [TCP vs UDP](https://www.youtube.com/watch?v=TnGmkn_xOW8)
-- [Logging and Tracing Are Data Science For Production Software](https://www.youtube.com/watch?v=bTsMyYBnEic)
-- [The Rise of Expertise Inequality in Age of GenAI](https://www.youtube.com/watch?v=03vgjbiT_U0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

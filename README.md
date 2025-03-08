@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Assembly Language & WebAssembly: Technical Analysis](https://www.youtube.com/watch?v=gTkUaDe4SCQ)
+- [Strace](https://www.youtube.com/watch?v=YuZDL2yEtFI)
+- [Free Membership to Platform for Federal Workers in Transition](https://www.youtube.com/watch?v=yR9mduB1wGs)
 - [Ethical Issues Vector Databases](https://www.youtube.com/watch?v=bW8WxM_Momk)
 - [Vector Databases](https://www.youtube.com/watch?v=z4Txb61Q-OE)
 - [WebSockets with Rust COURSE PREVIEW- Complete Xterm.js walkthrough](https://www.youtube.com/watch?v=gr0dy6a3Axc)
 - [xtermjs and Browser Terminals](https://www.youtube.com/watch?v=AgPvWA1j-F0)
-- [Preview-Websockets Foundations Course - Hello World Websockets](https://www.youtube.com/watch?v=Whcuow_JZUM)
-- [Silicon Valley's Anarchist Alternative: How Open Source Beats Monopolies and Fascism](https://www.youtube.com/watch?v=oVCoXaOnXqY)
-- [Are AI Coders Statistical Twins of Rogue Developers?](https://www.youtube.com/watch?v=lVHKS4LYMkA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

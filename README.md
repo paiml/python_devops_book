@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Greedy Random Start Algorithms: From TSP to Daily Life](https://www.youtube.com/watch?v=_iSLxxYMcC8)
+- [Hidden Features of Rust Cargo](https://www.youtube.com/watch?v=Ycv-J4dyXyg)
 - [Using At With Linux](https://www.youtube.com/watch?v=J_EaBun3XcE)
 - [Assembly Language & WebAssembly: Technical Analysis](https://www.youtube.com/watch?v=gTkUaDe4SCQ)
 - [Strace](https://www.youtube.com/watch?v=YuZDL2yEtFI)
 - [Free Membership to Platform for Federal Workers in Transition](https://www.youtube.com/watch?v=yR9mduB1wGs)
 - [Ethical Issues Vector Databases](https://www.youtube.com/watch?v=bW8WxM_Momk)
-- [Vector Databases](https://www.youtube.com/watch?v=z4Txb61Q-OE)
-- [WebSockets with Rust COURSE PREVIEW- Complete Xterm.js walkthrough](https://www.youtube.com/watch?v=gr0dy6a3Axc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Genai companies will be automated by Open Source before developers](https://www.youtube.com/watch?v=UJvQyW5UDTE)
+- [Debunking Fraudulant Claim Reading Same as Training LLMs](https://www.youtube.com/watch?v=SM9cqOHNFXM)
 - [Pattern Matching Systems like AI Coding: Powerful But Dumb](https://www.youtube.com/watch?v=V35qfw9Z4lQ)
 - [Comparing k-means to vector databases](https://www.youtube.com/watch?v=sEjHQ76SL8c)
 - [K-means basic intuition](https://www.youtube.com/watch?v=Hk4Opw_03Ko)
 - [Greedy Random Start Algorithms: From TSP to Daily Life](https://www.youtube.com/watch?v=_iSLxxYMcC8)
 - [Hidden Features of Rust Cargo](https://www.youtube.com/watch?v=Ycv-J4dyXyg)
-- [Using At With Linux](https://www.youtube.com/watch?v=J_EaBun3XcE)
-- [Assembly Language & WebAssembly: Technical Analysis](https://www.youtube.com/watch?v=gTkUaDe4SCQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

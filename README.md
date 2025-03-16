@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [DeepSeek R2 An Atom Bomb For USA BigTech](https://www.youtube.com/watch?v=OqJ0-sK6sgU)
 - [Build a Rust Decoder Ring](https://www.youtube.com/watch?v=4PJKUFkfOSQ)
 - [Why OpenAI and Anthropic Are So Scared and Calling for Regulation](https://www.youtube.com/watch?v=IuDqjceeolk)
 - [Rust Paradox - Programming is Automated, but Rust is Too Hard?](https://www.youtube.com/watch?v=lICPw05whqU)
 - [Genai companies will be automated by Open Source before developers](https://www.youtube.com/watch?v=UJvQyW5UDTE)
 - [Debunking Fraudulant Claim Reading Same as Training LLMs](https://www.youtube.com/watch?v=SM9cqOHNFXM)
 - [Pattern Matching Systems like AI Coding: Powerful But Dumb](https://www.youtube.com/watch?v=V35qfw9Z4lQ)
-- [Comparing k-means to vector databases](https://www.youtube.com/watch?v=sEjHQ76SL8c)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Pragmatic AI Labs Interactive Labs Next Generation](https://www.youtube.com/watch?v=Sq0S4-B40iY)
+- [Meta and OpenAI LibGen Book Piracy Controversy](https://www.youtube.com/watch?v=05ECrPw8igE)
 - [Rust Projects with Multiple Entry Points Like CLI and Web](https://www.youtube.com/watch?v=xnAqZcvuEA0)
 - [Python Is Vibe Coding 1.0](https://www.youtube.com/watch?v=Ar3q8G-E0y8)
 - [DeepSeek R2 An Atom Bomb For USA BigTech](https://www.youtube.com/watch?v=OqJ0-sK6sgU)
 - [Build a Rust Decoder Ring](https://www.youtube.com/watch?v=4PJKUFkfOSQ)
 - [Why OpenAI and Anthropic Are So Scared and Calling for Regulation](https://www.youtube.com/watch?v=IuDqjceeolk)
-- [Rust Paradox - Programming is Automated, but Rust is Too Hard?](https://www.youtube.com/watch?v=lICPw05whqU)
-- [Genai companies will be automated by Open Source before developers](https://www.youtube.com/watch?v=UJvQyW5UDTE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [No Dummy, AI Isn't Replacing Developer Jobs](https://www.youtube.com/watch?v=ZHEzkGia_sg)
+- [The Narrow Truth: Dismantling IntelligenceTheater in Agent Architecture](https://www.youtube.com/watch?v=MLUU4sGNox0)
+- [The Pirate Bay Hypothesis: Reframing AI's True Nature](https://www.youtube.com/watch?v=sutQgdIOB4U)
 - [Claude Code Review: Pattern Matching, Not Intelligence](https://www.youtube.com/watch?v=CHfVvPWpGoo)
 - [Deno: The Modern TypeScript Runtime Alternative to Python](https://www.youtube.com/watch?v=G_7qfUkBVxY)
 - [Reframing GenAI as Not AI - Generative Search, Auto-Complete and Pattern Matching](https://www.youtube.com/watch?v=o4IEYZG5tZc)
 - [Academic Style Lecture on Concepts Surrounding RAG in Generative AI](https://www.youtube.com/watch?v=-hium90AtDg)
-- [Pragmatic AI Labs Interactive Labs Next Generation](https://www.youtube.com/watch?v=Sq0S4-B40iY)
-- [Meta and OpenAI LibGen Book Piracy Controversy](https://www.youtube.com/watch?v=05ECrPw8igE)
-- [Rust Projects with Multiple Entry Points Like CLI and Web](https://www.youtube.com/watch?v=xnAqZcvuEA0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

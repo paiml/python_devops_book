@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Core Deno Commands](https://www.youtube.com/watch?v=d2pHyH1Ha70)
+- [demo deno](https://www.youtube.com/watch?v=kRRO1lEMdJ4)
 - [Plastic Shamans of AGI](https://www.youtube.com/watch?v=BnhYYAdQGzA)
 - [The Toyota Way: Engineering Discipline in the Era of Dangerous Dilettantes](https://www.youtube.com/watch?v=2xsF2EBIbb4)
 - [DevOps Narrow AI Debunking Flowchart](https://www.youtube.com/watch?v=HzrzbxrAuXY)
 - [No Dummy, AI Isn't Replacing Developer Jobs](https://www.youtube.com/watch?v=ZHEzkGia_sg)
 - [The Narrow Truth: Dismantling IntelligenceTheater in Agent Architecture](https://www.youtube.com/watch?v=MLUU4sGNox0)
-- [The Pirate Bay Hypothesis: Reframing AI's True Nature](https://www.youtube.com/watch?v=sutQgdIOB4U)
-- [Claude Code Review: Pattern Matching, Not Intelligence](https://www.youtube.com/watch?v=CHfVvPWpGoo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

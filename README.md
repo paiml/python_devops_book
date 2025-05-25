@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [DevOps Theory - Key Concepts](https://www.youtube.com/watch?v=uAlHQdXL1gc)
+- [Build a chatbot in Rust](https://www.youtube.com/watch?v=9Qm6SsVD_Tk)
+- [YAML based Prompt Engineering](https://www.youtube.com/watch?v=494f4-4FDAs)
+- [Realtime Websockets with SQLite in Rust](https://www.youtube.com/watch?v=_7Yi8ZxySyU)
 - [Building Linux CLI Binaries with Deno and TypeScript](https://www.youtube.com/watch?v=dRr9hoBv5OA)
 - [Deno Marco Polo CLIs for TypeScript](https://www.youtube.com/watch?v=yBcLSzHCRMo)
 - [Deno One Liners for TypeScript and Node](https://www.youtube.com/watch?v=fRyvo2ZpaOI)
-- [Deno REPL](https://www.youtube.com/watch?v=WnSC_gcEpFs)
-- [Core Deno Commands](https://www.youtube.com/watch?v=d2pHyH1Ha70)
-- [demo deno](https://www.youtube.com/watch?v=kRRO1lEMdJ4)
-- [Plastic Shamans of AGI](https://www.youtube.com/watch?v=BnhYYAdQGzA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

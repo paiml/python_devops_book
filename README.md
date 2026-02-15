@@ -115,13 +115,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Pragmatic AI Labs Sovereign AI stack](https://www.youtube.com/watch?v=ZFWmPBYPyzA)
 - [APR Chat Demo](https://www.youtube.com/watch?v=BEsKT-dcbeE)
 - [Building Live Pong Game with Embedded .APR Models 📱](https://www.youtube.com/watch?v=Nv32meSHuQo)
 - [Building Live Pong Game with Embedded .APR Models](https://www.youtube.com/watch?v=MoQ-kiOm57Q)
 - [ELO Ratings Questions](https://www.youtube.com/watch?v=7hkQH_gdZuw)
 - [The 2X Ceiling: Why 100 AI Agents Can't Outcode Amdahl's Law"](https://www.youtube.com/watch?v=_0WwSvUjYZw)
 - [Rust Fundamentals COURSE PREVIEW - Basic components of RUST code](https://www.youtube.com/watch?v=25AKa3ogpT8)
-- [Applied GitHub Platform COURSE PREVIEW - Continuous Delivery Project Overview](https://www.youtube.com/watch?v=PouBuld9Uvo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman

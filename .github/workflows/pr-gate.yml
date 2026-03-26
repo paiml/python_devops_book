@@ -1,0 +1,11 @@
+# PR Authorization Gate — block PRs from unauthorized contributors
+# Calls reusable workflow from paiml/.github
+name: PR Gate
+
+on:
+  pull_request_target:
+    types: [opened, reopened]
+
+jobs:
+  authorize:
+    uses: paiml/.github/.github/workflows/pr-gate.yml@main

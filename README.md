@@ -1,19 +1,3 @@
-## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineers
-
-### 🔥 Hot Course Offers:
-* 🤖 [Master GenAI Engineering](https://ds500.paiml.com/learn/course/0bbb5/) - Build Production AI Systems
-* 🦀 [Learn Professional Rust](https://ds500.paiml.com/learn/course/g6u1k/) - Industry-Grade Development
-* 📊 [AWS AI & Analytics](https://ds500.paiml.com/learn/course/31si1/) - Scale Your ML in Cloud
-* ⚡ [Production GenAI on AWS](https://ds500.paiml.com/learn/course/ehks1/) - Deploy at Enterprise Scale
-* 🛠️ [Rust DevOps Mastery](https://ds500.paiml.com/learn/course/ex8eu/) - Automate Everything
-
-### 🚀 Level Up Your Career:
-* 💼 [Production ML Program](https://paiml.com) - Complete MLOps & Cloud Mastery
-* 🎯 [Start Learning Now](https://ds500.paiml.com) - Fast-Track Your ML Career
-* 🏢 Trusted by Fortune 500 Teams
-
-Learn end-to-end ML engineering from industry veterans at [PAIML.COM](https://paiml.com)
-
 # Python For DevOps: Learn Ruthlessly Effective Automation
 #### Publisher:  [O'Reilly Media](http://shop.oreilly.com/product/0636920274902.do)
 #### Release Date:  December 31st, 2019
@@ -138,3 +122,11 @@ Updates on new material post book release.
 
 * [✨Pragmatic AI Labs builds courses on edX](https://insight.paiml.com/d69)
 * [ 💬 Join our Discord community](https://discord.gg/ZrjWxKay)
+
+<!-- funnel:start -->
+---
+
+**Learn DevOps and CI/CD for Python:** [GitHub: From Zero to Pull Request (Coursera)](https://www.coursera.org/learn/github-zero?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=python_devops_book) · [AI Debugging and Test-Driven Fixes (Coursera)](https://www.coursera.org/learn/ai-debugging?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=python_devops_book) · [Data Engineering with Python and Linux program (edX)](https://www.edx.org/certificates/professional-certificate/ai-data-engineering-with-python-and-linux?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=python_devops_book)
+
+More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs.
+<!-- funnel:end -->

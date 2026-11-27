@@ -128,5 +128,5 @@ Updates on new material post book release.
 
 **Learn DevOps and CI/CD for Python:** [GitHub: From Zero to Pull Request (Coursera)](https://www.coursera.org/learn/github-zero?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=python_devops_book) · [AI Debugging and Test-Driven Fixes (Coursera)](https://www.coursera.org/learn/ai-debugging?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=python_devops_book) · [Data Engineering with Python and Linux program (edX)](https://www.edx.org/certificates/professional-certificate/ai-data-engineering-with-python-and-linux?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=python_devops_book)
 
-More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs.
+More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs: [All 20 specializations](https://lnkd.in/e9x5JVuN) · [Get the newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=python_devops_book)
 <!-- funnel:end -->
